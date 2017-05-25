@@ -2,6 +2,8 @@
 
 Reference code for the paper [What Does the Person Feel? Learning to Infer Applied Forces During Robot-Assisted Dressing](http://pwp.gatech.edu/hrl/wp-content/uploads/sites/231/2017/03/erickson2017-learning-forces.pdf).
 
+![Force maps](physx_simulation/pysim/figures/snapshot.jpg "Force maps in robot-assisted dressing simulation")  
+
 ### Compiling on Linux?
 ```bash
 ./build_linux.sh
