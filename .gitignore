@@ -50,6 +50,12 @@
 *.hkl
 *.json
 
+# Pretrained models
+!physx_simulation/pysim/models/2016-09-10_18-25-14_18-10-54_ForceTorqueVelocity_rawPressuremap_neoarm/architectureLSTM.json
+!physx_simulation/pysim/models/2016-09-10_18-25-14_18-10-54_ForceTorqueVelocity_rawPressuremap_neoarm/weights_9.h5
+!physx_simulation/pysim/models/2016-09-11_04-41-18_03-49-00_ForceTorqueVelocity_rawPressuremap_neoleg/architectureLSTM.json
+!physx_simulation/pysim/models/2016-09-11_04-41-18_03-49-00_ForceTorqueVelocity_rawPressuremap_neoleg/weights_9.h5
+
 # Plots
 physx_simulation/pysim/*.html
 physx_simulation/pysim/plots/*.html
