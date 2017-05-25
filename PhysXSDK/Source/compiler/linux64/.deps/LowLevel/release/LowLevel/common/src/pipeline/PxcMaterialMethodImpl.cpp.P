@@ -1,0 +1,29 @@
+build/LowLevel_release/LowLevel/common/src/pipeline/PxcMaterialMethodImpl.cpp.o: \
+ ../../LowLevel/common/src/pipeline/PxcMaterialMethodImpl.cpp \
+ ../../../Include/geometry/PxGeometry.h \
+ ../../../Include/common/PxPhysXCommonConfig.h \
+ ../../../Include/foundation/Px.h \
+ ../../../Include/foundation/PxVersionNumber.h \
+ ../../../Include/foundation/PxSimpleTypes.h \
+ ../../../Include/foundation/PxPreprocessor.h \
+ ../../../Include/foundation/PxFlags.h \
+ ../../../Include/foundation/PxMath.h \
+ ../../../Include/foundation/PxIntrinsics.h \
+ ../../../Include/foundation/unix/PxUnixIntrinsics.h \
+ ../../../Include/foundation/PxAssert.h \
+ ../../LowLevel/common/include/pipeline/PxcMaterialMethodImpl.h \
+ ../../Common/src/CmPhysXCommon.h ../../foundation/include/Ps.h
+ ../../LowLevel/common/src/pipeline/PxcMaterialMethodImpl.cpp :
+ ../../../Include/geometry/PxGeometry.h :
+ ../../../Include/common/PxPhysXCommonConfig.h :
+ ../../../Include/foundation/Px.h :
+ ../../../Include/foundation/PxVersionNumber.h :
+ ../../../Include/foundation/PxSimpleTypes.h :
+ ../../../Include/foundation/PxPreprocessor.h :
+ ../../../Include/foundation/PxFlags.h :
+ ../../../Include/foundation/PxMath.h :
+ ../../../Include/foundation/PxIntrinsics.h :
+ ../../../Include/foundation/unix/PxUnixIntrinsics.h :
+ ../../../Include/foundation/PxAssert.h :
+ ../../LowLevel/common/include/pipeline/PxcMaterialMethodImpl.h :
+ ../../Common/src/CmPhysXCommon.h ../../foundation/include/Ps.h :

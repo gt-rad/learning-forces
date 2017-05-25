@@ -1,0 +1,7 @@
+build/glew-MT_release/externals/glew/src/glew.c.o: \
+ ../../../externals/glew/src/glew.c \
+ ../../../externals/glew/include/GL/glew.h \
+ ../../../externals/glew/include/GL/glxew.h
+ ../../../externals/glew/src/glew.c :
+ ../../../externals/glew/include/GL/glew.h :
+ ../../../externals/glew/include/GL/glxew.h :

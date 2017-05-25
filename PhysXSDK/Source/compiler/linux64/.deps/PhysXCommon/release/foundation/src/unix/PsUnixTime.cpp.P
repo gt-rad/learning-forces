@@ -1,0 +1,13 @@
+build/PhysXCommon_release/foundation/src/unix/PsUnixTime.cpp.o: \
+ ../../foundation/src/unix/PsUnixTime.cpp ../../foundation/include/Ps.h \
+ ../../../Include/foundation/Px.h \
+ ../../../Include/foundation/PxVersionNumber.h \
+ ../../../Include/foundation/PxSimpleTypes.h \
+ ../../../Include/foundation/PxPreprocessor.h \
+ ../../foundation/include/PsTime.h ../../foundation/include/Ps.h
+ ../../foundation/src/unix/PsUnixTime.cpp ../../foundation/include/Ps.h :
+ ../../../Include/foundation/Px.h :
+ ../../../Include/foundation/PxVersionNumber.h :
+ ../../../Include/foundation/PxSimpleTypes.h :
+ ../../../Include/foundation/PxPreprocessor.h :
+ ../../foundation/include/PsTime.h ../../foundation/include/Ps.h :

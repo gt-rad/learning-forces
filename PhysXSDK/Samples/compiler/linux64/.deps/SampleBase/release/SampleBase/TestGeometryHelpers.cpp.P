@@ -1,0 +1,107 @@
+build/SampleBase_release/SampleBase/TestGeometryHelpers.cpp.o: \
+ ../../SampleBase/TestGeometryHelpers.cpp \
+ ../../SampleBase/TestGeometryHelpers.h ../../../Include/PxShape.h \
+ ../../../Include/PxPhysXConfig.h \
+ ../../../Include/common/PxPhysXCommonConfig.h \
+ ../../../Include/foundation/Px.h \
+ ../../../Include/foundation/PxVersionNumber.h \
+ ../../../Include/foundation/PxSimpleTypes.h \
+ ../../../Include/foundation/PxPreprocessor.h \
+ ../../../Include/common/PxBase.h \
+ ../../../Include/common/PxSerialFramework.h \
+ ../../../Include/common/PxPhysXCommonConfig.h \
+ ../../../Include/common/PxTypeInfo.h \
+ ../../../Include/foundation/PxFlags.h \
+ ../../../Include/common/PxCollection.h \
+ ../../../Include/geometry/PxGeometry.h \
+ ../../../Include/foundation/PxMath.h \
+ ../../../Include/foundation/PxIntrinsics.h \
+ ../../../Include/foundation/unix/PxUnixIntrinsics.h \
+ ../../../Include/foundation/PxAssert.h \
+ ../../../Include/geometry/PxGeometryHelpers.h \
+ ../../../Include/geometry/PxGeometry.h \
+ ../../../Include/geometry/PxBoxGeometry.h \
+ ../../../Include/geometry/PxGeometry.h \
+ ../../../Include/foundation/PxVec3.h \
+ ../../../Include/geometry/PxSphereGeometry.h \
+ ../../../Include/geometry/PxCapsuleGeometry.h \
+ ../../../Include/geometry/PxPlaneGeometry.h \
+ ../../../Include/foundation/PxPlane.h \
+ ../../../Include/foundation/PxTransform.h \
+ ../../../Include/foundation/PxQuat.h \
+ ../../../Include/geometry/PxConvexMeshGeometry.h \
+ ../../../Include/geometry/PxMeshScale.h \
+ ../../../Include/foundation/PxMat33.h \
+ ../../../Include/geometry/PxTriangleMeshGeometry.h \
+ ../../../Include/common/PxCoreUtilityTypes.h \
+ ../../../Include/geometry/PxHeightFieldGeometry.h \
+ ../../../Include/geometry/PxTriangleMeshGeometry.h \
+ ../../../Include/foundation/PxUnionCast.h \
+ ../../../Include/PxQueryReport.h ../../../Include/foundation/PxVec3.h \
+ ../../../Include/foundation/PxFlags.h \
+ ../../../Include/extensions/PxShapeExt.h \
+ ../../../Include/PxPhysXConfig.h ../../../Include/PxRigidActor.h \
+ ../../../Include/PxActor.h ../../../Include/foundation/PxBounds3.h \
+ ../../../Include/PxClient.h ../../../Include/PxShape.h \
+ ../../../Include/geometry/PxGeometryQuery.h \
+ ../../../Include/PxQueryReport.h ../../SampleBase/Test.h \
+ ../../../Source/foundation/include/Ps.h \
+ ../../../Include/geometry/PxBoxGeometry.h \
+ ../../../Include/geometry/PxSphereGeometry.h \
+ ../../../Include/geometry/PxCapsuleGeometry.h \
+ ../../../Include/geometry/PxPlaneGeometry.h \
+ ../../../Include/geometry/PxConvexMeshGeometry.h \
+ ../../../Include/geometry/PxHeightFieldGeometry.h
+ ../../SampleBase/TestGeometryHelpers.cpp :
+ ../../SampleBase/TestGeometryHelpers.h ../../../Include/PxShape.h :
+ ../../../Include/PxPhysXConfig.h :
+ ../../../Include/common/PxPhysXCommonConfig.h :
+ ../../../Include/foundation/Px.h :
+ ../../../Include/foundation/PxVersionNumber.h :
+ ../../../Include/foundation/PxSimpleTypes.h :
+ ../../../Include/foundation/PxPreprocessor.h :
+ ../../../Include/common/PxBase.h :
+ ../../../Include/common/PxSerialFramework.h :
+ ../../../Include/common/PxPhysXCommonConfig.h :
+ ../../../Include/common/PxTypeInfo.h :
+ ../../../Include/foundation/PxFlags.h :
+ ../../../Include/common/PxCollection.h :
+ ../../../Include/geometry/PxGeometry.h :
+ ../../../Include/foundation/PxMath.h :
+ ../../../Include/foundation/PxIntrinsics.h :
+ ../../../Include/foundation/unix/PxUnixIntrinsics.h :
+ ../../../Include/foundation/PxAssert.h :
+ ../../../Include/geometry/PxGeometryHelpers.h :
+ ../../../Include/geometry/PxGeometry.h :
+ ../../../Include/geometry/PxBoxGeometry.h :
+ ../../../Include/geometry/PxGeometry.h :
+ ../../../Include/foundation/PxVec3.h :
+ ../../../Include/geometry/PxSphereGeometry.h :
+ ../../../Include/geometry/PxCapsuleGeometry.h :
+ ../../../Include/geometry/PxPlaneGeometry.h :
+ ../../../Include/foundation/PxPlane.h :
+ ../../../Include/foundation/PxTransform.h :
+ ../../../Include/foundation/PxQuat.h :
+ ../../../Include/geometry/PxConvexMeshGeometry.h :
+ ../../../Include/geometry/PxMeshScale.h :
+ ../../../Include/foundation/PxMat33.h :
+ ../../../Include/geometry/PxTriangleMeshGeometry.h :
+ ../../../Include/common/PxCoreUtilityTypes.h :
+ ../../../Include/geometry/PxHeightFieldGeometry.h :
+ ../../../Include/geometry/PxTriangleMeshGeometry.h :
+ ../../../Include/foundation/PxUnionCast.h :
+ ../../../Include/PxQueryReport.h ../../../Include/foundation/PxVec3.h :
+ ../../../Include/foundation/PxFlags.h :
+ ../../../Include/extensions/PxShapeExt.h :
+ ../../../Include/PxPhysXConfig.h ../../../Include/PxRigidActor.h :
+ ../../../Include/PxActor.h ../../../Include/foundation/PxBounds3.h :
+ ../../../Include/PxClient.h ../../../Include/PxShape.h :
+ ../../../Include/geometry/PxGeometryQuery.h :
+ ../../../Include/PxQueryReport.h ../../SampleBase/Test.h :
+ ../../../Source/foundation/include/Ps.h :
+ ../../../Include/geometry/PxBoxGeometry.h :
+ ../../../Include/geometry/PxSphereGeometry.h :
+ ../../../Include/geometry/PxCapsuleGeometry.h :
+ ../../../Include/geometry/PxPlaneGeometry.h :
+ ../../../Include/geometry/PxConvexMeshGeometry.h :
+ ../../../Include/geometry/PxHeightFieldGeometry.h :

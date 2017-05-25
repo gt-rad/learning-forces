@@ -1,0 +1,63 @@
+build/PhysXCommon_release/GeomUtils/src/convex/GuCubeIndex.cpp.o: \
+ ../../GeomUtils/src/convex/GuCubeIndex.cpp \
+ ../../GeomUtils/src/convex/GuCubeIndex.h \
+ ../../../Include/foundation/PxVec3.h \
+ ../../../Include/foundation/PxMath.h \
+ ../../../Include/foundation/PxPreprocessor.h \
+ ../../../Include/foundation/PxIntrinsics.h \
+ ../../../Include/foundation/unix/PxUnixIntrinsics.h \
+ ../../../Include/foundation/Px.h \
+ ../../../Include/foundation/PxVersionNumber.h \
+ ../../../Include/foundation/PxSimpleTypes.h \
+ ../../../Include/foundation/PxAssert.h ../../Common/src/CmPhysXCommon.h \
+ ../../foundation/include/Ps.h ../../foundation/include/PsMathUtils.h \
+ ../../../Include/foundation/PxTransform.h \
+ ../../../Include/foundation/PxQuat.h \
+ ../../../Include/foundation/PxVec3.h \
+ ../../../Include/foundation/PxPlane.h \
+ ../../../Include/foundation/PxMat33.h ../../foundation/include/Ps.h \
+ ../../foundation/include/PsIntrinsics.h \
+ ../../foundation/include/unix/PsUnixIntrinsics.h \
+ ../../foundation/include/PsFPU.h \
+ ../../../Include/foundation/PxUnionCast.h \
+ ../../foundation/include/unix/PsUnixFPU.h \
+ ../../foundation/include/PsVecMath.h \
+ ../../../Include/foundation/PxVec4.h ../../foundation/include/PsAoS.h \
+ ../../foundation/include/unix/PsUnixAoS.h \
+ ../../foundation/include/unix/sse2/PsUnixSse2AoS.h \
+ ../../foundation/include/PsInlineAoS.h \
+ ../../foundation/include/unix/PsUnixTrigConstants.h \
+ ../../foundation/include/unix/PsUnixInlineAoS.h \
+ ../../foundation/include/unix/sse2/PsUnixSse2InlineAoS.h \
+ ../../foundation/include/PsVecQuat.h
+ ../../GeomUtils/src/convex/GuCubeIndex.cpp :
+ ../../GeomUtils/src/convex/GuCubeIndex.h :
+ ../../../Include/foundation/PxVec3.h :
+ ../../../Include/foundation/PxMath.h :
+ ../../../Include/foundation/PxPreprocessor.h :
+ ../../../Include/foundation/PxIntrinsics.h :
+ ../../../Include/foundation/unix/PxUnixIntrinsics.h :
+ ../../../Include/foundation/Px.h :
+ ../../../Include/foundation/PxVersionNumber.h :
+ ../../../Include/foundation/PxSimpleTypes.h :
+ ../../../Include/foundation/PxAssert.h ../../Common/src/CmPhysXCommon.h :
+ ../../foundation/include/Ps.h ../../foundation/include/PsMathUtils.h :
+ ../../../Include/foundation/PxTransform.h :
+ ../../../Include/foundation/PxQuat.h :
+ ../../../Include/foundation/PxVec3.h :
+ ../../../Include/foundation/PxPlane.h :
+ ../../../Include/foundation/PxMat33.h ../../foundation/include/Ps.h :
+ ../../foundation/include/PsIntrinsics.h :
+ ../../foundation/include/unix/PsUnixIntrinsics.h :
+ ../../foundation/include/PsFPU.h :
+ ../../../Include/foundation/PxUnionCast.h :
+ ../../foundation/include/unix/PsUnixFPU.h :
+ ../../foundation/include/PsVecMath.h :
+ ../../../Include/foundation/PxVec4.h ../../foundation/include/PsAoS.h :
+ ../../foundation/include/unix/PsUnixAoS.h :
+ ../../foundation/include/unix/sse2/PsUnixSse2AoS.h :
+ ../../foundation/include/PsInlineAoS.h :
+ ../../foundation/include/unix/PsUnixTrigConstants.h :
+ ../../foundation/include/unix/PsUnixInlineAoS.h :
+ ../../foundation/include/unix/sse2/PsUnixSse2InlineAoS.h :
+ ../../foundation/include/PsVecQuat.h :

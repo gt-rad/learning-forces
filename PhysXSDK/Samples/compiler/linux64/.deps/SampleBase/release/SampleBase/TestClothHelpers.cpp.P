@@ -1,0 +1,227 @@
+build/SampleBase_release/SampleBase/TestClothHelpers.cpp.o: \
+ ../../SampleBase/TestClothHelpers.cpp ../../../Include/PxPhysXConfig.h \
+ ../../../Include/common/PxPhysXCommonConfig.h \
+ ../../../Include/foundation/Px.h \
+ ../../../Include/foundation/PxVersionNumber.h \
+ ../../../Include/foundation/PxSimpleTypes.h \
+ ../../../Include/foundation/PxPreprocessor.h \
+ ../../SampleBase/TestClothHelpers.h ../../../Include/PxShape.h \
+ ../../../Include/PxPhysXConfig.h ../../../Include/common/PxBase.h \
+ ../../../Include/common/PxSerialFramework.h \
+ ../../../Include/common/PxPhysXCommonConfig.h \
+ ../../../Include/common/PxTypeInfo.h \
+ ../../../Include/foundation/PxFlags.h \
+ ../../../Include/common/PxCollection.h \
+ ../../../Include/geometry/PxGeometry.h \
+ ../../../Include/foundation/PxMath.h \
+ ../../../Include/foundation/PxIntrinsics.h \
+ ../../../Include/foundation/unix/PxUnixIntrinsics.h \
+ ../../../Include/foundation/PxAssert.h \
+ ../../../Include/geometry/PxGeometryHelpers.h \
+ ../../../Include/geometry/PxGeometry.h \
+ ../../../Include/geometry/PxBoxGeometry.h \
+ ../../../Include/geometry/PxGeometry.h \
+ ../../../Include/foundation/PxVec3.h \
+ ../../../Include/geometry/PxSphereGeometry.h \
+ ../../../Include/geometry/PxCapsuleGeometry.h \
+ ../../../Include/geometry/PxPlaneGeometry.h \
+ ../../../Include/foundation/PxPlane.h \
+ ../../../Include/foundation/PxTransform.h \
+ ../../../Include/foundation/PxQuat.h \
+ ../../../Include/geometry/PxConvexMeshGeometry.h \
+ ../../../Include/geometry/PxMeshScale.h \
+ ../../../Include/foundation/PxMat33.h \
+ ../../../Include/geometry/PxTriangleMeshGeometry.h \
+ ../../../Include/common/PxCoreUtilityTypes.h \
+ ../../../Include/geometry/PxHeightFieldGeometry.h \
+ ../../../Include/geometry/PxTriangleMeshGeometry.h \
+ ../../../Include/foundation/PxUnionCast.h \
+ ../../../Include/PxQueryReport.h ../../../Include/foundation/PxVec3.h \
+ ../../../Include/foundation/PxFlags.h \
+ ../../../Source/foundation/include/PsArray.h \
+ ../../../Source/foundation/include/PsAllocator.h \
+ ../../../Include/foundation/PxAllocatorCallback.h \
+ ../../../Include/foundation/PxFoundation.h \
+ ../../../Include/foundation/PxErrors.h \
+ ../../../Source/foundation/include/Ps.h \
+ ../../../Source/foundation/include/PsUtilities.h \
+ ../../../Source/foundation/include/PsIntrinsics.h \
+ ../../../Source/foundation/include/unix/PsUnixIntrinsics.h \
+ ../../../Source/foundation/include/Ps.h \
+ ../../../Source/foundation/include/PsFPU.h \
+ ../../../Source/foundation/include/unix/PsUnixFPU.h \
+ ../../../Source/foundation/include/PsVecMath.h \
+ ../../../Include/foundation/PxVec4.h \
+ ../../../Source/foundation/include/PsAoS.h \
+ ../../../Source/foundation/include/unix/PsUnixAoS.h \
+ ../../../Source/foundation/include/unix/sse2/PsUnixSse2AoS.h \
+ ../../../Source/foundation/include/PsInlineAoS.h \
+ ../../../Source/foundation/include/unix/PsUnixTrigConstants.h \
+ ../../../Source/foundation/include/unix/PsUnixInlineAoS.h \
+ ../../../Source/foundation/include/unix/sse2/PsUnixSse2InlineAoS.h \
+ ../../../Source/foundation/include/PsVecQuat.h \
+ ../../../Include/cloth/PxCloth.h ../../../Include/PxActor.h \
+ ../../../Include/foundation/PxBounds3.h ../../../Include/PxClient.h \
+ ../../../Include/PxLockedData.h ../../../Include/PxFiltering.h \
+ ../../../Include/cloth/PxClothFabric.h ../../../Include/common/PxBase.h \
+ ../../../Include/cloth/PxClothTypes.h \
+ ../../../Include/cloth/PxClothCollisionData.h \
+ ../../../Include/extensions/PxClothMeshDesc.h \
+ ../../../Include/geometry/PxSimpleTriangleMesh.h \
+ ../../../Include/cooking/PxCooking.h \
+ ../../../Include/common/PxTolerancesScale.h \
+ ../../../Include/cooking/Pxc.h \
+ ../../../Include/cooking/PxConvexMeshDesc.h \
+ ../../../Include/geometry/PxConvexMesh.h \
+ ../../../Include/cooking/PxTriangleMeshDesc.h \
+ ../../../Include/foundation/PxVec2.h ../../SampleBase/Test.h \
+ ../../../Include/geometry/PxSphereGeometry.h \
+ ../../../Include/cloth/PxClothParticleData.h \
+ ../../../Include/extensions/PxDefaultStreams.h \
+ ../../../Include/foundation/PxIO.h \
+ ../../../Include/extensions/PxShapeExt.h ../../../Include/PxRigidActor.h \
+ ../../../Include/PxActor.h ../../../Include/PxShape.h \
+ ../../../Include/geometry/PxGeometryQuery.h \
+ ../../../Include/PxQueryReport.h ../../PxToolkit/include/PxToolkit.h \
+ ../../PxToolkit/include/PxTkRandom.h ../../PxToolkit/include/PxTkFPS.h \
+ ../../../Source/foundation/include/PsTime.h \
+ ../../PxToolkit/include/PxTkStream.h \
+ ../../PxToolkit/include/PxTkBmpLoader.h \
+ ../../PxToolkit/include/PxTkMatrixUtils.h \
+ ../../../Source/foundation/include/PsFastMemory.h \
+ ../../SampleBase/SampleArray.h \
+ ../../../Source/foundation/include/PsInlineArray.h \
+ ../../../Source/foundation/include/PsArray.h \
+ ../../../Source/foundation/include/PsInlineAllocator.h \
+ ../../../Source/foundation/include/PsUserAllocated.h \
+ ../../../Source/foundation/include/PsAlignedMalloc.h \
+ ../../../Source/foundation/include/PsFoundation.h \
+ ../../../Source/foundation/include/PsInlineArray.h \
+ ../../../Source/foundation/include/PsMutex.h \
+ ../../../Include/foundation/PxBroadcastingAllocator.h \
+ ../../../Source/foundation/include/PsPAEventSrc.h \
+ ../../../Source/foundation/include/PsHashMap.h \
+ ../../../Source/foundation/include/PsHashInternals.h \
+ ../../../Source/foundation/include/PsBasicTemplates.h \
+ ../../../Source/foundation/include/PsBitUtils.h \
+ ../../../Source/foundation/include/PsHash.h \
+ ../../../Include/foundation/PxMemory.h \
+ ../../../Source/foundation/include/PsErrorHandler.h \
+ ../../../Include/foundation/PxErrorCallback.h \
+ ../../../Source/foundation/include/PsHashMap.h \
+ ../../../Source/foundation/include/PsAllocator.h \
+ ../../../Source/foundation/include/PsHashSet.h \
+ ../../SampleBase/wavefront.h
+ ../../SampleBase/TestClothHelpers.cpp ../../../Include/PxPhysXConfig.h :
+ ../../../Include/common/PxPhysXCommonConfig.h :
+ ../../../Include/foundation/Px.h :
+ ../../../Include/foundation/PxVersionNumber.h :
+ ../../../Include/foundation/PxSimpleTypes.h :
+ ../../../Include/foundation/PxPreprocessor.h :
+ ../../SampleBase/TestClothHelpers.h ../../../Include/PxShape.h :
+ ../../../Include/PxPhysXConfig.h ../../../Include/common/PxBase.h :
+ ../../../Include/common/PxSerialFramework.h :
+ ../../../Include/common/PxPhysXCommonConfig.h :
+ ../../../Include/common/PxTypeInfo.h :
+ ../../../Include/foundation/PxFlags.h :
+ ../../../Include/common/PxCollection.h :
+ ../../../Include/geometry/PxGeometry.h :
+ ../../../Include/foundation/PxMath.h :
+ ../../../Include/foundation/PxIntrinsics.h :
+ ../../../Include/foundation/unix/PxUnixIntrinsics.h :
+ ../../../Include/foundation/PxAssert.h :
+ ../../../Include/geometry/PxGeometryHelpers.h :
+ ../../../Include/geometry/PxGeometry.h :
+ ../../../Include/geometry/PxBoxGeometry.h :
+ ../../../Include/geometry/PxGeometry.h :
+ ../../../Include/foundation/PxVec3.h :
+ ../../../Include/geometry/PxSphereGeometry.h :
+ ../../../Include/geometry/PxCapsuleGeometry.h :
+ ../../../Include/geometry/PxPlaneGeometry.h :
+ ../../../Include/foundation/PxPlane.h :
+ ../../../Include/foundation/PxTransform.h :
+ ../../../Include/foundation/PxQuat.h :
+ ../../../Include/geometry/PxConvexMeshGeometry.h :
+ ../../../Include/geometry/PxMeshScale.h :
+ ../../../Include/foundation/PxMat33.h :
+ ../../../Include/geometry/PxTriangleMeshGeometry.h :
+ ../../../Include/common/PxCoreUtilityTypes.h :
+ ../../../Include/geometry/PxHeightFieldGeometry.h :
+ ../../../Include/geometry/PxTriangleMeshGeometry.h :
+ ../../../Include/foundation/PxUnionCast.h :
+ ../../../Include/PxQueryReport.h ../../../Include/foundation/PxVec3.h :
+ ../../../Include/foundation/PxFlags.h :
+ ../../../Source/foundation/include/PsArray.h :
+ ../../../Source/foundation/include/PsAllocator.h :
+ ../../../Include/foundation/PxAllocatorCallback.h :
+ ../../../Include/foundation/PxFoundation.h :
+ ../../../Include/foundation/PxErrors.h :
+ ../../../Source/foundation/include/Ps.h :
+ ../../../Source/foundation/include/PsUtilities.h :
+ ../../../Source/foundation/include/PsIntrinsics.h :
+ ../../../Source/foundation/include/unix/PsUnixIntrinsics.h :
+ ../../../Source/foundation/include/Ps.h :
+ ../../../Source/foundation/include/PsFPU.h :
+ ../../../Source/foundation/include/unix/PsUnixFPU.h :
+ ../../../Source/foundation/include/PsVecMath.h :
+ ../../../Include/foundation/PxVec4.h :
+ ../../../Source/foundation/include/PsAoS.h :
+ ../../../Source/foundation/include/unix/PsUnixAoS.h :
+ ../../../Source/foundation/include/unix/sse2/PsUnixSse2AoS.h :
+ ../../../Source/foundation/include/PsInlineAoS.h :
+ ../../../Source/foundation/include/unix/PsUnixTrigConstants.h :
+ ../../../Source/foundation/include/unix/PsUnixInlineAoS.h :
+ ../../../Source/foundation/include/unix/sse2/PsUnixSse2InlineAoS.h :
+ ../../../Source/foundation/include/PsVecQuat.h :
+ ../../../Include/cloth/PxCloth.h ../../../Include/PxActor.h :
+ ../../../Include/foundation/PxBounds3.h ../../../Include/PxClient.h :
+ ../../../Include/PxLockedData.h ../../../Include/PxFiltering.h :
+ ../../../Include/cloth/PxClothFabric.h ../../../Include/common/PxBase.h :
+ ../../../Include/cloth/PxClothTypes.h :
+ ../../../Include/cloth/PxClothCollisionData.h :
+ ../../../Include/extensions/PxClothMeshDesc.h :
+ ../../../Include/geometry/PxSimpleTriangleMesh.h :
+ ../../../Include/cooking/PxCooking.h :
+ ../../../Include/common/PxTolerancesScale.h :
+ ../../../Include/cooking/Pxc.h :
+ ../../../Include/cooking/PxConvexMeshDesc.h :
+ ../../../Include/geometry/PxConvexMesh.h :
+ ../../../Include/cooking/PxTriangleMeshDesc.h :
+ ../../../Include/foundation/PxVec2.h ../../SampleBase/Test.h :
+ ../../../Include/geometry/PxSphereGeometry.h :
+ ../../../Include/cloth/PxClothParticleData.h :
+ ../../../Include/extensions/PxDefaultStreams.h :
+ ../../../Include/foundation/PxIO.h :
+ ../../../Include/extensions/PxShapeExt.h ../../../Include/PxRigidActor.h :
+ ../../../Include/PxActor.h ../../../Include/PxShape.h :
+ ../../../Include/geometry/PxGeometryQuery.h :
+ ../../../Include/PxQueryReport.h ../../PxToolkit/include/PxToolkit.h :
+ ../../PxToolkit/include/PxTkRandom.h ../../PxToolkit/include/PxTkFPS.h :
+ ../../../Source/foundation/include/PsTime.h :
+ ../../PxToolkit/include/PxTkStream.h :
+ ../../PxToolkit/include/PxTkBmpLoader.h :
+ ../../PxToolkit/include/PxTkMatrixUtils.h :
+ ../../../Source/foundation/include/PsFastMemory.h :
+ ../../SampleBase/SampleArray.h :
+ ../../../Source/foundation/include/PsInlineArray.h :
+ ../../../Source/foundation/include/PsArray.h :
+ ../../../Source/foundation/include/PsInlineAllocator.h :
+ ../../../Source/foundation/include/PsUserAllocated.h :
+ ../../../Source/foundation/include/PsAlignedMalloc.h :
+ ../../../Source/foundation/include/PsFoundation.h :
+ ../../../Source/foundation/include/PsInlineArray.h :
+ ../../../Source/foundation/include/PsMutex.h :
+ ../../../Include/foundation/PxBroadcastingAllocator.h :
+ ../../../Source/foundation/include/PsPAEventSrc.h :
+ ../../../Source/foundation/include/PsHashMap.h :
+ ../../../Source/foundation/include/PsHashInternals.h :
+ ../../../Source/foundation/include/PsBasicTemplates.h :
+ ../../../Source/foundation/include/PsBitUtils.h :
+ ../../../Source/foundation/include/PsHash.h :
+ ../../../Include/foundation/PxMemory.h :
+ ../../../Source/foundation/include/PsErrorHandler.h :
+ ../../../Include/foundation/PxErrorCallback.h :
+ ../../../Source/foundation/include/PsHashMap.h :
+ ../../../Source/foundation/include/PsAllocator.h :
+ ../../../Source/foundation/include/PsHashSet.h :
+ ../../SampleBase/wavefront.h :

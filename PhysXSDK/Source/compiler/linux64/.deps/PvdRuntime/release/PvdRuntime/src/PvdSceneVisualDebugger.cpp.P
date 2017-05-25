@@ -1,0 +1,35 @@
+build/PvdRuntime_release/PvdRuntime/src/PvdSceneVisualDebugger.cpp.o: \
+ ../../PvdRuntime/src/PvdSceneVisualDebugger.cpp \
+ ../../../Include/foundation/PxPreprocessor.h \
+ ../../../Include/pvd/PxVisualDebugger.h \
+ ../../../Include/foundation/PxTransform.h \
+ ../../../Include/foundation/PxQuat.h \
+ ../../../Include/foundation/PxVec3.h \
+ ../../../Include/foundation/PxMath.h \
+ ../../../Include/foundation/PxPreprocessor.h \
+ ../../../Include/foundation/PxIntrinsics.h \
+ ../../../Include/foundation/unix/PxUnixIntrinsics.h \
+ ../../../Include/foundation/Px.h \
+ ../../../Include/foundation/PxVersionNumber.h \
+ ../../../Include/foundation/PxSimpleTypes.h \
+ ../../../Include/foundation/PxAssert.h \
+ ../../../Include/foundation/PxPlane.h \
+ ../../../Include/foundation/PxErrors.h \
+ ../../../Include/foundation/PxFlags.h
+ ../../PvdRuntime/src/PvdSceneVisualDebugger.cpp :
+ ../../../Include/foundation/PxPreprocessor.h :
+ ../../../Include/pvd/PxVisualDebugger.h :
+ ../../../Include/foundation/PxTransform.h :
+ ../../../Include/foundation/PxQuat.h :
+ ../../../Include/foundation/PxVec3.h :
+ ../../../Include/foundation/PxMath.h :
+ ../../../Include/foundation/PxPreprocessor.h :
+ ../../../Include/foundation/PxIntrinsics.h :
+ ../../../Include/foundation/unix/PxUnixIntrinsics.h :
+ ../../../Include/foundation/Px.h :
+ ../../../Include/foundation/PxVersionNumber.h :
+ ../../../Include/foundation/PxSimpleTypes.h :
+ ../../../Include/foundation/PxAssert.h :
+ ../../../Include/foundation/PxPlane.h :
+ ../../../Include/foundation/PxErrors.h :
+ ../../../Include/foundation/PxFlags.h :

@@ -1,0 +1,177 @@
+build/Samples_release/SampleVehicle/SampleVehicle_SceneQuery.cpp.o: \
+ ../../SampleVehicle/SampleVehicle_SceneQuery.cpp \
+ ../../SampleVehicle/SampleVehicle_SceneQuery.h \
+ ../../../Include/common/PxPhysXCommonConfig.h \
+ ../../../Include/foundation/Px.h \
+ ../../../Include/foundation/PxVersionNumber.h \
+ ../../../Include/foundation/PxSimpleTypes.h \
+ ../../../Include/foundation/PxPreprocessor.h \
+ ../../../Include/vehicle/PxVehicleSDK.h \
+ ../../../Include/common/PxTypeInfo.h ../../../Include/PxScene.h \
+ ../../../Include/PxVisualizationParameter.h \
+ ../../../Include/PxSceneDesc.h ../../../Include/PxPhysXConfig.h \
+ ../../../Include/common/PxPhysXCommonConfig.h \
+ ../../../Include/foundation/PxFlags.h \
+ ../../../Include/foundation/PxBounds3.h \
+ ../../../Include/foundation/PxTransform.h \
+ ../../../Include/foundation/PxQuat.h \
+ ../../../Include/foundation/PxVec3.h \
+ ../../../Include/foundation/PxMath.h \
+ ../../../Include/foundation/PxIntrinsics.h \
+ ../../../Include/foundation/unix/PxUnixIntrinsics.h \
+ ../../../Include/foundation/PxAssert.h \
+ ../../../Include/foundation/PxPlane.h \
+ ../../../Include/foundation/PxMat33.h ../../../Include/PxFiltering.h \
+ ../../../Include/PxBroadPhase.h \
+ ../../../Include/common/PxTolerancesScale.h \
+ ../../../Include/PxSimulationStatistics.h \
+ ../../../Include/geometry/PxGeometry.h \
+ ../../../Include/foundation/PxFlags.h ../../../Include/PxQueryReport.h \
+ ../../../Include/foundation/PxVec3.h ../../../Include/PxQueryFiltering.h \
+ ../../../Include/PxClient.h \
+ ../../../Include/particles/PxParticleSystem.h \
+ ../../../Include/particles/PxParticleBase.h \
+ ../../../Include/PxPhysXConfig.h ../../../Include/foundation/PxBounds3.h \
+ ../../../Include/PxFiltering.h \
+ ../../../Include/particles/PxParticleBaseFlag.h \
+ ../../../Include/PxActor.h ../../../Include/common/PxBase.h \
+ ../../../Include/common/PxSerialFramework.h \
+ ../../../Include/common/PxCollection.h \
+ ../../../Include/particles/PxParticleCreationData.h \
+ ../../../Include/foundation/PxStrideIterator.h \
+ ../../../Include/particles/PxParticleReadData.h \
+ ../../../Include/PxLockedData.h \
+ ../../../Include/particles/PxParticleFlag.h \
+ ../../../Include/PxForceMode.h \
+ ../../../Include/particles/PxParticleFluid.h \
+ ../../../Include/particles/PxParticleFluidReadData.h \
+ ../../../Include/PxBatchQueryDesc.h \
+ ../../../Source/foundation/include/PsFoundation.h \
+ ../../../Source/foundation/include/Ps.h \
+ ../../../Source/foundation/include/PsInlineArray.h \
+ ../../../Source/foundation/include/PsArray.h \
+ ../../../Source/foundation/include/PsAllocator.h \
+ ../../../Include/foundation/PxAllocatorCallback.h \
+ ../../../Include/foundation/PxFoundation.h \
+ ../../../Include/foundation/PxErrors.h \
+ ../../../Source/foundation/include/PsUtilities.h \
+ ../../../Source/foundation/include/PsIntrinsics.h \
+ ../../../Source/foundation/include/unix/PsUnixIntrinsics.h \
+ ../../../Source/foundation/include/Ps.h \
+ ../../../Source/foundation/include/PsFPU.h \
+ ../../../Include/foundation/PxUnionCast.h \
+ ../../../Source/foundation/include/unix/PsUnixFPU.h \
+ ../../../Source/foundation/include/PsVecMath.h \
+ ../../../Include/foundation/PxVec4.h \
+ ../../../Source/foundation/include/PsAoS.h \
+ ../../../Source/foundation/include/unix/PsUnixAoS.h \
+ ../../../Source/foundation/include/unix/sse2/PsUnixSse2AoS.h \
+ ../../../Source/foundation/include/PsInlineAoS.h \
+ ../../../Source/foundation/include/unix/PsUnixTrigConstants.h \
+ ../../../Source/foundation/include/unix/PsUnixInlineAoS.h \
+ ../../../Source/foundation/include/unix/sse2/PsUnixSse2InlineAoS.h \
+ ../../../Source/foundation/include/PsVecQuat.h \
+ ../../../Source/foundation/include/PsInlineAllocator.h \
+ ../../../Source/foundation/include/PsUserAllocated.h \
+ ../../../Source/foundation/include/PsAlignedMalloc.h \
+ ../../../Source/foundation/include/PsFoundation.h \
+ ../../../Source/foundation/include/PsMutex.h \
+ ../../../Include/foundation/PxBroadcastingAllocator.h \
+ ../../../Source/foundation/include/PsPAEventSrc.h \
+ ../../../Source/foundation/include/PsHashMap.h \
+ ../../../Source/foundation/include/PsHashInternals.h \
+ ../../../Source/foundation/include/PsBasicTemplates.h \
+ ../../../Source/foundation/include/PsBitUtils.h \
+ ../../../Source/foundation/include/PsHash.h \
+ ../../../Include/foundation/PxMemory.h \
+ ../../../Source/foundation/include/PsErrorHandler.h \
+ ../../../Include/foundation/PxErrorCallback.h \
+ ../../../Source/foundation/include/PsUtilities.h
+ ../../SampleVehicle/SampleVehicle_SceneQuery.cpp :
+ ../../SampleVehicle/SampleVehicle_SceneQuery.h :
+ ../../../Include/common/PxPhysXCommonConfig.h :
+ ../../../Include/foundation/Px.h :
+ ../../../Include/foundation/PxVersionNumber.h :
+ ../../../Include/foundation/PxSimpleTypes.h :
+ ../../../Include/foundation/PxPreprocessor.h :
+ ../../../Include/vehicle/PxVehicleSDK.h :
+ ../../../Include/common/PxTypeInfo.h ../../../Include/PxScene.h :
+ ../../../Include/PxVisualizationParameter.h :
+ ../../../Include/PxSceneDesc.h ../../../Include/PxPhysXConfig.h :
+ ../../../Include/common/PxPhysXCommonConfig.h :
+ ../../../Include/foundation/PxFlags.h :
+ ../../../Include/foundation/PxBounds3.h :
+ ../../../Include/foundation/PxTransform.h :
+ ../../../Include/foundation/PxQuat.h :
+ ../../../Include/foundation/PxVec3.h :
+ ../../../Include/foundation/PxMath.h :
+ ../../../Include/foundation/PxIntrinsics.h :
+ ../../../Include/foundation/unix/PxUnixIntrinsics.h :
+ ../../../Include/foundation/PxAssert.h :
+ ../../../Include/foundation/PxPlane.h :
+ ../../../Include/foundation/PxMat33.h ../../../Include/PxFiltering.h :
+ ../../../Include/PxBroadPhase.h :
+ ../../../Include/common/PxTolerancesScale.h :
+ ../../../Include/PxSimulationStatistics.h :
+ ../../../Include/geometry/PxGeometry.h :
+ ../../../Include/foundation/PxFlags.h ../../../Include/PxQueryReport.h :
+ ../../../Include/foundation/PxVec3.h ../../../Include/PxQueryFiltering.h :
+ ../../../Include/PxClient.h :
+ ../../../Include/particles/PxParticleSystem.h :
+ ../../../Include/particles/PxParticleBase.h :
+ ../../../Include/PxPhysXConfig.h ../../../Include/foundation/PxBounds3.h :
+ ../../../Include/PxFiltering.h :
+ ../../../Include/particles/PxParticleBaseFlag.h :
+ ../../../Include/PxActor.h ../../../Include/common/PxBase.h :
+ ../../../Include/common/PxSerialFramework.h :
+ ../../../Include/common/PxCollection.h :
+ ../../../Include/particles/PxParticleCreationData.h :
+ ../../../Include/foundation/PxStrideIterator.h :
+ ../../../Include/particles/PxParticleReadData.h :
+ ../../../Include/PxLockedData.h :
+ ../../../Include/particles/PxParticleFlag.h :
+ ../../../Include/PxForceMode.h :
+ ../../../Include/particles/PxParticleFluid.h :
+ ../../../Include/particles/PxParticleFluidReadData.h :
+ ../../../Include/PxBatchQueryDesc.h :
+ ../../../Source/foundation/include/PsFoundation.h :
+ ../../../Source/foundation/include/Ps.h :
+ ../../../Source/foundation/include/PsInlineArray.h :
+ ../../../Source/foundation/include/PsArray.h :
+ ../../../Source/foundation/include/PsAllocator.h :
+ ../../../Include/foundation/PxAllocatorCallback.h :
+ ../../../Include/foundation/PxFoundation.h :
+ ../../../Include/foundation/PxErrors.h :
+ ../../../Source/foundation/include/PsUtilities.h :
+ ../../../Source/foundation/include/PsIntrinsics.h :
+ ../../../Source/foundation/include/unix/PsUnixIntrinsics.h :
+ ../../../Source/foundation/include/Ps.h :
+ ../../../Source/foundation/include/PsFPU.h :
+ ../../../Include/foundation/PxUnionCast.h :
+ ../../../Source/foundation/include/unix/PsUnixFPU.h :
+ ../../../Source/foundation/include/PsVecMath.h :
+ ../../../Include/foundation/PxVec4.h :
+ ../../../Source/foundation/include/PsAoS.h :
+ ../../../Source/foundation/include/unix/PsUnixAoS.h :
+ ../../../Source/foundation/include/unix/sse2/PsUnixSse2AoS.h :
+ ../../../Source/foundation/include/PsInlineAoS.h :
+ ../../../Source/foundation/include/unix/PsUnixTrigConstants.h :
+ ../../../Source/foundation/include/unix/PsUnixInlineAoS.h :
+ ../../../Source/foundation/include/unix/sse2/PsUnixSse2InlineAoS.h :
+ ../../../Source/foundation/include/PsVecQuat.h :
+ ../../../Source/foundation/include/PsInlineAllocator.h :
+ ../../../Source/foundation/include/PsUserAllocated.h :
+ ../../../Source/foundation/include/PsAlignedMalloc.h :
+ ../../../Source/foundation/include/PsFoundation.h :
+ ../../../Source/foundation/include/PsMutex.h :
+ ../../../Include/foundation/PxBroadcastingAllocator.h :
+ ../../../Source/foundation/include/PsPAEventSrc.h :
+ ../../../Source/foundation/include/PsHashMap.h :
+ ../../../Source/foundation/include/PsHashInternals.h :
+ ../../../Source/foundation/include/PsBasicTemplates.h :
+ ../../../Source/foundation/include/PsBitUtils.h :
+ ../../../Source/foundation/include/PsHash.h :
+ ../../../Include/foundation/PxMemory.h :
+ ../../../Source/foundation/include/PsErrorHandler.h :
+ ../../../Include/foundation/PxErrorCallback.h :
+ ../../../Source/foundation/include/PsUtilities.h :

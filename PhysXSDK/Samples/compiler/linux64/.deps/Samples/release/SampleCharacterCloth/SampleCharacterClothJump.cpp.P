@@ -1,0 +1,33 @@
+build/Samples_release/SampleCharacterCloth/SampleCharacterClothJump.cpp.o: \
+ ../../SampleCharacterCloth/SampleCharacterClothJump.cpp \
+ ../../SampleCharacterCloth/SampleCharacterClothJump.h \
+ ../../../Include/common/PxPhysXCommonConfig.h \
+ ../../../Include/foundation/Px.h \
+ ../../../Include/foundation/PxVersionNumber.h \
+ ../../../Include/foundation/PxSimpleTypes.h \
+ ../../../Include/foundation/PxPreprocessor.h \
+ ../../SampleBase/SampleAllocator.h \
+ ../../../Include/foundation/PxAllocatorCallback.h \
+ ../../../Source/foundation/include/PsMutex.h \
+ ../../../Source/foundation/include/PsAllocator.h \
+ ../../../Include/foundation/PxFoundation.h \
+ ../../../Include/foundation/PxErrors.h \
+ ../../../Source/foundation/include/Ps.h \
+ ../../PxToolkit/include/PxTkNamespaceMangle.h \
+ ../../../Source/foundation/include/Ps.h
+ ../../SampleCharacterCloth/SampleCharacterClothJump.cpp :
+ ../../SampleCharacterCloth/SampleCharacterClothJump.h :
+ ../../../Include/common/PxPhysXCommonConfig.h :
+ ../../../Include/foundation/Px.h :
+ ../../../Include/foundation/PxVersionNumber.h :
+ ../../../Include/foundation/PxSimpleTypes.h :
+ ../../../Include/foundation/PxPreprocessor.h :
+ ../../SampleBase/SampleAllocator.h :
+ ../../../Include/foundation/PxAllocatorCallback.h :
+ ../../../Source/foundation/include/PsMutex.h :
+ ../../../Source/foundation/include/PsAllocator.h :
+ ../../../Include/foundation/PxFoundation.h :
+ ../../../Include/foundation/PxErrors.h :
+ ../../../Source/foundation/include/Ps.h :
+ ../../PxToolkit/include/PxTkNamespaceMangle.h :
+ ../../../Source/foundation/include/Ps.h :

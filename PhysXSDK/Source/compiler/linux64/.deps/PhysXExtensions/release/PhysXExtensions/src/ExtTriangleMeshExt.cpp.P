@@ -1,0 +1,77 @@
+build/PhysXExtensions_release/PhysXExtensions/src/ExtTriangleMeshExt.cpp.o: \
+ ../../PhysXExtensions/src/ExtTriangleMeshExt.cpp \
+ ../../../Include/extensions/PxTriangleMeshExt.h \
+ ../../../Include/PxPhysXConfig.h \
+ ../../../Include/common/PxPhysXCommonConfig.h \
+ ../../../Include/foundation/Px.h \
+ ../../../Include/foundation/PxVersionNumber.h \
+ ../../../Include/foundation/PxSimpleTypes.h \
+ ../../../Include/foundation/PxPreprocessor.h \
+ ../../../Include/common/PxPhysXCommonConfig.h \
+ ../../../Include/geometry/PxMeshQuery.h ../../../Include/PxQueryReport.h \
+ ../../../Include/PxPhysXConfig.h ../../../Include/foundation/PxVec3.h \
+ ../../../Include/foundation/PxMath.h \
+ ../../../Include/foundation/PxIntrinsics.h \
+ ../../../Include/foundation/unix/PxUnixIntrinsics.h \
+ ../../../Include/foundation/PxAssert.h \
+ ../../../Include/foundation/PxFlags.h \
+ ../../../Include/geometry/PxGeometryQuery.h \
+ ../../../Include/geometry/PxTriangleMeshGeometry.h \
+ ../../../Include/geometry/PxGeometry.h \
+ ../../../Include/foundation/PxFlags.h \
+ ../../../Include/geometry/PxMeshScale.h \
+ ../../../Include/foundation/PxMat33.h \
+ ../../../Include/foundation/PxVec3.h \
+ ../../../Include/foundation/PxQuat.h \
+ ../../../Include/common/PxCoreUtilityTypes.h \
+ ../../../Include/geometry/PxHeightFieldGeometry.h \
+ ../../../Include/geometry/PxTriangleMeshGeometry.h \
+ ../../../Include/geometry/PxTriangleMesh.h \
+ ../../../Include/foundation/PxBounds3.h \
+ ../../../Include/foundation/PxTransform.h \
+ ../../../Include/foundation/PxPlane.h ../../../Include/common/PxBase.h \
+ ../../../Include/common/PxSerialFramework.h \
+ ../../../Include/common/PxTypeInfo.h \
+ ../../../Include/common/PxCollection.h \
+ ../../foundation/include/PsAllocator.h \
+ ../../../Include/foundation/PxAllocatorCallback.h \
+ ../../../Include/foundation/PxFoundation.h \
+ ../../../Include/foundation/PxErrors.h ../../foundation/include/Ps.h
+ ../../PhysXExtensions/src/ExtTriangleMeshExt.cpp :
+ ../../../Include/extensions/PxTriangleMeshExt.h :
+ ../../../Include/PxPhysXConfig.h :
+ ../../../Include/common/PxPhysXCommonConfig.h :
+ ../../../Include/foundation/Px.h :
+ ../../../Include/foundation/PxVersionNumber.h :
+ ../../../Include/foundation/PxSimpleTypes.h :
+ ../../../Include/foundation/PxPreprocessor.h :
+ ../../../Include/common/PxPhysXCommonConfig.h :
+ ../../../Include/geometry/PxMeshQuery.h ../../../Include/PxQueryReport.h :
+ ../../../Include/PxPhysXConfig.h ../../../Include/foundation/PxVec3.h :
+ ../../../Include/foundation/PxMath.h :
+ ../../../Include/foundation/PxIntrinsics.h :
+ ../../../Include/foundation/unix/PxUnixIntrinsics.h :
+ ../../../Include/foundation/PxAssert.h :
+ ../../../Include/foundation/PxFlags.h :
+ ../../../Include/geometry/PxGeometryQuery.h :
+ ../../../Include/geometry/PxTriangleMeshGeometry.h :
+ ../../../Include/geometry/PxGeometry.h :
+ ../../../Include/foundation/PxFlags.h :
+ ../../../Include/geometry/PxMeshScale.h :
+ ../../../Include/foundation/PxMat33.h :
+ ../../../Include/foundation/PxVec3.h :
+ ../../../Include/foundation/PxQuat.h :
+ ../../../Include/common/PxCoreUtilityTypes.h :
+ ../../../Include/geometry/PxHeightFieldGeometry.h :
+ ../../../Include/geometry/PxTriangleMeshGeometry.h :
+ ../../../Include/geometry/PxTriangleMesh.h :
+ ../../../Include/foundation/PxBounds3.h :
+ ../../../Include/foundation/PxTransform.h :
+ ../../../Include/foundation/PxPlane.h ../../../Include/common/PxBase.h :
+ ../../../Include/common/PxSerialFramework.h :
+ ../../../Include/common/PxTypeInfo.h :
+ ../../../Include/common/PxCollection.h :
+ ../../foundation/include/PsAllocator.h :
+ ../../../Include/foundation/PxAllocatorCallback.h :
+ ../../../Include/foundation/PxFoundation.h :
+ ../../../Include/foundation/PxErrors.h ../../foundation/include/Ps.h :

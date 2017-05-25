@@ -1,0 +1,159 @@
+build/LowLevel_release/LowLevel/common/src/pipeline/PxcArticulationSIMD.cpp.o: \
+ ../../LowLevel/common/src/pipeline/PxcArticulationSIMD.cpp \
+ ../../../Include/foundation/PxPreprocessor.h \
+ ../../LowLevel/common/include/math/PxcSpatial.h \
+ ../../../Include/foundation/PxVec3.h \
+ ../../../Include/foundation/PxMath.h \
+ ../../../Include/foundation/PxIntrinsics.h \
+ ../../../Include/foundation/unix/PxUnixIntrinsics.h \
+ ../../../Include/foundation/Px.h \
+ ../../../Include/foundation/PxVersionNumber.h \
+ ../../../Include/foundation/PxSimpleTypes.h \
+ ../../../Include/foundation/PxAssert.h \
+ ../../../Include/foundation/PxTransform.h \
+ ../../../Include/foundation/PxQuat.h \
+ ../../../Include/foundation/PxVec3.h \
+ ../../../Include/foundation/PxPlane.h \
+ ../../foundation/include/PsMathUtils.h \
+ ../../../Include/foundation/PxTransform.h \
+ ../../../Include/foundation/PxMat33.h ../../foundation/include/Ps.h \
+ ../../foundation/include/PsIntrinsics.h \
+ ../../foundation/include/unix/PsUnixIntrinsics.h \
+ ../../foundation/include/Ps.h ../../Common/src/CmSpatialVector.h \
+ ../../Common/src/CmPhysXCommon.h \
+ ../../LowLevel/common/include/pipeline/PxcArticulation.h \
+ ../../foundation/include/PsVecMath.h \
+ ../../../Include/foundation/PxVec4.h ../../foundation/include/PsAoS.h \
+ ../../foundation/include/unix/PsUnixAoS.h \
+ ../../foundation/include/unix/sse2/PsUnixSse2AoS.h \
+ ../../foundation/include/PsInlineAoS.h \
+ ../../foundation/include/unix/PsUnixTrigConstants.h \
+ ../../foundation/include/unix/PsUnixInlineAoS.h \
+ ../../foundation/include/unix/sse2/PsUnixSse2InlineAoS.h \
+ ../../foundation/include/PsVecQuat.h \
+ ../../foundation/include/PsBitUtils.h \
+ ../../LowLevel/API/include/PxvArticulation.h \
+ ../../../Include/foundation/PxQuat.h \
+ ../../LowLevel/API/include/PxvConfig.h ../../Common/src/CmPhysXCommon.h \
+ ../../../Include/PxPhysXConfig.h \
+ ../../../Include/common/PxPhysXCommonConfig.h ../../Common/src/CmUtils.h \
+ ../../../Include/foundation/PxMat33.h \
+ ../../../Include/common/PxSerialFramework.h \
+ ../../../Include/common/PxPhysXCommonConfig.h \
+ ../../../Include/common/PxTypeInfo.h \
+ ../../../Include/foundation/PxFlags.h ../../../Include/common/PxBase.h \
+ ../../../Include/common/PxSerialFramework.h \
+ ../../../Include/common/PxCollection.h \
+ ../../foundation/include/PsUserAllocated.h \
+ ../../foundation/include/PsAllocator.h \
+ ../../../Include/foundation/PxAllocatorCallback.h \
+ ../../../Include/foundation/PxFoundation.h \
+ ../../../Include/foundation/PxErrors.h \
+ ../../foundation/include/PsAlignedMalloc.h \
+ ../../foundation/include/PsUserAllocated.h \
+ ../../foundation/include/PsFoundation.h \
+ ../../foundation/include/PsInlineArray.h \
+ ../../foundation/include/PsArray.h \
+ ../../foundation/include/PsUtilities.h ../../foundation/include/PsFPU.h \
+ ../../../Include/foundation/PxUnionCast.h \
+ ../../foundation/include/unix/PsUnixFPU.h \
+ ../../foundation/include/PsInlineAllocator.h \
+ ../../foundation/include/PsMutex.h \
+ ../../../Include/foundation/PxBroadcastingAllocator.h \
+ ../../foundation/include/PsPAEventSrc.h \
+ ../../foundation/include/PsHashMap.h \
+ ../../foundation/include/PsHashInternals.h \
+ ../../foundation/include/PsBasicTemplates.h \
+ ../../foundation/include/PsBitUtils.h ../../foundation/include/PsHash.h \
+ ../../../Include/foundation/PxMemory.h \
+ ../../foundation/include/PsErrorHandler.h \
+ ../../../Include/foundation/PxErrorCallback.h \
+ ../../../Include/PxArticulationJoint.h ../../../Include/PxPhysXConfig.h \
+ ../../../Include/common/PxBase.h \
+ ../../LowLevel/common/include/pipeline/PxcArticulationScalar.h \
+ ../../LowLevel/common/include/pipeline/PxcArticulation.h \
+ ../../foundation/include/PsFPU.h \
+ ../../LowLevel/common/include/pipeline/PxcArticulationFnsScalar.h \
+ ../../LowLevel/common/include/pipeline/PxcArticulationScalar.h \
+ ../../LowLevel/common/include/pipeline/PxcArticulationReference.h \
+ ../../LowLevel/common/include/pipeline/PxcArticulationFnsScalar.h \
+ ../../LowLevel/common/include/pipeline/PxcArticulationFnsSimd.h
+ ../../LowLevel/common/src/pipeline/PxcArticulationSIMD.cpp :
+ ../../../Include/foundation/PxPreprocessor.h :
+ ../../LowLevel/common/include/math/PxcSpatial.h :
+ ../../../Include/foundation/PxVec3.h :
+ ../../../Include/foundation/PxMath.h :
+ ../../../Include/foundation/PxIntrinsics.h :
+ ../../../Include/foundation/unix/PxUnixIntrinsics.h :
+ ../../../Include/foundation/Px.h :
+ ../../../Include/foundation/PxVersionNumber.h :
+ ../../../Include/foundation/PxSimpleTypes.h :
+ ../../../Include/foundation/PxAssert.h :
+ ../../../Include/foundation/PxTransform.h :
+ ../../../Include/foundation/PxQuat.h :
+ ../../../Include/foundation/PxVec3.h :
+ ../../../Include/foundation/PxPlane.h :
+ ../../foundation/include/PsMathUtils.h :
+ ../../../Include/foundation/PxTransform.h :
+ ../../../Include/foundation/PxMat33.h ../../foundation/include/Ps.h :
+ ../../foundation/include/PsIntrinsics.h :
+ ../../foundation/include/unix/PsUnixIntrinsics.h :
+ ../../foundation/include/Ps.h ../../Common/src/CmSpatialVector.h :
+ ../../Common/src/CmPhysXCommon.h :
+ ../../LowLevel/common/include/pipeline/PxcArticulation.h :
+ ../../foundation/include/PsVecMath.h :
+ ../../../Include/foundation/PxVec4.h ../../foundation/include/PsAoS.h :
+ ../../foundation/include/unix/PsUnixAoS.h :
+ ../../foundation/include/unix/sse2/PsUnixSse2AoS.h :
+ ../../foundation/include/PsInlineAoS.h :
+ ../../foundation/include/unix/PsUnixTrigConstants.h :
+ ../../foundation/include/unix/PsUnixInlineAoS.h :
+ ../../foundation/include/unix/sse2/PsUnixSse2InlineAoS.h :
+ ../../foundation/include/PsVecQuat.h :
+ ../../foundation/include/PsBitUtils.h :
+ ../../LowLevel/API/include/PxvArticulation.h :
+ ../../../Include/foundation/PxQuat.h :
+ ../../LowLevel/API/include/PxvConfig.h ../../Common/src/CmPhysXCommon.h :
+ ../../../Include/PxPhysXConfig.h :
+ ../../../Include/common/PxPhysXCommonConfig.h ../../Common/src/CmUtils.h :
+ ../../../Include/foundation/PxMat33.h :
+ ../../../Include/common/PxSerialFramework.h :
+ ../../../Include/common/PxPhysXCommonConfig.h :
+ ../../../Include/common/PxTypeInfo.h :
+ ../../../Include/foundation/PxFlags.h ../../../Include/common/PxBase.h :
+ ../../../Include/common/PxSerialFramework.h :
+ ../../../Include/common/PxCollection.h :
+ ../../foundation/include/PsUserAllocated.h :
+ ../../foundation/include/PsAllocator.h :
+ ../../../Include/foundation/PxAllocatorCallback.h :
+ ../../../Include/foundation/PxFoundation.h :
+ ../../../Include/foundation/PxErrors.h :
+ ../../foundation/include/PsAlignedMalloc.h :
+ ../../foundation/include/PsUserAllocated.h :
+ ../../foundation/include/PsFoundation.h :
+ ../../foundation/include/PsInlineArray.h :
+ ../../foundation/include/PsArray.h :
+ ../../foundation/include/PsUtilities.h ../../foundation/include/PsFPU.h :
+ ../../../Include/foundation/PxUnionCast.h :
+ ../../foundation/include/unix/PsUnixFPU.h :
+ ../../foundation/include/PsInlineAllocator.h :
+ ../../foundation/include/PsMutex.h :
+ ../../../Include/foundation/PxBroadcastingAllocator.h :
+ ../../foundation/include/PsPAEventSrc.h :
+ ../../foundation/include/PsHashMap.h :
+ ../../foundation/include/PsHashInternals.h :
+ ../../foundation/include/PsBasicTemplates.h :
+ ../../foundation/include/PsBitUtils.h ../../foundation/include/PsHash.h :
+ ../../../Include/foundation/PxMemory.h :
+ ../../foundation/include/PsErrorHandler.h :
+ ../../../Include/foundation/PxErrorCallback.h :
+ ../../../Include/PxArticulationJoint.h ../../../Include/PxPhysXConfig.h :
+ ../../../Include/common/PxBase.h :
+ ../../LowLevel/common/include/pipeline/PxcArticulationScalar.h :
+ ../../LowLevel/common/include/pipeline/PxcArticulation.h :
+ ../../foundation/include/PsFPU.h :
+ ../../LowLevel/common/include/pipeline/PxcArticulationFnsScalar.h :
+ ../../LowLevel/common/include/pipeline/PxcArticulationScalar.h :
+ ../../LowLevel/common/include/pipeline/PxcArticulationReference.h :
+ ../../LowLevel/common/include/pipeline/PxcArticulationFnsScalar.h :
+ ../../LowLevel/common/include/pipeline/PxcArticulationFnsSimd.h :

@@ -1,0 +1,149 @@
+build/PhysXVisualDebuggerSDK_release/PhysXVisualDebuggerSDK/PvdNetworkStreams.cpp.o: \
+ ../../PhysXVisualDebuggerSDK/PvdNetworkStreams.cpp \
+ ../../../Include/physxvisualdebuggersdk/PvdNetworkStreams.h \
+ ../../../Include/foundation/PxSimpleTypes.h \
+ ../../../Include/foundation/PxPreprocessor.h \
+ ../../../Include/foundation/Px.h \
+ ../../../Include/foundation/PxVersionNumber.h \
+ ../../../Include/physxvisualdebuggersdk/PvdErrorCodes.h \
+ ../../../Include/foundation/PxSimpleTypes.h \
+ ../../foundation/include/PsSync.h ../../foundation/include/PsAllocator.h \
+ ../../../Include/foundation/PxAllocatorCallback.h \
+ ../../../Include/foundation/PxFoundation.h \
+ ../../../Include/foundation/PxErrors.h ../../foundation/include/Ps.h \
+ ../../foundation/include/PsMutex.h \
+ ../../PhysXVisualDebuggerSDK/PvdFoundation.h \
+ ../../../Include/foundation/PxMemory.h \
+ ../../../Include/foundation/PxIntrinsics.h \
+ ../../../Include/foundation/unix/PxUnixIntrinsics.h \
+ ../../../Include/foundation/PxAssert.h \
+ ../../foundation/include/PsArray.h \
+ ../../foundation/include/PsUtilities.h \
+ ../../../Include/foundation/PxVec3.h \
+ ../../../Include/foundation/PxMath.h \
+ ../../foundation/include/PsIntrinsics.h \
+ ../../foundation/include/unix/PsUnixIntrinsics.h \
+ ../../foundation/include/Ps.h ../../foundation/include/PsFPU.h \
+ ../../../Include/foundation/PxUnionCast.h \
+ ../../foundation/include/unix/PsUnixFPU.h \
+ ../../foundation/include/PsVecMath.h \
+ ../../../Include/foundation/PxVec4.h \
+ ../../../Include/foundation/PxMat33.h \
+ ../../../Include/foundation/PxQuat.h ../../foundation/include/PsAoS.h \
+ ../../foundation/include/unix/PsUnixAoS.h \
+ ../../foundation/include/unix/sse2/PsUnixSse2AoS.h \
+ ../../foundation/include/PsInlineAoS.h \
+ ../../foundation/include/unix/PsUnixTrigConstants.h \
+ ../../foundation/include/unix/PsUnixInlineAoS.h \
+ ../../foundation/include/unix/sse2/PsUnixSse2InlineAoS.h \
+ ../../foundation/include/PsVecQuat.h \
+ ../../foundation/include/PsHashMap.h \
+ ../../foundation/include/PsHashInternals.h \
+ ../../foundation/include/PsBasicTemplates.h \
+ ../../foundation/include/PsArray.h ../../foundation/include/PsBitUtils.h \
+ ../../foundation/include/PsHash.h ../../foundation/include/PsHashSet.h \
+ ../../foundation/include/PsPool.h ../../foundation/include/PsSort.h \
+ ../../foundation/include/PsSortInternals.h \
+ ../../foundation/include/PsUserAllocated.h \
+ ../../foundation/include/PsAlignedMalloc.h \
+ ../../foundation/include/PsFoundation.h \
+ ../../foundation/include/PsInlineArray.h \
+ ../../foundation/include/PsInlineAllocator.h \
+ ../../foundation/include/PsMutex.h \
+ ../../../Include/foundation/PxBroadcastingAllocator.h \
+ ../../foundation/include/PsPAEventSrc.h \
+ ../../foundation/include/PsHashMap.h \
+ ../../foundation/include/PsErrorHandler.h \
+ ../../../Include/foundation/PxErrorCallback.h \
+ ../../foundation/include/PsAlloca.h \
+ ../../foundation/include/PsTempAllocator.h \
+ ../../../Include/physxvisualdebuggersdk/PvdObjectModelBaseTypes.h \
+ ../../../Include/physxvisualdebuggersdk/PvdObjectModelBaseTypeDefs.h \
+ ../../PhysXVisualDebuggerSDK/PvdByteStreams.h \
+ ../../../Include/foundation/PxVec3.h \
+ ../../../Include/foundation/PxTransform.h \
+ ../../../Include/foundation/PxPlane.h \
+ ../../../Include/foundation/PxBounds3.h \
+ ../../../Include/foundation/PxTransform.h ../../../Include/PxFiltering.h \
+ ../../../Include/PxPhysXConfig.h \
+ ../../../Include/common/PxPhysXCommonConfig.h \
+ ../../../Include/foundation/PxFlags.h \
+ ../../foundation/include/PsString.h \
+ ../../foundation/include/unix/PsUnixString.h \
+ ../../foundation/include/PsThread.h ../../foundation/include/PsSocket.h \
+ ../../foundation/include/PsFile.h \
+ ../../foundation/include/unix/PsUnixFile.h
+ ../../PhysXVisualDebuggerSDK/PvdNetworkStreams.cpp :
+ ../../../Include/physxvisualdebuggersdk/PvdNetworkStreams.h :
+ ../../../Include/foundation/PxSimpleTypes.h :
+ ../../../Include/foundation/PxPreprocessor.h :
+ ../../../Include/foundation/Px.h :
+ ../../../Include/foundation/PxVersionNumber.h :
+ ../../../Include/physxvisualdebuggersdk/PvdErrorCodes.h :
+ ../../../Include/foundation/PxSimpleTypes.h :
+ ../../foundation/include/PsSync.h ../../foundation/include/PsAllocator.h :
+ ../../../Include/foundation/PxAllocatorCallback.h :
+ ../../../Include/foundation/PxFoundation.h :
+ ../../../Include/foundation/PxErrors.h ../../foundation/include/Ps.h :
+ ../../foundation/include/PsMutex.h :
+ ../../PhysXVisualDebuggerSDK/PvdFoundation.h :
+ ../../../Include/foundation/PxMemory.h :
+ ../../../Include/foundation/PxIntrinsics.h :
+ ../../../Include/foundation/unix/PxUnixIntrinsics.h :
+ ../../../Include/foundation/PxAssert.h :
+ ../../foundation/include/PsArray.h :
+ ../../foundation/include/PsUtilities.h :
+ ../../../Include/foundation/PxVec3.h :
+ ../../../Include/foundation/PxMath.h :
+ ../../foundation/include/PsIntrinsics.h :
+ ../../foundation/include/unix/PsUnixIntrinsics.h :
+ ../../foundation/include/Ps.h ../../foundation/include/PsFPU.h :
+ ../../../Include/foundation/PxUnionCast.h :
+ ../../foundation/include/unix/PsUnixFPU.h :
+ ../../foundation/include/PsVecMath.h :
+ ../../../Include/foundation/PxVec4.h :
+ ../../../Include/foundation/PxMat33.h :
+ ../../../Include/foundation/PxQuat.h ../../foundation/include/PsAoS.h :
+ ../../foundation/include/unix/PsUnixAoS.h :
+ ../../foundation/include/unix/sse2/PsUnixSse2AoS.h :
+ ../../foundation/include/PsInlineAoS.h :
+ ../../foundation/include/unix/PsUnixTrigConstants.h :
+ ../../foundation/include/unix/PsUnixInlineAoS.h :
+ ../../foundation/include/unix/sse2/PsUnixSse2InlineAoS.h :
+ ../../foundation/include/PsVecQuat.h :
+ ../../foundation/include/PsHashMap.h :
+ ../../foundation/include/PsHashInternals.h :
+ ../../foundation/include/PsBasicTemplates.h :
+ ../../foundation/include/PsArray.h ../../foundation/include/PsBitUtils.h :
+ ../../foundation/include/PsHash.h ../../foundation/include/PsHashSet.h :
+ ../../foundation/include/PsPool.h ../../foundation/include/PsSort.h :
+ ../../foundation/include/PsSortInternals.h :
+ ../../foundation/include/PsUserAllocated.h :
+ ../../foundation/include/PsAlignedMalloc.h :
+ ../../foundation/include/PsFoundation.h :
+ ../../foundation/include/PsInlineArray.h :
+ ../../foundation/include/PsInlineAllocator.h :
+ ../../foundation/include/PsMutex.h :
+ ../../../Include/foundation/PxBroadcastingAllocator.h :
+ ../../foundation/include/PsPAEventSrc.h :
+ ../../foundation/include/PsHashMap.h :
+ ../../foundation/include/PsErrorHandler.h :
+ ../../../Include/foundation/PxErrorCallback.h :
+ ../../foundation/include/PsAlloca.h :
+ ../../foundation/include/PsTempAllocator.h :
+ ../../../Include/physxvisualdebuggersdk/PvdObjectModelBaseTypes.h :
+ ../../../Include/physxvisualdebuggersdk/PvdObjectModelBaseTypeDefs.h :
+ ../../PhysXVisualDebuggerSDK/PvdByteStreams.h :
+ ../../../Include/foundation/PxVec3.h :
+ ../../../Include/foundation/PxTransform.h :
+ ../../../Include/foundation/PxPlane.h :
+ ../../../Include/foundation/PxBounds3.h :
+ ../../../Include/foundation/PxTransform.h ../../../Include/PxFiltering.h :
+ ../../../Include/PxPhysXConfig.h :
+ ../../../Include/common/PxPhysXCommonConfig.h :
+ ../../../Include/foundation/PxFlags.h :
+ ../../foundation/include/PsString.h :
+ ../../foundation/include/unix/PsUnixString.h :
+ ../../foundation/include/PsThread.h ../../foundation/include/PsSocket.h :
+ ../../foundation/include/PsFile.h :
+ ../../foundation/include/unix/PsUnixFile.h :

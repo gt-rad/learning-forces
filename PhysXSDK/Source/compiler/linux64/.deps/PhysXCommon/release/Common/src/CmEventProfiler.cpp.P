@@ -1,0 +1,67 @@
+build/PhysXCommon_release/Common/src/CmEventProfiler.cpp.o: \
+ ../../Common/src/CmEventProfiler.cpp ../../Common/src/CmEventProfiler.h \
+ ../../../Include/common/PxPhysXCommonConfig.h \
+ ../../../Include/foundation/Px.h \
+ ../../../Include/foundation/PxVersionNumber.h \
+ ../../../Include/foundation/PxSimpleTypes.h \
+ ../../../Include/foundation/PxPreprocessor.h \
+ ../../../Include/physxprofilesdk/PxProfileCompileTimeEventFilter.h \
+ ../../../Include/physxprofilesdk/PxProfileBase.h \
+ ../../../Include/foundation/PxAssert.h \
+ ../../../Include/foundation/PxMath.h \
+ ../../../Include/foundation/PxIntrinsics.h \
+ ../../../Include/foundation/unix/PxUnixIntrinsics.h \
+ ../../../Include/physxprofilesdk/PxProfileEventId.h \
+ ../../../Include/physxprofilesdk/PxProfileScopedEvent.h \
+ ../../../Include/physxprofilesdk/PxProfileCompileTimeEventFilter.h \
+ ../../../Include/physxprofilesdk/PxProfileEventNames.h \
+ ../../../Include/physxprofilesdk/PxProfileZone.h \
+ ../../../Include/physxprofilesdk/PxProfileEventBufferClientManager.h \
+ ../../../Include/physxprofilesdk/PxProfileEventBufferClient.h \
+ ../../../Include/physxprofilesdk/PxProfileEventNames.h \
+ ../../../Include/physxprofilesdk/PxProfileEventFilter.h \
+ ../../../Include/physxprofilesdk/PxProfileEventSender.h \
+ ../../../Include/physxprofilesdk/PxProfileContextProvider.h \
+ ../../../Include/physxprofilesdk/PxProfileEventId.h \
+ ../../Common/src/CmProfileDeclareEventInfo.h \
+ ../../Common/src/CmProfileEventDefs.h \
+ ../../Common/src/CmNvToolsExtProfiler.h \
+ ../../Common/src/CmProfileDefineEventInfo.h \
+ ../../foundation/include/PsUtilities.h \
+ ../../../Include/foundation/PxVec3.h ../../foundation/include/Ps.h \
+ ../../foundation/include/PsIntrinsics.h \
+ ../../foundation/include/unix/PsUnixIntrinsics.h \
+ ../../foundation/include/Ps.h
+ ../../Common/src/CmEventProfiler.cpp ../../Common/src/CmEventProfiler.h :
+ ../../../Include/common/PxPhysXCommonConfig.h :
+ ../../../Include/foundation/Px.h :
+ ../../../Include/foundation/PxVersionNumber.h :
+ ../../../Include/foundation/PxSimpleTypes.h :
+ ../../../Include/foundation/PxPreprocessor.h :
+ ../../../Include/physxprofilesdk/PxProfileCompileTimeEventFilter.h :
+ ../../../Include/physxprofilesdk/PxProfileBase.h :
+ ../../../Include/foundation/PxAssert.h :
+ ../../../Include/foundation/PxMath.h :
+ ../../../Include/foundation/PxIntrinsics.h :
+ ../../../Include/foundation/unix/PxUnixIntrinsics.h :
+ ../../../Include/physxprofilesdk/PxProfileEventId.h :
+ ../../../Include/physxprofilesdk/PxProfileScopedEvent.h :
+ ../../../Include/physxprofilesdk/PxProfileCompileTimeEventFilter.h :
+ ../../../Include/physxprofilesdk/PxProfileEventNames.h :
+ ../../../Include/physxprofilesdk/PxProfileZone.h :
+ ../../../Include/physxprofilesdk/PxProfileEventBufferClientManager.h :
+ ../../../Include/physxprofilesdk/PxProfileEventBufferClient.h :
+ ../../../Include/physxprofilesdk/PxProfileEventNames.h :
+ ../../../Include/physxprofilesdk/PxProfileEventFilter.h :
+ ../../../Include/physxprofilesdk/PxProfileEventSender.h :
+ ../../../Include/physxprofilesdk/PxProfileContextProvider.h :
+ ../../../Include/physxprofilesdk/PxProfileEventId.h :
+ ../../Common/src/CmProfileDeclareEventInfo.h :
+ ../../Common/src/CmProfileEventDefs.h :
+ ../../Common/src/CmNvToolsExtProfiler.h :
+ ../../Common/src/CmProfileDefineEventInfo.h :
+ ../../foundation/include/PsUtilities.h :
+ ../../../Include/foundation/PxVec3.h ../../foundation/include/Ps.h :
+ ../../foundation/include/PsIntrinsics.h :
+ ../../foundation/include/unix/PsUnixIntrinsics.h :
+ ../../foundation/include/Ps.h :

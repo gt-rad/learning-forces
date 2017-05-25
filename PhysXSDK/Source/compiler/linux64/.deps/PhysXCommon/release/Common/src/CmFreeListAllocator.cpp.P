@@ -1,0 +1,45 @@
+build/PhysXCommon_release/Common/src/CmFreeListAllocator.cpp.o: \
+ ../../Common/src/CmFreeListAllocator.cpp \
+ ../../../Include/foundation/PxPreprocessor.h \
+ ../../Common/src/CmFreeListAllocator.h \
+ ../../../Include/foundation/PxAllocatorCallback.h \
+ ../../../Include/foundation/Px.h \
+ ../../../Include/foundation/PxVersionNumber.h \
+ ../../../Include/foundation/PxSimpleTypes.h \
+ ../../foundation/include/PsMutex.h \
+ ../../foundation/include/PsAllocator.h \
+ ../../../Include/foundation/PxAllocatorCallback.h \
+ ../../../Include/foundation/PxFoundation.h \
+ ../../../Include/foundation/PxErrors.h ../../foundation/include/Ps.h \
+ ../../Common/src/CmFreeListAllocatorInternals.h \
+ ../../Common/src/CmPhysXCommon.h ../../foundation/include/Ps.h \
+ ../../foundation/include/PsBitUtils.h \
+ ../../../Include/foundation/PxIntrinsics.h \
+ ../../../Include/foundation/unix/PxUnixIntrinsics.h \
+ ../../../Include/foundation/PxAssert.h \
+ ../../foundation/include/PsIntrinsics.h \
+ ../../foundation/include/unix/PsUnixIntrinsics.h \
+ ../../foundation/include/PsIntrinsics.h \
+ ../../../Include/foundation/PxMath.h
+ ../../Common/src/CmFreeListAllocator.cpp :
+ ../../../Include/foundation/PxPreprocessor.h :
+ ../../Common/src/CmFreeListAllocator.h :
+ ../../../Include/foundation/PxAllocatorCallback.h :
+ ../../../Include/foundation/Px.h :
+ ../../../Include/foundation/PxVersionNumber.h :
+ ../../../Include/foundation/PxSimpleTypes.h :
+ ../../foundation/include/PsMutex.h :
+ ../../foundation/include/PsAllocator.h :
+ ../../../Include/foundation/PxAllocatorCallback.h :
+ ../../../Include/foundation/PxFoundation.h :
+ ../../../Include/foundation/PxErrors.h ../../foundation/include/Ps.h :
+ ../../Common/src/CmFreeListAllocatorInternals.h :
+ ../../Common/src/CmPhysXCommon.h ../../foundation/include/Ps.h :
+ ../../foundation/include/PsBitUtils.h :
+ ../../../Include/foundation/PxIntrinsics.h :
+ ../../../Include/foundation/unix/PxUnixIntrinsics.h :
+ ../../../Include/foundation/PxAssert.h :
+ ../../foundation/include/PsIntrinsics.h :
+ ../../foundation/include/unix/PsUnixIntrinsics.h :
+ ../../foundation/include/PsIntrinsics.h :
+ ../../../Include/foundation/PxMath.h :

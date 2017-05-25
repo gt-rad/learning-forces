@@ -1,0 +1,81 @@
+build/PhysXCommon_release/GeomUtils/src/GuGeomUtilsInternal.cpp.o: \
+ ../../GeomUtils/src/GuGeomUtilsInternal.cpp \
+ ../../foundation/include/PsIntrinsics.h \
+ ../../../Include/foundation/PxPreprocessor.h \
+ ../../foundation/include/unix/PsUnixIntrinsics.h \
+ ../../foundation/include/Ps.h ../../../Include/foundation/Px.h \
+ ../../../Include/foundation/PxVersionNumber.h \
+ ../../../Include/foundation/PxSimpleTypes.h \
+ ../../../Include/foundation/PxAssert.h \
+ ../../GeomUtils/src/GuGeomUtilsInternal.h \
+ ../../Common/src/CmPhysXCommon.h ../../../Include/foundation/PxBounds3.h \
+ ../../../Include/foundation/PxTransform.h \
+ ../../../Include/foundation/PxQuat.h \
+ ../../../Include/foundation/PxVec3.h \
+ ../../../Include/foundation/PxMath.h \
+ ../../../Include/foundation/PxIntrinsics.h \
+ ../../../Include/foundation/unix/PxUnixIntrinsics.h \
+ ../../../Include/foundation/PxPlane.h \
+ ../../../Include/foundation/PxMat33.h ../../GeomUtils/src/GuCapsule.h \
+ ../../GeomUtils/headers/GuSegment.h ../../foundation/include/PsVecMath.h \
+ ../../foundation/include/Ps.h ../../foundation/include/PsIntrinsics.h \
+ ../../../Include/foundation/PxVec4.h ../../foundation/include/PsAoS.h \
+ ../../foundation/include/unix/PsUnixAoS.h \
+ ../../foundation/include/unix/sse2/PsUnixSse2AoS.h \
+ ../../foundation/include/PsInlineAoS.h \
+ ../../foundation/include/unix/PsUnixTrigConstants.h \
+ ../../foundation/include/unix/PsUnixInlineAoS.h \
+ ../../foundation/include/unix/sse2/PsUnixSse2InlineAoS.h \
+ ../../foundation/include/PsVecQuat.h ../../GeomUtils/headers/GuBox.h \
+ ../../../Include/common/PxPhysXCommonConfig.h \
+ ../../../Include/foundation/PxTransform.h \
+ ../../../Include/geometry/PxCapsuleGeometry.h \
+ ../../../Include/geometry/PxGeometry.h \
+ ../../../Include/common/PxPhysXCommonConfig.h \
+ ../../../Include/foundation/PxFlags.h \
+ ../../../Include/geometry/PxBoxGeometry.h \
+ ../../foundation/include/PsMathUtils.h \
+ ../../foundation/include/PsUtilities.h \
+ ../../GeomUtils/src/gjk/GuVecPlane.h \
+ ../../../Include/foundation/PxVec3.h \
+ ../../../Include/foundation/PxPlane.h
+ ../../GeomUtils/src/GuGeomUtilsInternal.cpp :
+ ../../foundation/include/PsIntrinsics.h :
+ ../../../Include/foundation/PxPreprocessor.h :
+ ../../foundation/include/unix/PsUnixIntrinsics.h :
+ ../../foundation/include/Ps.h ../../../Include/foundation/Px.h :
+ ../../../Include/foundation/PxVersionNumber.h :
+ ../../../Include/foundation/PxSimpleTypes.h :
+ ../../../Include/foundation/PxAssert.h :
+ ../../GeomUtils/src/GuGeomUtilsInternal.h :
+ ../../Common/src/CmPhysXCommon.h ../../../Include/foundation/PxBounds3.h :
+ ../../../Include/foundation/PxTransform.h :
+ ../../../Include/foundation/PxQuat.h :
+ ../../../Include/foundation/PxVec3.h :
+ ../../../Include/foundation/PxMath.h :
+ ../../../Include/foundation/PxIntrinsics.h :
+ ../../../Include/foundation/unix/PxUnixIntrinsics.h :
+ ../../../Include/foundation/PxPlane.h :
+ ../../../Include/foundation/PxMat33.h ../../GeomUtils/src/GuCapsule.h :
+ ../../GeomUtils/headers/GuSegment.h ../../foundation/include/PsVecMath.h :
+ ../../foundation/include/Ps.h ../../foundation/include/PsIntrinsics.h :
+ ../../../Include/foundation/PxVec4.h ../../foundation/include/PsAoS.h :
+ ../../foundation/include/unix/PsUnixAoS.h :
+ ../../foundation/include/unix/sse2/PsUnixSse2AoS.h :
+ ../../foundation/include/PsInlineAoS.h :
+ ../../foundation/include/unix/PsUnixTrigConstants.h :
+ ../../foundation/include/unix/PsUnixInlineAoS.h :
+ ../../foundation/include/unix/sse2/PsUnixSse2InlineAoS.h :
+ ../../foundation/include/PsVecQuat.h ../../GeomUtils/headers/GuBox.h :
+ ../../../Include/common/PxPhysXCommonConfig.h :
+ ../../../Include/foundation/PxTransform.h :
+ ../../../Include/geometry/PxCapsuleGeometry.h :
+ ../../../Include/geometry/PxGeometry.h :
+ ../../../Include/common/PxPhysXCommonConfig.h :
+ ../../../Include/foundation/PxFlags.h :
+ ../../../Include/geometry/PxBoxGeometry.h :
+ ../../foundation/include/PsMathUtils.h :
+ ../../foundation/include/PsUtilities.h :
+ ../../GeomUtils/src/gjk/GuVecPlane.h :
+ ../../../Include/foundation/PxVec3.h :
+ ../../../Include/foundation/PxPlane.h :

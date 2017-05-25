@@ -1,0 +1,13 @@
+build/PhysXCommon_release/foundation/src/PsAssert.cpp.o: \
+ ../../foundation/src/PsAssert.cpp ../../../Include/foundation/PxAssert.h \
+ ../../../Include/foundation/Px.h \
+ ../../../Include/foundation/PxVersionNumber.h \
+ ../../../Include/foundation/PxSimpleTypes.h \
+ ../../../Include/foundation/PxPreprocessor.h \
+ ../../foundation/include/PsPrintString.h ../../foundation/include/Ps.h
+ ../../foundation/src/PsAssert.cpp ../../../Include/foundation/PxAssert.h :
+ ../../../Include/foundation/Px.h :
+ ../../../Include/foundation/PxVersionNumber.h :
+ ../../../Include/foundation/PxSimpleTypes.h :
+ ../../../Include/foundation/PxPreprocessor.h :
+ ../../foundation/include/PsPrintString.h ../../foundation/include/Ps.h :

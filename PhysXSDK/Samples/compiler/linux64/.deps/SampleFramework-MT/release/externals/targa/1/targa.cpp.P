@@ -1,0 +1,3 @@
+build/SampleFramework-MT_release/externals/targa/1/targa.cpp.o: \
+ ../../../externals/targa/1/targa.cpp ../../../externals/targa/1/targa.h
+ ../../../externals/targa/1/targa.cpp ../../../externals/targa/1/targa.h :

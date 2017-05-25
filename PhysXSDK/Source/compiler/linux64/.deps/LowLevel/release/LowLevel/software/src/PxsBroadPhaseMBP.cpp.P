@@ -1,0 +1,227 @@
+build/LowLevel_release/LowLevel/software/src/PxsBroadPhaseMBP.cpp.o: \
+ ../../LowLevel/software/src/PxsBroadPhaseMBP.cpp \
+ ../../LowLevel/software/include/PxsBroadPhaseMBP.h \
+ ../../Common/src/CmPhysXCommon.h ../../foundation/include/Ps.h \
+ ../../../Include/foundation/Px.h \
+ ../../../Include/foundation/PxVersionNumber.h \
+ ../../../Include/foundation/PxSimpleTypes.h \
+ ../../../Include/foundation/PxPreprocessor.h \
+ ../../LowLevel/API/include/PxvBroadPhase.h \
+ ../../../Include/PxBroadPhase.h ../../../Include/PxPhysXConfig.h \
+ ../../../Include/common/PxPhysXCommonConfig.h \
+ ../../../Include/foundation/PxBounds3.h \
+ ../../../Include/foundation/PxTransform.h \
+ ../../../Include/foundation/PxQuat.h \
+ ../../../Include/foundation/PxVec3.h \
+ ../../../Include/foundation/PxMath.h \
+ ../../../Include/foundation/PxIntrinsics.h \
+ ../../../Include/foundation/unix/PxUnixIntrinsics.h \
+ ../../../Include/foundation/PxAssert.h \
+ ../../../Include/foundation/PxPlane.h \
+ ../../../Include/foundation/PxMat33.h \
+ ../../LowLevel/software/include/PxsBroadPhaseCommon.h \
+ ../../foundation/include/PsVecMath.h ../../foundation/include/Ps.h \
+ ../../foundation/include/PsIntrinsics.h \
+ ../../foundation/include/unix/PsUnixIntrinsics.h \
+ ../../../Include/foundation/PxVec4.h ../../foundation/include/PsAoS.h \
+ ../../foundation/include/unix/PsUnixAoS.h \
+ ../../foundation/include/unix/sse2/PsUnixSse2AoS.h \
+ ../../foundation/include/PsInlineAoS.h \
+ ../../foundation/include/unix/PsUnixTrigConstants.h \
+ ../../foundation/include/unix/PsUnixInlineAoS.h \
+ ../../foundation/include/unix/sse2/PsUnixSse2InlineAoS.h \
+ ../../foundation/include/PsVecQuat.h ../../foundation/include/PsFPU.h \
+ ../../../Include/foundation/PxUnionCast.h \
+ ../../foundation/include/unix/PsUnixFPU.h \
+ ../../../Include/foundation/PxBounds3.h \
+ ../../foundation/include/PsUserAllocated.h \
+ ../../foundation/include/PsAllocator.h \
+ ../../../Include/foundation/PxAllocatorCallback.h \
+ ../../../Include/foundation/PxFoundation.h \
+ ../../../Include/foundation/PxErrors.h \
+ ../../foundation/include/PsAlignedMalloc.h \
+ ../../foundation/include/PsUserAllocated.h \
+ ../../foundation/include/PsFoundation.h \
+ ../../foundation/include/PsInlineArray.h \
+ ../../foundation/include/PsArray.h \
+ ../../foundation/include/PsUtilities.h ../../foundation/include/PsFPU.h \
+ ../../foundation/include/PsInlineAllocator.h \
+ ../../foundation/include/PsMutex.h \
+ ../../../Include/foundation/PxBroadcastingAllocator.h \
+ ../../foundation/include/PsPAEventSrc.h \
+ ../../foundation/include/PsHashMap.h \
+ ../../foundation/include/PsHashInternals.h \
+ ../../foundation/include/PsBasicTemplates.h \
+ ../../foundation/include/PsBitUtils.h ../../foundation/include/PsHash.h \
+ ../../../Include/foundation/PxMemory.h \
+ ../../foundation/include/PsErrorHandler.h \
+ ../../../Include/foundation/PxErrorCallback.h \
+ ../../LowLevel/software/include/PxsMBPTasks.h ../../Common/src/CmTask.h \
+ ../../../Include/pxtask/PxTask.h ../../../Include/pxtask/PxTaskManager.h \
+ ../../../Include/pxtask/PxTaskManager.h ../../Common/src/CmPhysXCommon.h \
+ ../../foundation/include/PsAtomic.h ../../foundation/include/PsMutex.h \
+ ../../foundation/include/PsSync.h \
+ ../../../Include/pxtask/PxCpuDispatcher.h \
+ ../../LowLevel/software/include/PxsBroadPhaseMBPCommon.h \
+ ../../GeomUtils/src/GuContainer.h \
+ ../../../Include/common/PxPhysXCommonConfig.h \
+ ../../../Include/foundation/PxMemory.h \
+ ../../../Include/foundation/PxAssert.h \
+ ../../foundation/include/PsUtilities.h \
+ ../../GeomUtils/src/GuRevisitedRadixBuffered.h \
+ ../../GeomUtils/src/GuRevisitedRadix.h \
+ ../../../Include/foundation/PxSimpleTypes.h \
+ ../../LowLevel/software/include/PxsAABBManager.h \
+ ../../LowLevel/software/include/PxsAABBManagerAux.h \
+ ../../LowLevel/software/include/PxsBroadPhaseConfig.h \
+ ../../LowLevel/common/include/utils/PxcScratchAllocator.h \
+ ../../LowLevel/API/include/PxvConfig.h ../../../Include/PxPhysXConfig.h \
+ ../../foundation/include/PsArray.h ../../Common/src/CmBitMap.h \
+ ../../foundation/include/PsAllocator.h \
+ ../../../Include/foundation/PxMath.h \
+ ../../foundation/include/PsIntrinsics.h \
+ ../../foundation/include/PsMathUtils.h \
+ ../../../Include/common/PxSerialFramework.h \
+ ../../../Include/common/PxPhysXCommonConfig.h \
+ ../../../Include/common/PxTypeInfo.h \
+ ../../../Include/foundation/PxFlags.h \
+ ../../LowLevel/software/include/PxsAABBManagerTasks.h \
+ ../../LowLevel/software/include/PxsAABBManagerId.h \
+ ../../Common/src/CmUtils.h ../../../Include/foundation/PxVec3.h \
+ ../../../Include/foundation/PxMat33.h ../../../Include/common/PxBase.h \
+ ../../../Include/common/PxSerialFramework.h \
+ ../../../Include/common/PxCollection.h \
+ ../../Common/src/CmEventProfiler.h \
+ ../../../Include/physxprofilesdk/PxProfileCompileTimeEventFilter.h \
+ ../../../Include/physxprofilesdk/PxProfileBase.h \
+ ../../../Include/physxprofilesdk/PxProfileEventId.h \
+ ../../../Include/physxprofilesdk/PxProfileScopedEvent.h \
+ ../../../Include/physxprofilesdk/PxProfileCompileTimeEventFilter.h \
+ ../../../Include/physxprofilesdk/PxProfileEventNames.h \
+ ../../../Include/physxprofilesdk/PxProfileZone.h \
+ ../../../Include/physxprofilesdk/PxProfileEventBufferClientManager.h \
+ ../../../Include/physxprofilesdk/PxProfileEventBufferClient.h \
+ ../../../Include/physxprofilesdk/PxProfileEventNames.h \
+ ../../../Include/physxprofilesdk/PxProfileEventFilter.h \
+ ../../../Include/physxprofilesdk/PxProfileEventSender.h \
+ ../../../Include/physxprofilesdk/PxProfileContextProvider.h \
+ ../../../Include/physxprofilesdk/PxProfileEventId.h \
+ ../../Common/src/CmProfileDeclareEventInfo.h \
+ ../../Common/src/CmProfileEventDefs.h \
+ ../../Common/src/CmNvToolsExtProfiler.h ../../../Include/PxSceneDesc.h \
+ ../../../Include/foundation/PxFlags.h ../../../Include/PxFiltering.h \
+ ../../../Include/PxBroadPhase.h \
+ ../../../Include/common/PxTolerancesScale.h
+ ../../LowLevel/software/src/PxsBroadPhaseMBP.cpp :
+ ../../LowLevel/software/include/PxsBroadPhaseMBP.h :
+ ../../Common/src/CmPhysXCommon.h ../../foundation/include/Ps.h :
+ ../../../Include/foundation/Px.h :
+ ../../../Include/foundation/PxVersionNumber.h :
+ ../../../Include/foundation/PxSimpleTypes.h :
+ ../../../Include/foundation/PxPreprocessor.h :
+ ../../LowLevel/API/include/PxvBroadPhase.h :
+ ../../../Include/PxBroadPhase.h ../../../Include/PxPhysXConfig.h :
+ ../../../Include/common/PxPhysXCommonConfig.h :
+ ../../../Include/foundation/PxBounds3.h :
+ ../../../Include/foundation/PxTransform.h :
+ ../../../Include/foundation/PxQuat.h :
+ ../../../Include/foundation/PxVec3.h :
+ ../../../Include/foundation/PxMath.h :
+ ../../../Include/foundation/PxIntrinsics.h :
+ ../../../Include/foundation/unix/PxUnixIntrinsics.h :
+ ../../../Include/foundation/PxAssert.h :
+ ../../../Include/foundation/PxPlane.h :
+ ../../../Include/foundation/PxMat33.h :
+ ../../LowLevel/software/include/PxsBroadPhaseCommon.h :
+ ../../foundation/include/PsVecMath.h ../../foundation/include/Ps.h :
+ ../../foundation/include/PsIntrinsics.h :
+ ../../foundation/include/unix/PsUnixIntrinsics.h :
+ ../../../Include/foundation/PxVec4.h ../../foundation/include/PsAoS.h :
+ ../../foundation/include/unix/PsUnixAoS.h :
+ ../../foundation/include/unix/sse2/PsUnixSse2AoS.h :
+ ../../foundation/include/PsInlineAoS.h :
+ ../../foundation/include/unix/PsUnixTrigConstants.h :
+ ../../foundation/include/unix/PsUnixInlineAoS.h :
+ ../../foundation/include/unix/sse2/PsUnixSse2InlineAoS.h :
+ ../../foundation/include/PsVecQuat.h ../../foundation/include/PsFPU.h :
+ ../../../Include/foundation/PxUnionCast.h :
+ ../../foundation/include/unix/PsUnixFPU.h :
+ ../../../Include/foundation/PxBounds3.h :
+ ../../foundation/include/PsUserAllocated.h :
+ ../../foundation/include/PsAllocator.h :
+ ../../../Include/foundation/PxAllocatorCallback.h :
+ ../../../Include/foundation/PxFoundation.h :
+ ../../../Include/foundation/PxErrors.h :
+ ../../foundation/include/PsAlignedMalloc.h :
+ ../../foundation/include/PsUserAllocated.h :
+ ../../foundation/include/PsFoundation.h :
+ ../../foundation/include/PsInlineArray.h :
+ ../../foundation/include/PsArray.h :
+ ../../foundation/include/PsUtilities.h ../../foundation/include/PsFPU.h :
+ ../../foundation/include/PsInlineAllocator.h :
+ ../../foundation/include/PsMutex.h :
+ ../../../Include/foundation/PxBroadcastingAllocator.h :
+ ../../foundation/include/PsPAEventSrc.h :
+ ../../foundation/include/PsHashMap.h :
+ ../../foundation/include/PsHashInternals.h :
+ ../../foundation/include/PsBasicTemplates.h :
+ ../../foundation/include/PsBitUtils.h ../../foundation/include/PsHash.h :
+ ../../../Include/foundation/PxMemory.h :
+ ../../foundation/include/PsErrorHandler.h :
+ ../../../Include/foundation/PxErrorCallback.h :
+ ../../LowLevel/software/include/PxsMBPTasks.h ../../Common/src/CmTask.h :
+ ../../../Include/pxtask/PxTask.h ../../../Include/pxtask/PxTaskManager.h :
+ ../../../Include/pxtask/PxTaskManager.h ../../Common/src/CmPhysXCommon.h :
+ ../../foundation/include/PsAtomic.h ../../foundation/include/PsMutex.h :
+ ../../foundation/include/PsSync.h :
+ ../../../Include/pxtask/PxCpuDispatcher.h :
+ ../../LowLevel/software/include/PxsBroadPhaseMBPCommon.h :
+ ../../GeomUtils/src/GuContainer.h :
+ ../../../Include/common/PxPhysXCommonConfig.h :
+ ../../../Include/foundation/PxMemory.h :
+ ../../../Include/foundation/PxAssert.h :
+ ../../foundation/include/PsUtilities.h :
+ ../../GeomUtils/src/GuRevisitedRadixBuffered.h :
+ ../../GeomUtils/src/GuRevisitedRadix.h :
+ ../../../Include/foundation/PxSimpleTypes.h :
+ ../../LowLevel/software/include/PxsAABBManager.h :
+ ../../LowLevel/software/include/PxsAABBManagerAux.h :
+ ../../LowLevel/software/include/PxsBroadPhaseConfig.h :
+ ../../LowLevel/common/include/utils/PxcScratchAllocator.h :
+ ../../LowLevel/API/include/PxvConfig.h ../../../Include/PxPhysXConfig.h :
+ ../../foundation/include/PsArray.h ../../Common/src/CmBitMap.h :
+ ../../foundation/include/PsAllocator.h :
+ ../../../Include/foundation/PxMath.h :
+ ../../foundation/include/PsIntrinsics.h :
+ ../../foundation/include/PsMathUtils.h :
+ ../../../Include/common/PxSerialFramework.h :
+ ../../../Include/common/PxPhysXCommonConfig.h :
+ ../../../Include/common/PxTypeInfo.h :
+ ../../../Include/foundation/PxFlags.h :
+ ../../LowLevel/software/include/PxsAABBManagerTasks.h :
+ ../../LowLevel/software/include/PxsAABBManagerId.h :
+ ../../Common/src/CmUtils.h ../../../Include/foundation/PxVec3.h :
+ ../../../Include/foundation/PxMat33.h ../../../Include/common/PxBase.h :
+ ../../../Include/common/PxSerialFramework.h :
+ ../../../Include/common/PxCollection.h :
+ ../../Common/src/CmEventProfiler.h :
+ ../../../Include/physxprofilesdk/PxProfileCompileTimeEventFilter.h :
+ ../../../Include/physxprofilesdk/PxProfileBase.h :
+ ../../../Include/physxprofilesdk/PxProfileEventId.h :
+ ../../../Include/physxprofilesdk/PxProfileScopedEvent.h :
+ ../../../Include/physxprofilesdk/PxProfileCompileTimeEventFilter.h :
+ ../../../Include/physxprofilesdk/PxProfileEventNames.h :
+ ../../../Include/physxprofilesdk/PxProfileZone.h :
+ ../../../Include/physxprofilesdk/PxProfileEventBufferClientManager.h :
+ ../../../Include/physxprofilesdk/PxProfileEventBufferClient.h :
+ ../../../Include/physxprofilesdk/PxProfileEventNames.h :
+ ../../../Include/physxprofilesdk/PxProfileEventFilter.h :
+ ../../../Include/physxprofilesdk/PxProfileEventSender.h :
+ ../../../Include/physxprofilesdk/PxProfileContextProvider.h :
+ ../../../Include/physxprofilesdk/PxProfileEventId.h :
+ ../../Common/src/CmProfileDeclareEventInfo.h :
+ ../../Common/src/CmProfileEventDefs.h :
+ ../../Common/src/CmNvToolsExtProfiler.h ../../../Include/PxSceneDesc.h :
+ ../../../Include/foundation/PxFlags.h ../../../Include/PxFiltering.h :
+ ../../../Include/PxBroadPhase.h :
+ ../../../Include/common/PxTolerancesScale.h :

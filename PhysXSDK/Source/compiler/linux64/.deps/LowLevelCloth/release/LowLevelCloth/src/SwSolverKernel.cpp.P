@@ -1,0 +1,157 @@
+build/LowLevelCloth_release/LowLevelCloth/src/SwSolverKernel.cpp.o: \
+ ../../LowLevelCloth/src/SwSolverKernel.cpp \
+ ../../LowLevelCloth/src/SwSolverKernel.h \
+ ../../LowLevelCloth/src/IterationState.h \
+ ../../LowLevelCloth/include/Types.h ../../../Include/foundation/Px.h \
+ ../../../Include/foundation/PxVersionNumber.h \
+ ../../../Include/foundation/PxSimpleTypes.h \
+ ../../../Include/foundation/PxPreprocessor.h \
+ ../../../Include/foundation/Px.h ../../../Include/foundation/PxVec3.h \
+ ../../../Include/foundation/PxMath.h \
+ ../../../Include/foundation/PxIntrinsics.h \
+ ../../../Include/foundation/unix/PxUnixIntrinsics.h \
+ ../../../Include/foundation/PxAssert.h \
+ ../../../Include/foundation/PxVec4.h \
+ ../../../Include/foundation/PxVec3.h \
+ ../../../Include/foundation/PxQuat.h ../../LowLevelCloth/src/Array.h \
+ ../../../Include/foundation/PxTransform.h \
+ ../../../Include/foundation/PxQuat.h \
+ ../../../Include/foundation/PxPlane.h \
+ ../../../Include/foundation/PxMat44.h \
+ ../../../Include/foundation/PxVec4.h \
+ ../../../Include/foundation/PxMat33.h \
+ ../../../Include/foundation/PxTransform.h \
+ ../../foundation/include/PsMathUtils.h ../../foundation/include/Ps.h \
+ ../../foundation/include/PsIntrinsics.h \
+ ../../foundation/include/unix/PsUnixIntrinsics.h \
+ ../../foundation/include/Ps.h ../../LowLevelCloth/src/Simd4f.h \
+ ../../LowLevelCloth/src/SimdTypes.h \
+ ../../LowLevelCloth/src/sse2/SimdTypes.h \
+ ../../LowLevelCloth/src/sse2/Simd4f.h ../../LowLevelCloth/src/Simd4i.h \
+ ../../LowLevelCloth/src/sse2/Simd4i.h \
+ ../../LowLevelCloth/src/SwCollision.h \
+ ../../LowLevelCloth/src/StackAllocator.h \
+ ../../../Include/foundation/PxAssert.h \
+ ../../LowLevelCloth/src/SwSelfCollision.h \
+ ../../LowLevelCloth/src/SwCloth.h ../../LowLevelCloth/include/Cloth.h \
+ ../../LowLevelCloth/include/Range.h \
+ ../../LowLevelCloth/include/PhaseConfig.h \
+ ../../LowLevelCloth/src/MovingAverage.h \
+ ../../LowLevelCloth/src/Allocator.h ../../foundation/include/PsArray.h \
+ ../../foundation/include/PsAllocator.h \
+ ../../../Include/foundation/PxAllocatorCallback.h \
+ ../../../Include/foundation/PxFoundation.h \
+ ../../../Include/foundation/PxErrors.h \
+ ../../foundation/include/PsUtilities.h ../../foundation/include/PsFPU.h \
+ ../../../Include/foundation/PxUnionCast.h \
+ ../../foundation/include/unix/PsUnixFPU.h \
+ ../../foundation/include/PsVecMath.h ../../foundation/include/PsAoS.h \
+ ../../foundation/include/unix/PsUnixAoS.h \
+ ../../foundation/include/unix/sse2/PsUnixSse2AoS.h \
+ ../../foundation/include/PsInlineAoS.h \
+ ../../foundation/include/unix/PsUnixTrigConstants.h \
+ ../../foundation/include/unix/PsUnixInlineAoS.h \
+ ../../foundation/include/unix/sse2/PsUnixSse2InlineAoS.h \
+ ../../foundation/include/PsVecQuat.h \
+ ../../foundation/include/PsAllocator.h \
+ ../../foundation/include/PsAlignedMalloc.h \
+ ../../foundation/include/PsUserAllocated.h \
+ ../../foundation/include/PsAlignedMalloc.h \
+ ../../foundation/include/PsFoundation.h \
+ ../../foundation/include/PsInlineArray.h \
+ ../../foundation/include/PsArray.h \
+ ../../foundation/include/PsInlineAllocator.h \
+ ../../foundation/include/PsMutex.h \
+ ../../../Include/foundation/PxBroadcastingAllocator.h \
+ ../../foundation/include/PsPAEventSrc.h \
+ ../../foundation/include/PsHashMap.h \
+ ../../foundation/include/PsHashInternals.h \
+ ../../foundation/include/PsBasicTemplates.h \
+ ../../foundation/include/PsBitUtils.h ../../foundation/include/PsHash.h \
+ ../../../Include/foundation/PxMemory.h \
+ ../../foundation/include/PsErrorHandler.h \
+ ../../../Include/foundation/PxErrorCallback.h \
+ ../../LowLevelCloth/src/IndexPair.h ../../LowLevelCloth/src/Vec4T.h \
+ ../../LowLevelCloth/src/SwClothData.h ../../LowLevelCloth/src/SwFabric.h \
+ ../../LowLevelCloth/include/Fabric.h ../../LowLevelCloth/src/SwFactory.h \
+ ../../LowLevelCloth/include/Factory.h \
+ ../../LowLevelCloth/src/PointInterpolator.h \
+ ../../LowLevelCloth/src/BoundingBox.h
+ ../../LowLevelCloth/src/SwSolverKernel.cpp :
+ ../../LowLevelCloth/src/SwSolverKernel.h :
+ ../../LowLevelCloth/src/IterationState.h :
+ ../../LowLevelCloth/include/Types.h ../../../Include/foundation/Px.h :
+ ../../../Include/foundation/PxVersionNumber.h :
+ ../../../Include/foundation/PxSimpleTypes.h :
+ ../../../Include/foundation/PxPreprocessor.h :
+ ../../../Include/foundation/Px.h ../../../Include/foundation/PxVec3.h :
+ ../../../Include/foundation/PxMath.h :
+ ../../../Include/foundation/PxIntrinsics.h :
+ ../../../Include/foundation/unix/PxUnixIntrinsics.h :
+ ../../../Include/foundation/PxAssert.h :
+ ../../../Include/foundation/PxVec4.h :
+ ../../../Include/foundation/PxVec3.h :
+ ../../../Include/foundation/PxQuat.h ../../LowLevelCloth/src/Array.h :
+ ../../../Include/foundation/PxTransform.h :
+ ../../../Include/foundation/PxQuat.h :
+ ../../../Include/foundation/PxPlane.h :
+ ../../../Include/foundation/PxMat44.h :
+ ../../../Include/foundation/PxVec4.h :
+ ../../../Include/foundation/PxMat33.h :
+ ../../../Include/foundation/PxTransform.h :
+ ../../foundation/include/PsMathUtils.h ../../foundation/include/Ps.h :
+ ../../foundation/include/PsIntrinsics.h :
+ ../../foundation/include/unix/PsUnixIntrinsics.h :
+ ../../foundation/include/Ps.h ../../LowLevelCloth/src/Simd4f.h :
+ ../../LowLevelCloth/src/SimdTypes.h :
+ ../../LowLevelCloth/src/sse2/SimdTypes.h :
+ ../../LowLevelCloth/src/sse2/Simd4f.h ../../LowLevelCloth/src/Simd4i.h :
+ ../../LowLevelCloth/src/sse2/Simd4i.h :
+ ../../LowLevelCloth/src/SwCollision.h :
+ ../../LowLevelCloth/src/StackAllocator.h :
+ ../../../Include/foundation/PxAssert.h :
+ ../../LowLevelCloth/src/SwSelfCollision.h :
+ ../../LowLevelCloth/src/SwCloth.h ../../LowLevelCloth/include/Cloth.h :
+ ../../LowLevelCloth/include/Range.h :
+ ../../LowLevelCloth/include/PhaseConfig.h :
+ ../../LowLevelCloth/src/MovingAverage.h :
+ ../../LowLevelCloth/src/Allocator.h ../../foundation/include/PsArray.h :
+ ../../foundation/include/PsAllocator.h :
+ ../../../Include/foundation/PxAllocatorCallback.h :
+ ../../../Include/foundation/PxFoundation.h :
+ ../../../Include/foundation/PxErrors.h :
+ ../../foundation/include/PsUtilities.h ../../foundation/include/PsFPU.h :
+ ../../../Include/foundation/PxUnionCast.h :
+ ../../foundation/include/unix/PsUnixFPU.h :
+ ../../foundation/include/PsVecMath.h ../../foundation/include/PsAoS.h :
+ ../../foundation/include/unix/PsUnixAoS.h :
+ ../../foundation/include/unix/sse2/PsUnixSse2AoS.h :
+ ../../foundation/include/PsInlineAoS.h :
+ ../../foundation/include/unix/PsUnixTrigConstants.h :
+ ../../foundation/include/unix/PsUnixInlineAoS.h :
+ ../../foundation/include/unix/sse2/PsUnixSse2InlineAoS.h :
+ ../../foundation/include/PsVecQuat.h :
+ ../../foundation/include/PsAllocator.h :
+ ../../foundation/include/PsAlignedMalloc.h :
+ ../../foundation/include/PsUserAllocated.h :
+ ../../foundation/include/PsAlignedMalloc.h :
+ ../../foundation/include/PsFoundation.h :
+ ../../foundation/include/PsInlineArray.h :
+ ../../foundation/include/PsArray.h :
+ ../../foundation/include/PsInlineAllocator.h :
+ ../../foundation/include/PsMutex.h :
+ ../../../Include/foundation/PxBroadcastingAllocator.h :
+ ../../foundation/include/PsPAEventSrc.h :
+ ../../foundation/include/PsHashMap.h :
+ ../../foundation/include/PsHashInternals.h :
+ ../../foundation/include/PsBasicTemplates.h :
+ ../../foundation/include/PsBitUtils.h ../../foundation/include/PsHash.h :
+ ../../../Include/foundation/PxMemory.h :
+ ../../foundation/include/PsErrorHandler.h :
+ ../../../Include/foundation/PxErrorCallback.h :
+ ../../LowLevelCloth/src/IndexPair.h ../../LowLevelCloth/src/Vec4T.h :
+ ../../LowLevelCloth/src/SwClothData.h ../../LowLevelCloth/src/SwFabric.h :
+ ../../LowLevelCloth/include/Fabric.h ../../LowLevelCloth/src/SwFactory.h :
+ ../../LowLevelCloth/include/Factory.h :
+ ../../LowLevelCloth/src/PointInterpolator.h :
+ ../../LowLevelCloth/src/BoundingBox.h :

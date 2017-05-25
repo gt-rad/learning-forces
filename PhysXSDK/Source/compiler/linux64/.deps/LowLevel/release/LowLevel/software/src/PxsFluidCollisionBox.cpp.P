@@ -1,0 +1,185 @@
+build/LowLevel_release/LowLevel/software/src/PxsFluidCollisionBox.cpp.o: \
+ ../../LowLevel/software/src/PxsFluidCollisionBox.cpp \
+ ../../LowLevel/software/include/PxsFluidCollisionMethods.h \
+ ../../LowLevel/software/include/PxsFluidConfig.h \
+ ../../LowLevel/API/include/PxvParticleSystemFlags.h \
+ ../../LowLevel/API/include/PxvConfig.h ../../Common/src/CmPhysXCommon.h \
+ ../../foundation/include/Ps.h ../../../Include/foundation/Px.h \
+ ../../../Include/foundation/PxVersionNumber.h \
+ ../../../Include/foundation/PxSimpleTypes.h \
+ ../../../Include/foundation/PxPreprocessor.h \
+ ../../../Include/PxPhysXConfig.h \
+ ../../../Include/common/PxPhysXCommonConfig.h \
+ ../../../Include/particles/PxParticleFlag.h \
+ ../../../Include/particles/PxParticleBaseFlag.h \
+ ../../../Include/foundation/PxFlags.h \
+ ../../../Include/foundation/PxVec3.h \
+ ../../../Include/foundation/PxMath.h \
+ ../../../Include/foundation/PxIntrinsics.h \
+ ../../../Include/foundation/unix/PxUnixIntrinsics.h \
+ ../../../Include/foundation/PxAssert.h \
+ ../../LowLevel/software/include/PxsFluidCollisionData.h \
+ ../../../Include/foundation/PxVec4.h \
+ ../../../Include/foundation/PxVec3.h \
+ ../../../Include/foundation/PxTransform.h \
+ ../../../Include/foundation/PxQuat.h \
+ ../../../Include/foundation/PxPlane.h \
+ ../../LowLevel/software/include/PxsFluidSpatialHash.h \
+ ../../LowLevel/software/include/PxsParticleCell.h \
+ ../../LowLevel/common/include/math/PxcGridCellVector.h \
+ ../../LowLevel/API/include/PxvConfig.h \
+ ../../foundation/include/PsMathUtils.h \
+ ../../../Include/foundation/PxTransform.h \
+ ../../../Include/foundation/PxMat33.h ../../foundation/include/Ps.h \
+ ../../foundation/include/PsIntrinsics.h \
+ ../../foundation/include/unix/PsUnixIntrinsics.h \
+ ../../LowLevel/software/include/PxsFluidPacketSections.h \
+ ../../LowLevel/API/include/PxsFluidParticle.h \
+ ../../LowLevel/API/include/PxvParticleSystemFlags.h \
+ ../../Common/src/CmBitMap.h ../../foundation/include/PsAllocator.h \
+ ../../../Include/foundation/PxAllocatorCallback.h \
+ ../../../Include/foundation/PxFoundation.h \
+ ../../../Include/foundation/PxErrors.h \
+ ../../foundation/include/PsUserAllocated.h \
+ ../../foundation/include/PsAllocator.h \
+ ../../foundation/include/PsAlignedMalloc.h \
+ ../../foundation/include/PsUserAllocated.h \
+ ../../foundation/include/PsFoundation.h \
+ ../../foundation/include/PsInlineArray.h \
+ ../../foundation/include/PsArray.h \
+ ../../foundation/include/PsUtilities.h ../../foundation/include/PsFPU.h \
+ ../../../Include/foundation/PxUnionCast.h \
+ ../../foundation/include/unix/PsUnixFPU.h \
+ ../../foundation/include/PsVecMath.h \
+ ../../../Include/foundation/PxVec4.h ../../foundation/include/PsAoS.h \
+ ../../foundation/include/unix/PsUnixAoS.h \
+ ../../foundation/include/unix/sse2/PsUnixSse2AoS.h \
+ ../../foundation/include/PsInlineAoS.h \
+ ../../foundation/include/unix/PsUnixTrigConstants.h \
+ ../../foundation/include/unix/PsUnixInlineAoS.h \
+ ../../foundation/include/unix/sse2/PsUnixSse2InlineAoS.h \
+ ../../foundation/include/PsVecQuat.h \
+ ../../foundation/include/PsInlineAllocator.h \
+ ../../foundation/include/PsMutex.h \
+ ../../../Include/foundation/PxBroadcastingAllocator.h \
+ ../../foundation/include/PsPAEventSrc.h \
+ ../../foundation/include/PsHashMap.h \
+ ../../foundation/include/PsHashInternals.h \
+ ../../foundation/include/PsBasicTemplates.h \
+ ../../foundation/include/PsBitUtils.h ../../foundation/include/PsHash.h \
+ ../../../Include/foundation/PxMemory.h \
+ ../../foundation/include/PsErrorHandler.h \
+ ../../../Include/foundation/PxErrorCallback.h \
+ ../../../Include/foundation/PxAssert.h \
+ ../../../Include/foundation/PxMath.h \
+ ../../foundation/include/PsIntrinsics.h ../../Common/src/CmPhysXCommon.h \
+ ../../../Include/common/PxSerialFramework.h \
+ ../../../Include/common/PxPhysXCommonConfig.h \
+ ../../../Include/common/PxTypeInfo.h \
+ ../../LowLevel/software/include/PxsFluidSpatialHashHelper.h \
+ ../../LowLevel/software/include/PxsFluidParticleOpcodeCache.h \
+ ../../GeomUtils/src/GuGeometryUnion.h \
+ ../../../Include/geometry/PxBoxGeometry.h \
+ ../../../Include/geometry/PxGeometry.h \
+ ../../../Include/geometry/PxSphereGeometry.h \
+ ../../../Include/geometry/PxCapsuleGeometry.h \
+ ../../../Include/geometry/PxPlaneGeometry.h \
+ ../../../Include/geometry/PxConvexMeshGeometry.h \
+ ../../../Include/geometry/PxMeshScale.h \
+ ../../../Include/geometry/PxTriangleMeshGeometry.h \
+ ../../../Include/common/PxCoreUtilityTypes.h \
+ ../../../Include/geometry/PxHeightFieldGeometry.h \
+ ../../../Include/geometry/PxTriangleMeshGeometry.h \
+ ../../../Include/foundation/PxBounds3.h
+ ../../LowLevel/software/src/PxsFluidCollisionBox.cpp :
+ ../../LowLevel/software/include/PxsFluidCollisionMethods.h :
+ ../../LowLevel/software/include/PxsFluidConfig.h :
+ ../../LowLevel/API/include/PxvParticleSystemFlags.h :
+ ../../LowLevel/API/include/PxvConfig.h ../../Common/src/CmPhysXCommon.h :
+ ../../foundation/include/Ps.h ../../../Include/foundation/Px.h :
+ ../../../Include/foundation/PxVersionNumber.h :
+ ../../../Include/foundation/PxSimpleTypes.h :
+ ../../../Include/foundation/PxPreprocessor.h :
+ ../../../Include/PxPhysXConfig.h :
+ ../../../Include/common/PxPhysXCommonConfig.h :
+ ../../../Include/particles/PxParticleFlag.h :
+ ../../../Include/particles/PxParticleBaseFlag.h :
+ ../../../Include/foundation/PxFlags.h :
+ ../../../Include/foundation/PxVec3.h :
+ ../../../Include/foundation/PxMath.h :
+ ../../../Include/foundation/PxIntrinsics.h :
+ ../../../Include/foundation/unix/PxUnixIntrinsics.h :
+ ../../../Include/foundation/PxAssert.h :
+ ../../LowLevel/software/include/PxsFluidCollisionData.h :
+ ../../../Include/foundation/PxVec4.h :
+ ../../../Include/foundation/PxVec3.h :
+ ../../../Include/foundation/PxTransform.h :
+ ../../../Include/foundation/PxQuat.h :
+ ../../../Include/foundation/PxPlane.h :
+ ../../LowLevel/software/include/PxsFluidSpatialHash.h :
+ ../../LowLevel/software/include/PxsParticleCell.h :
+ ../../LowLevel/common/include/math/PxcGridCellVector.h :
+ ../../LowLevel/API/include/PxvConfig.h :
+ ../../foundation/include/PsMathUtils.h :
+ ../../../Include/foundation/PxTransform.h :
+ ../../../Include/foundation/PxMat33.h ../../foundation/include/Ps.h :
+ ../../foundation/include/PsIntrinsics.h :
+ ../../foundation/include/unix/PsUnixIntrinsics.h :
+ ../../LowLevel/software/include/PxsFluidPacketSections.h :
+ ../../LowLevel/API/include/PxsFluidParticle.h :
+ ../../LowLevel/API/include/PxvParticleSystemFlags.h :
+ ../../Common/src/CmBitMap.h ../../foundation/include/PsAllocator.h :
+ ../../../Include/foundation/PxAllocatorCallback.h :
+ ../../../Include/foundation/PxFoundation.h :
+ ../../../Include/foundation/PxErrors.h :
+ ../../foundation/include/PsUserAllocated.h :
+ ../../foundation/include/PsAllocator.h :
+ ../../foundation/include/PsAlignedMalloc.h :
+ ../../foundation/include/PsUserAllocated.h :
+ ../../foundation/include/PsFoundation.h :
+ ../../foundation/include/PsInlineArray.h :
+ ../../foundation/include/PsArray.h :
+ ../../foundation/include/PsUtilities.h ../../foundation/include/PsFPU.h :
+ ../../../Include/foundation/PxUnionCast.h :
+ ../../foundation/include/unix/PsUnixFPU.h :
+ ../../foundation/include/PsVecMath.h :
+ ../../../Include/foundation/PxVec4.h ../../foundation/include/PsAoS.h :
+ ../../foundation/include/unix/PsUnixAoS.h :
+ ../../foundation/include/unix/sse2/PsUnixSse2AoS.h :
+ ../../foundation/include/PsInlineAoS.h :
+ ../../foundation/include/unix/PsUnixTrigConstants.h :
+ ../../foundation/include/unix/PsUnixInlineAoS.h :
+ ../../foundation/include/unix/sse2/PsUnixSse2InlineAoS.h :
+ ../../foundation/include/PsVecQuat.h :
+ ../../foundation/include/PsInlineAllocator.h :
+ ../../foundation/include/PsMutex.h :
+ ../../../Include/foundation/PxBroadcastingAllocator.h :
+ ../../foundation/include/PsPAEventSrc.h :
+ ../../foundation/include/PsHashMap.h :
+ ../../foundation/include/PsHashInternals.h :
+ ../../foundation/include/PsBasicTemplates.h :
+ ../../foundation/include/PsBitUtils.h ../../foundation/include/PsHash.h :
+ ../../../Include/foundation/PxMemory.h :
+ ../../foundation/include/PsErrorHandler.h :
+ ../../../Include/foundation/PxErrorCallback.h :
+ ../../../Include/foundation/PxAssert.h :
+ ../../../Include/foundation/PxMath.h :
+ ../../foundation/include/PsIntrinsics.h ../../Common/src/CmPhysXCommon.h :
+ ../../../Include/common/PxSerialFramework.h :
+ ../../../Include/common/PxPhysXCommonConfig.h :
+ ../../../Include/common/PxTypeInfo.h :
+ ../../LowLevel/software/include/PxsFluidSpatialHashHelper.h :
+ ../../LowLevel/software/include/PxsFluidParticleOpcodeCache.h :
+ ../../GeomUtils/src/GuGeometryUnion.h :
+ ../../../Include/geometry/PxBoxGeometry.h :
+ ../../../Include/geometry/PxGeometry.h :
+ ../../../Include/geometry/PxSphereGeometry.h :
+ ../../../Include/geometry/PxCapsuleGeometry.h :
+ ../../../Include/geometry/PxPlaneGeometry.h :
+ ../../../Include/geometry/PxConvexMeshGeometry.h :
+ ../../../Include/geometry/PxMeshScale.h :
+ ../../../Include/geometry/PxTriangleMeshGeometry.h :
+ ../../../Include/common/PxCoreUtilityTypes.h :
+ ../../../Include/geometry/PxHeightFieldGeometry.h :
+ ../../../Include/geometry/PxTriangleMeshGeometry.h :
+ ../../../Include/foundation/PxBounds3.h :

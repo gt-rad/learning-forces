@@ -1,0 +1,287 @@
+build/PhysXCommon_release/GeomUtils/src/GuCCTSweepTests.cpp.o: \
+ ../../GeomUtils/src/GuCCTSweepTests.cpp \
+ ../../GeomUtils/src/GuSweepTests.h ../../Common/src/CmPhysXCommon.h \
+ ../../foundation/include/Ps.h ../../../Include/foundation/Px.h \
+ ../../../Include/foundation/PxVersionNumber.h \
+ ../../../Include/foundation/PxSimpleTypes.h \
+ ../../../Include/foundation/PxPreprocessor.h \
+ ../../../Include/PxQueryReport.h ../../../Include/PxPhysXConfig.h \
+ ../../../Include/common/PxPhysXCommonConfig.h \
+ ../../../Include/foundation/PxVec3.h \
+ ../../../Include/foundation/PxMath.h \
+ ../../../Include/foundation/PxIntrinsics.h \
+ ../../../Include/foundation/unix/PxUnixIntrinsics.h \
+ ../../../Include/foundation/PxAssert.h \
+ ../../../Include/foundation/PxFlags.h \
+ ../../GeomUtils/src/hf/GuHeightFieldUtil.h \
+ ../../../Include/geometry/PxSimpleTriangleMesh.h \
+ ../../../Include/foundation/PxVec3.h \
+ ../../../Include/foundation/PxFlags.h \
+ ../../../Include/common/PxCoreUtilityTypes.h \
+ ../../../Include/common/PxPhysXCommonConfig.h \
+ ../../../Include/geometry/PxHeightFieldGeometry.h \
+ ../../../Include/geometry/PxTriangleMeshGeometry.h \
+ ../../../Include/geometry/PxGeometry.h \
+ ../../../Include/geometry/PxMeshScale.h \
+ ../../../Include/foundation/PxMat33.h \
+ ../../../Include/foundation/PxQuat.h \
+ ../../GeomUtils/src/hf/GuHeightField.h \
+ ../../foundation/include/PsUserAllocated.h \
+ ../../foundation/include/PsAllocator.h \
+ ../../../Include/foundation/PxAllocatorCallback.h \
+ ../../../Include/foundation/PxFoundation.h \
+ ../../../Include/foundation/PxErrors.h ../../foundation/include/Ps.h \
+ ../../foundation/include/PsAlignedMalloc.h \
+ ../../foundation/include/PsUserAllocated.h \
+ ../../foundation/include/PsFoundation.h \
+ ../../foundation/include/PsInlineArray.h \
+ ../../foundation/include/PsArray.h \
+ ../../foundation/include/PsUtilities.h \
+ ../../foundation/include/PsIntrinsics.h \
+ ../../foundation/include/unix/PsUnixIntrinsics.h \
+ ../../foundation/include/PsFPU.h \
+ ../../../Include/foundation/PxUnionCast.h \
+ ../../foundation/include/unix/PsUnixFPU.h \
+ ../../foundation/include/PsVecMath.h \
+ ../../../Include/foundation/PxVec4.h ../../foundation/include/PsAoS.h \
+ ../../foundation/include/unix/PsUnixAoS.h \
+ ../../foundation/include/unix/sse2/PsUnixSse2AoS.h \
+ ../../foundation/include/PsInlineAoS.h \
+ ../../foundation/include/unix/PsUnixTrigConstants.h \
+ ../../foundation/include/unix/PsUnixInlineAoS.h \
+ ../../foundation/include/unix/sse2/PsUnixSse2InlineAoS.h \
+ ../../foundation/include/PsVecQuat.h \
+ ../../foundation/include/PsInlineAllocator.h \
+ ../../foundation/include/PsMutex.h \
+ ../../../Include/foundation/PxBroadcastingAllocator.h \
+ ../../foundation/include/PsPAEventSrc.h \
+ ../../foundation/include/PsHashMap.h \
+ ../../foundation/include/PsHashInternals.h \
+ ../../foundation/include/PsBasicTemplates.h \
+ ../../foundation/include/PsBitUtils.h ../../foundation/include/PsHash.h \
+ ../../../Include/foundation/PxMemory.h \
+ ../../foundation/include/PsErrorHandler.h \
+ ../../../Include/foundation/PxErrorCallback.h \
+ ../../Common/src/CmRefCountable.h ../../Common/src/CmPhysXCommon.h \
+ ../../foundation/include/PsAtomic.h \
+ ../../../Include/foundation/PxAssert.h \
+ ../../../Include/common/PxMetaData.h \
+ ../../../Include/common/PxMetaDataFlags.h \
+ ../../../Include/foundation/PxIO.h \
+ ../../foundation/include/PsMathUtils.h \
+ ../../../Include/foundation/PxTransform.h \
+ ../../../Include/foundation/PxPlane.h \
+ ../../../Include/foundation/PxBounds3.h ../../GeomUtils/src/GuSphere.h \
+ ../../../Include/foundation/PxVec3.h \
+ ../../../Include/geometry/PxHeightFieldSample.h \
+ ../../../Include/foundation/PxBitAndData.h \
+ ../../../Include/geometry/PxHeightFieldDesc.h \
+ ../../../Include/foundation/PxBounds3.h \
+ ../../../Include/geometry/PxHeightFieldFlag.h \
+ ../../GeomUtils/src/hf/GuHeightFieldData.h \
+ ../../../Include/foundation/PxSimpleTypes.h \
+ ../../../Include/geometry/PxHeightFieldFlag.h \
+ ../../../Include/geometry/PxHeightField.h \
+ ../../../Include/common/PxBase.h \
+ ../../../Include/common/PxSerialFramework.h \
+ ../../../Include/common/PxTypeInfo.h \
+ ../../../Include/common/PxCollection.h \
+ ../../../Include/foundation/PxIO.h \
+ ../../../Include/common/PxSerialFramework.h \
+ ../../../Include/geometry/PxTriangle.h \
+ ../../foundation/include/PsIntrinsics.h \
+ ../../GeomUtils/src/hf/../intersection/GuIntersectionRayTriangle.h \
+ ../../../Include/common/PxPhysXCommonConfig.h \
+ ../../GeomUtils/src/hf/../intersection/GuIntersectionRayBox.h \
+ ../../../Include/foundation/PxIntrinsics.h \
+ ../../Common/src/CmMidphaseTrace.h \
+ ../../GeomUtils/src/hf/GuEntityReport.h \
+ ../../../Include/geometry/PxSphereGeometry.h \
+ ../../GeomUtils/headers/GuDistanceSegmentBox.h \
+ ../../../Include/foundation/PxMat33.h \
+ ../../GeomUtils/headers/GuSegment.h ../../GeomUtils/headers/GuBox.h \
+ ../../../Include/foundation/PxTransform.h \
+ ../../GeomUtils/src/distance/GuDistancePointBox.h \
+ ../../GeomUtils/headers/GuBox.h ../../foundation/include/PsAlloca.h \
+ ../../foundation/include/PsTempAllocator.h \
+ ../../GeomUtils/src/gjk/GuVecTriangle.h \
+ ../../GeomUtils/src/gjk/GuVecConvex.h \
+ ../../GeomUtils/src/convex/GuConvexSupportTable.h \
+ ../../GeomUtils/src/gjk/GuVecConvex.h \
+ ../../foundation/include/PsVecTransform.h \
+ ../../foundation/include/PsVecMath.h \
+ ../../GeomUtils/src/distance/GuDistancePointTriangleSIMD.h \
+ ../../GeomUtils/src/gjk/GuVecBox.h \
+ ../../GeomUtils/src/gjk/GuGJKWrapper.h \
+ ../../GeomUtils/src/gjk/GuGJKUtil.h \
+ ../../GeomUtils/src/GuSweepSharedTests.h \
+ ../../GeomUtils/src/common/GuBoxConversion.h \
+ ../../Common/src/CmMatrix34.h ../../GeomUtils/src/GuGeomUtilsInternal.h \
+ ../../GeomUtils/src/GuCapsule.h ../../GeomUtils/headers/GuSegment.h \
+ ../../../Include/geometry/PxCapsuleGeometry.h \
+ ../../../Include/geometry/PxBoxGeometry.h \
+ ../../foundation/include/PsUtilities.h \
+ ../../GeomUtils/src/mesh/GuTriangleMesh.h \
+ ../../GeomUtils/src/mesh/GuInternalTriangleMesh.h \
+ ../../../Include/geometry/PxTriangleMesh.h \
+ ../../GeomUtils/src/mesh/GuTriangleMeshData.h \
+ ../../GeomUtils/src/mesh/GuHybridModel.h \
+ ../../GeomUtils/src/mesh/GuRTree.h ../../../Include/foundation/PxVec4.h \
+ ../../GeomUtils/src/mesh/GuMeshInterface.h \
+ ../../GeomUtils/src/mesh/GuTriangle32.h ../../Common/src/CmMemFetch.h \
+ ../../../Include/foundation/PxMemory.h ../../Common/src/CmRenderOutput.h \
+ ../../Common/src/CmRenderBuffer.h \
+ ../../../Include/common/PxRenderBuffer.h \
+ ../../foundation/include/PsArray.h ../../Common/src/CmMatrix34.h \
+ ../../../Include/foundation/PxMat44.h \
+ ../../../Include/geometry/PxTriangleMeshGeometry.h \
+ ../../GeomUtils/src/sweep/GuSweepBoxSphere.h \
+ ../../GeomUtils/src/sweep/GuSweepCapsuleBox.h \
+ ../../GeomUtils/src/sweep/GuSweepBoxBox.h \
+ ../../GeomUtils/src/sweep/GuSweepBoxTriangle_FeatureBased.h \
+ ../../GeomUtils/src/sweep/GuSweepBoxTriangle_SAT.h \
+ ../../GeomUtils/src/sweep/GuSweepTriangleUtils.h \
+ ../../GeomUtils/src/GuSweepSharedTests.h
+ ../../GeomUtils/src/GuCCTSweepTests.cpp :
+ ../../GeomUtils/src/GuSweepTests.h ../../Common/src/CmPhysXCommon.h :
+ ../../foundation/include/Ps.h ../../../Include/foundation/Px.h :
+ ../../../Include/foundation/PxVersionNumber.h :
+ ../../../Include/foundation/PxSimpleTypes.h :
+ ../../../Include/foundation/PxPreprocessor.h :
+ ../../../Include/PxQueryReport.h ../../../Include/PxPhysXConfig.h :
+ ../../../Include/common/PxPhysXCommonConfig.h :
+ ../../../Include/foundation/PxVec3.h :
+ ../../../Include/foundation/PxMath.h :
+ ../../../Include/foundation/PxIntrinsics.h :
+ ../../../Include/foundation/unix/PxUnixIntrinsics.h :
+ ../../../Include/foundation/PxAssert.h :
+ ../../../Include/foundation/PxFlags.h :
+ ../../GeomUtils/src/hf/GuHeightFieldUtil.h :
+ ../../../Include/geometry/PxSimpleTriangleMesh.h :
+ ../../../Include/foundation/PxVec3.h :
+ ../../../Include/foundation/PxFlags.h :
+ ../../../Include/common/PxCoreUtilityTypes.h :
+ ../../../Include/common/PxPhysXCommonConfig.h :
+ ../../../Include/geometry/PxHeightFieldGeometry.h :
+ ../../../Include/geometry/PxTriangleMeshGeometry.h :
+ ../../../Include/geometry/PxGeometry.h :
+ ../../../Include/geometry/PxMeshScale.h :
+ ../../../Include/foundation/PxMat33.h :
+ ../../../Include/foundation/PxQuat.h :
+ ../../GeomUtils/src/hf/GuHeightField.h :
+ ../../foundation/include/PsUserAllocated.h :
+ ../../foundation/include/PsAllocator.h :
+ ../../../Include/foundation/PxAllocatorCallback.h :
+ ../../../Include/foundation/PxFoundation.h :
+ ../../../Include/foundation/PxErrors.h ../../foundation/include/Ps.h :
+ ../../foundation/include/PsAlignedMalloc.h :
+ ../../foundation/include/PsUserAllocated.h :
+ ../../foundation/include/PsFoundation.h :
+ ../../foundation/include/PsInlineArray.h :
+ ../../foundation/include/PsArray.h :
+ ../../foundation/include/PsUtilities.h :
+ ../../foundation/include/PsIntrinsics.h :
+ ../../foundation/include/unix/PsUnixIntrinsics.h :
+ ../../foundation/include/PsFPU.h :
+ ../../../Include/foundation/PxUnionCast.h :
+ ../../foundation/include/unix/PsUnixFPU.h :
+ ../../foundation/include/PsVecMath.h :
+ ../../../Include/foundation/PxVec4.h ../../foundation/include/PsAoS.h :
+ ../../foundation/include/unix/PsUnixAoS.h :
+ ../../foundation/include/unix/sse2/PsUnixSse2AoS.h :
+ ../../foundation/include/PsInlineAoS.h :
+ ../../foundation/include/unix/PsUnixTrigConstants.h :
+ ../../foundation/include/unix/PsUnixInlineAoS.h :
+ ../../foundation/include/unix/sse2/PsUnixSse2InlineAoS.h :
+ ../../foundation/include/PsVecQuat.h :
+ ../../foundation/include/PsInlineAllocator.h :
+ ../../foundation/include/PsMutex.h :
+ ../../../Include/foundation/PxBroadcastingAllocator.h :
+ ../../foundation/include/PsPAEventSrc.h :
+ ../../foundation/include/PsHashMap.h :
+ ../../foundation/include/PsHashInternals.h :
+ ../../foundation/include/PsBasicTemplates.h :
+ ../../foundation/include/PsBitUtils.h ../../foundation/include/PsHash.h :
+ ../../../Include/foundation/PxMemory.h :
+ ../../foundation/include/PsErrorHandler.h :
+ ../../../Include/foundation/PxErrorCallback.h :
+ ../../Common/src/CmRefCountable.h ../../Common/src/CmPhysXCommon.h :
+ ../../foundation/include/PsAtomic.h :
+ ../../../Include/foundation/PxAssert.h :
+ ../../../Include/common/PxMetaData.h :
+ ../../../Include/common/PxMetaDataFlags.h :
+ ../../../Include/foundation/PxIO.h :
+ ../../foundation/include/PsMathUtils.h :
+ ../../../Include/foundation/PxTransform.h :
+ ../../../Include/foundation/PxPlane.h :
+ ../../../Include/foundation/PxBounds3.h ../../GeomUtils/src/GuSphere.h :
+ ../../../Include/foundation/PxVec3.h :
+ ../../../Include/geometry/PxHeightFieldSample.h :
+ ../../../Include/foundation/PxBitAndData.h :
+ ../../../Include/geometry/PxHeightFieldDesc.h :
+ ../../../Include/foundation/PxBounds3.h :
+ ../../../Include/geometry/PxHeightFieldFlag.h :
+ ../../GeomUtils/src/hf/GuHeightFieldData.h :
+ ../../../Include/foundation/PxSimpleTypes.h :
+ ../../../Include/geometry/PxHeightFieldFlag.h :
+ ../../../Include/geometry/PxHeightField.h :
+ ../../../Include/common/PxBase.h :
+ ../../../Include/common/PxSerialFramework.h :
+ ../../../Include/common/PxTypeInfo.h :
+ ../../../Include/common/PxCollection.h :
+ ../../../Include/foundation/PxIO.h :
+ ../../../Include/common/PxSerialFramework.h :
+ ../../../Include/geometry/PxTriangle.h :
+ ../../foundation/include/PsIntrinsics.h :
+ ../../GeomUtils/src/hf/../intersection/GuIntersectionRayTriangle.h :
+ ../../../Include/common/PxPhysXCommonConfig.h :
+ ../../GeomUtils/src/hf/../intersection/GuIntersectionRayBox.h :
+ ../../../Include/foundation/PxIntrinsics.h :
+ ../../Common/src/CmMidphaseTrace.h :
+ ../../GeomUtils/src/hf/GuEntityReport.h :
+ ../../../Include/geometry/PxSphereGeometry.h :
+ ../../GeomUtils/headers/GuDistanceSegmentBox.h :
+ ../../../Include/foundation/PxMat33.h :
+ ../../GeomUtils/headers/GuSegment.h ../../GeomUtils/headers/GuBox.h :
+ ../../../Include/foundation/PxTransform.h :
+ ../../GeomUtils/src/distance/GuDistancePointBox.h :
+ ../../GeomUtils/headers/GuBox.h ../../foundation/include/PsAlloca.h :
+ ../../foundation/include/PsTempAllocator.h :
+ ../../GeomUtils/src/gjk/GuVecTriangle.h :
+ ../../GeomUtils/src/gjk/GuVecConvex.h :
+ ../../GeomUtils/src/convex/GuConvexSupportTable.h :
+ ../../GeomUtils/src/gjk/GuVecConvex.h :
+ ../../foundation/include/PsVecTransform.h :
+ ../../foundation/include/PsVecMath.h :
+ ../../GeomUtils/src/distance/GuDistancePointTriangleSIMD.h :
+ ../../GeomUtils/src/gjk/GuVecBox.h :
+ ../../GeomUtils/src/gjk/GuGJKWrapper.h :
+ ../../GeomUtils/src/gjk/GuGJKUtil.h :
+ ../../GeomUtils/src/GuSweepSharedTests.h :
+ ../../GeomUtils/src/common/GuBoxConversion.h :
+ ../../Common/src/CmMatrix34.h ../../GeomUtils/src/GuGeomUtilsInternal.h :
+ ../../GeomUtils/src/GuCapsule.h ../../GeomUtils/headers/GuSegment.h :
+ ../../../Include/geometry/PxCapsuleGeometry.h :
+ ../../../Include/geometry/PxBoxGeometry.h :
+ ../../foundation/include/PsUtilities.h :
+ ../../GeomUtils/src/mesh/GuTriangleMesh.h :
+ ../../GeomUtils/src/mesh/GuInternalTriangleMesh.h :
+ ../../../Include/geometry/PxTriangleMesh.h :
+ ../../GeomUtils/src/mesh/GuTriangleMeshData.h :
+ ../../GeomUtils/src/mesh/GuHybridModel.h :
+ ../../GeomUtils/src/mesh/GuRTree.h ../../../Include/foundation/PxVec4.h :
+ ../../GeomUtils/src/mesh/GuMeshInterface.h :
+ ../../GeomUtils/src/mesh/GuTriangle32.h ../../Common/src/CmMemFetch.h :
+ ../../../Include/foundation/PxMemory.h ../../Common/src/CmRenderOutput.h :
+ ../../Common/src/CmRenderBuffer.h :
+ ../../../Include/common/PxRenderBuffer.h :
+ ../../foundation/include/PsArray.h ../../Common/src/CmMatrix34.h :
+ ../../../Include/foundation/PxMat44.h :
+ ../../../Include/geometry/PxTriangleMeshGeometry.h :
+ ../../GeomUtils/src/sweep/GuSweepBoxSphere.h :
+ ../../GeomUtils/src/sweep/GuSweepCapsuleBox.h :
+ ../../GeomUtils/src/sweep/GuSweepBoxBox.h :
+ ../../GeomUtils/src/sweep/GuSweepBoxTriangle_FeatureBased.h :
+ ../../GeomUtils/src/sweep/GuSweepBoxTriangle_SAT.h :
+ ../../GeomUtils/src/sweep/GuSweepTriangleUtils.h :
+ ../../GeomUtils/src/GuSweepSharedTests.h :

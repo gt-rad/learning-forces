@@ -1,0 +1,47 @@
+build/Samples_release/SampleCustomGravity/Planet.cpp.o: \
+ ../../SampleCustomGravity/Planet.cpp ../../SampleCustomGravity/Planet.h \
+ ../../SampleBase/SampleAllocator.h \
+ ../../../Include/foundation/PxAllocatorCallback.h \
+ ../../../Include/foundation/Px.h \
+ ../../../Include/foundation/PxVersionNumber.h \
+ ../../../Include/foundation/PxSimpleTypes.h \
+ ../../../Include/foundation/PxPreprocessor.h \
+ ../../../Include/common/PxPhysXCommonConfig.h \
+ ../../../Source/foundation/include/PsMutex.h \
+ ../../../Source/foundation/include/PsAllocator.h \
+ ../../../Include/foundation/PxFoundation.h \
+ ../../../Include/foundation/PxErrors.h \
+ ../../../Source/foundation/include/Ps.h \
+ ../../PxToolkit/include/PxTkNamespaceMangle.h \
+ ../../../Source/foundation/include/Ps.h \
+ ../../../Include/foundation/PxVec3.h \
+ ../../../Include/foundation/PxMath.h \
+ ../../../Include/foundation/PxIntrinsics.h \
+ ../../../Include/foundation/unix/PxUnixIntrinsics.h \
+ ../../../Include/foundation/PxAssert.h \
+ ../../SampleFramework/renderer/include/RendererMemoryMacros.h \
+ ../../../Include/foundation/PxPlane.h \
+ ../../PxToolkit/include/PxTkRandom.h
+ ../../SampleCustomGravity/Planet.cpp ../../SampleCustomGravity/Planet.h :
+ ../../SampleBase/SampleAllocator.h :
+ ../../../Include/foundation/PxAllocatorCallback.h :
+ ../../../Include/foundation/Px.h :
+ ../../../Include/foundation/PxVersionNumber.h :
+ ../../../Include/foundation/PxSimpleTypes.h :
+ ../../../Include/foundation/PxPreprocessor.h :
+ ../../../Include/common/PxPhysXCommonConfig.h :
+ ../../../Source/foundation/include/PsMutex.h :
+ ../../../Source/foundation/include/PsAllocator.h :
+ ../../../Include/foundation/PxFoundation.h :
+ ../../../Include/foundation/PxErrors.h :
+ ../../../Source/foundation/include/Ps.h :
+ ../../PxToolkit/include/PxTkNamespaceMangle.h :
+ ../../../Source/foundation/include/Ps.h :
+ ../../../Include/foundation/PxVec3.h :
+ ../../../Include/foundation/PxMath.h :
+ ../../../Include/foundation/PxIntrinsics.h :
+ ../../../Include/foundation/unix/PxUnixIntrinsics.h :
+ ../../../Include/foundation/PxAssert.h :
+ ../../SampleFramework/renderer/include/RendererMemoryMacros.h :
+ ../../../Include/foundation/PxPlane.h :
+ ../../PxToolkit/include/PxTkRandom.h :

@@ -1,0 +1,33 @@
+build/Samples_release/SampleCCTSharedCode/SampleCCTJump.cpp.o: \
+ ../../SampleCCTSharedCode/SampleCCTJump.cpp \
+ ../../SampleCCTSharedCode/SampleCCTJump.h \
+ ../../../Include/common/PxPhysXCommonConfig.h \
+ ../../../Include/foundation/Px.h \
+ ../../../Include/foundation/PxVersionNumber.h \
+ ../../../Include/foundation/PxSimpleTypes.h \
+ ../../../Include/foundation/PxPreprocessor.h \
+ ../../SampleBase/SampleAllocator.h \
+ ../../../Include/foundation/PxAllocatorCallback.h \
+ ../../../Source/foundation/include/PsMutex.h \
+ ../../../Source/foundation/include/PsAllocator.h \
+ ../../../Include/foundation/PxFoundation.h \
+ ../../../Include/foundation/PxErrors.h \
+ ../../../Source/foundation/include/Ps.h \
+ ../../PxToolkit/include/PxTkNamespaceMangle.h \
+ ../../../Source/foundation/include/Ps.h
+ ../../SampleCCTSharedCode/SampleCCTJump.cpp :
+ ../../SampleCCTSharedCode/SampleCCTJump.h :
+ ../../../Include/common/PxPhysXCommonConfig.h :
+ ../../../Include/foundation/Px.h :
+ ../../../Include/foundation/PxVersionNumber.h :
+ ../../../Include/foundation/PxSimpleTypes.h :
+ ../../../Include/foundation/PxPreprocessor.h :
+ ../../SampleBase/SampleAllocator.h :
+ ../../../Include/foundation/PxAllocatorCallback.h :
+ ../../../Source/foundation/include/PsMutex.h :
+ ../../../Source/foundation/include/PsAllocator.h :
+ ../../../Include/foundation/PxFoundation.h :
+ ../../../Include/foundation/PxErrors.h :
+ ../../../Source/foundation/include/Ps.h :
+ ../../PxToolkit/include/PxTkNamespaceMangle.h :
+ ../../../Source/foundation/include/Ps.h :

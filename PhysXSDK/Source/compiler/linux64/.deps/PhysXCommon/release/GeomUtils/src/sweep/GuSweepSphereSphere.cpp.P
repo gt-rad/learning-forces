@@ -1,0 +1,33 @@
+build/PhysXCommon_release/GeomUtils/src/sweep/GuSweepSphereSphere.cpp.o: \
+ ../../GeomUtils/src/sweep/GuSweepSphereSphere.cpp \
+ ../../GeomUtils/src/sweep/GuSweepSphereSphere.h \
+ ../../Common/src/CmPhysXCommon.h ../../foundation/include/Ps.h \
+ ../../../Include/foundation/Px.h \
+ ../../../Include/foundation/PxVersionNumber.h \
+ ../../../Include/foundation/PxSimpleTypes.h \
+ ../../../Include/foundation/PxPreprocessor.h \
+ ../../../Include/foundation/PxVec3.h \
+ ../../../Include/foundation/PxMath.h \
+ ../../../Include/foundation/PxIntrinsics.h \
+ ../../../Include/foundation/unix/PxUnixIntrinsics.h \
+ ../../../Include/foundation/PxAssert.h \
+ ../../foundation/include/PsUtilities.h \
+ ../../../Include/foundation/PxVec3.h ../../foundation/include/Ps.h \
+ ../../foundation/include/PsIntrinsics.h \
+ ../../foundation/include/unix/PsUnixIntrinsics.h
+ ../../GeomUtils/src/sweep/GuSweepSphereSphere.cpp :
+ ../../GeomUtils/src/sweep/GuSweepSphereSphere.h :
+ ../../Common/src/CmPhysXCommon.h ../../foundation/include/Ps.h :
+ ../../../Include/foundation/Px.h :
+ ../../../Include/foundation/PxVersionNumber.h :
+ ../../../Include/foundation/PxSimpleTypes.h :
+ ../../../Include/foundation/PxPreprocessor.h :
+ ../../../Include/foundation/PxVec3.h :
+ ../../../Include/foundation/PxMath.h :
+ ../../../Include/foundation/PxIntrinsics.h :
+ ../../../Include/foundation/unix/PxUnixIntrinsics.h :
+ ../../../Include/foundation/PxAssert.h :
+ ../../foundation/include/PsUtilities.h :
+ ../../../Include/foundation/PxVec3.h ../../foundation/include/Ps.h :
+ ../../foundation/include/PsIntrinsics.h :
+ ../../foundation/include/unix/PsUnixIntrinsics.h :

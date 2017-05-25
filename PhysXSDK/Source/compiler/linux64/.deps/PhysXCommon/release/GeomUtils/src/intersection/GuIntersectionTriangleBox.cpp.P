@@ -1,0 +1,67 @@
+build/PhysXCommon_release/GeomUtils/src/intersection/GuIntersectionTriangleBox.cpp.o: \
+ ../../GeomUtils/src/intersection/GuIntersectionTriangleBox.cpp \
+ ../../GeomUtils/headers/GuIntersectionTriangleBox.h \
+ ../../../Include/common/PxPhysXCommonConfig.h \
+ ../../../Include/foundation/Px.h \
+ ../../../Include/foundation/PxVersionNumber.h \
+ ../../../Include/foundation/PxSimpleTypes.h \
+ ../../../Include/foundation/PxPreprocessor.h \
+ ../../Common/src/CmPhysXCommon.h ../../foundation/include/Ps.h \
+ ../../GeomUtils/headers/GuBox.h \
+ ../../../Include/foundation/PxTransform.h \
+ ../../../Include/foundation/PxQuat.h \
+ ../../../Include/foundation/PxVec3.h \
+ ../../../Include/foundation/PxMath.h \
+ ../../../Include/foundation/PxIntrinsics.h \
+ ../../../Include/foundation/unix/PxUnixIntrinsics.h \
+ ../../../Include/foundation/PxAssert.h \
+ ../../../Include/foundation/PxPlane.h \
+ ../../../Include/foundation/PxMat33.h \
+ ../../GeomUtils/src/intersection/GuIntersectionTriangleBoxSIMD.h \
+ ../../foundation/include/PsVecMath.h ../../foundation/include/Ps.h \
+ ../../foundation/include/PsIntrinsics.h \
+ ../../foundation/include/unix/PsUnixIntrinsics.h \
+ ../../../Include/foundation/PxVec4.h ../../foundation/include/PsAoS.h \
+ ../../foundation/include/unix/PsUnixAoS.h \
+ ../../foundation/include/unix/sse2/PsUnixSse2AoS.h \
+ ../../foundation/include/PsInlineAoS.h \
+ ../../foundation/include/unix/PsUnixTrigConstants.h \
+ ../../foundation/include/unix/PsUnixInlineAoS.h \
+ ../../foundation/include/unix/sse2/PsUnixSse2InlineAoS.h \
+ ../../foundation/include/PsVecQuat.h \
+ ../../../Include/foundation/PxVec3.h ../../Common/src/CmMatrix34.h \
+ ../../Common/src/CmPhysXCommon.h \
+ ../../../Include/foundation/PxTransform.h
+ ../../GeomUtils/src/intersection/GuIntersectionTriangleBox.cpp :
+ ../../GeomUtils/headers/GuIntersectionTriangleBox.h :
+ ../../../Include/common/PxPhysXCommonConfig.h :
+ ../../../Include/foundation/Px.h :
+ ../../../Include/foundation/PxVersionNumber.h :
+ ../../../Include/foundation/PxSimpleTypes.h :
+ ../../../Include/foundation/PxPreprocessor.h :
+ ../../Common/src/CmPhysXCommon.h ../../foundation/include/Ps.h :
+ ../../GeomUtils/headers/GuBox.h :
+ ../../../Include/foundation/PxTransform.h :
+ ../../../Include/foundation/PxQuat.h :
+ ../../../Include/foundation/PxVec3.h :
+ ../../../Include/foundation/PxMath.h :
+ ../../../Include/foundation/PxIntrinsics.h :
+ ../../../Include/foundation/unix/PxUnixIntrinsics.h :
+ ../../../Include/foundation/PxAssert.h :
+ ../../../Include/foundation/PxPlane.h :
+ ../../../Include/foundation/PxMat33.h :
+ ../../GeomUtils/src/intersection/GuIntersectionTriangleBoxSIMD.h :
+ ../../foundation/include/PsVecMath.h ../../foundation/include/Ps.h :
+ ../../foundation/include/PsIntrinsics.h :
+ ../../foundation/include/unix/PsUnixIntrinsics.h :
+ ../../../Include/foundation/PxVec4.h ../../foundation/include/PsAoS.h :
+ ../../foundation/include/unix/PsUnixAoS.h :
+ ../../foundation/include/unix/sse2/PsUnixSse2AoS.h :
+ ../../foundation/include/PsInlineAoS.h :
+ ../../foundation/include/unix/PsUnixTrigConstants.h :
+ ../../foundation/include/unix/PsUnixInlineAoS.h :
+ ../../foundation/include/unix/sse2/PsUnixSse2InlineAoS.h :
+ ../../foundation/include/PsVecQuat.h :
+ ../../../Include/foundation/PxVec3.h ../../Common/src/CmMatrix34.h :
+ ../../Common/src/CmPhysXCommon.h :
+ ../../../Include/foundation/PxTransform.h :

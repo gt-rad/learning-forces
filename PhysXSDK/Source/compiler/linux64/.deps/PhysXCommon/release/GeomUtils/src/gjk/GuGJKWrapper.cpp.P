@@ -1,0 +1,127 @@
+build/PhysXCommon_release/GeomUtils/src/gjk/GuGJKWrapper.cpp.o: \
+ ../../GeomUtils/src/gjk/GuGJKWrapper.cpp \
+ ../../GeomUtils/src/gjk/GuGJKWrapper.h \
+ ../../../Include/common/PxPhysXCommonConfig.h \
+ ../../../Include/foundation/Px.h \
+ ../../../Include/foundation/PxVersionNumber.h \
+ ../../../Include/foundation/PxSimpleTypes.h \
+ ../../../Include/foundation/PxPreprocessor.h \
+ ../../Common/src/CmPhysXCommon.h ../../foundation/include/Ps.h \
+ ../../foundation/include/PsVecMath.h ../../foundation/include/Ps.h \
+ ../../foundation/include/PsIntrinsics.h \
+ ../../foundation/include/unix/PsUnixIntrinsics.h \
+ ../../../Include/foundation/PxAssert.h \
+ ../../../Include/foundation/PxVec3.h \
+ ../../../Include/foundation/PxMath.h \
+ ../../../Include/foundation/PxIntrinsics.h \
+ ../../../Include/foundation/unix/PxUnixIntrinsics.h \
+ ../../../Include/foundation/PxVec4.h \
+ ../../../Include/foundation/PxMat33.h \
+ ../../../Include/foundation/PxQuat.h ../../foundation/include/PsAoS.h \
+ ../../foundation/include/unix/PsUnixAoS.h \
+ ../../foundation/include/unix/sse2/PsUnixSse2AoS.h \
+ ../../foundation/include/PsInlineAoS.h \
+ ../../foundation/include/unix/PsUnixTrigConstants.h \
+ ../../foundation/include/unix/PsUnixInlineAoS.h \
+ ../../foundation/include/unix/sse2/PsUnixSse2InlineAoS.h \
+ ../../foundation/include/PsVecQuat.h \
+ ../../foundation/include/PsVecTransform.h \
+ ../../foundation/include/PsVecMath.h \
+ ../../../Include/foundation/PxTransform.h \
+ ../../../Include/foundation/PxPlane.h \
+ ../../GeomUtils/src/gjk/GuGJKUtil.h \
+ ../../GeomUtils/src/gjk/GuVecCapsule.h \
+ ../../GeomUtils/src/gjk/GuVecConvex.h \
+ ../../GeomUtils/src/convex/GuConvexSupportTable.h \
+ ../../GeomUtils/src/gjk/GuVecConvex.h ../../GeomUtils/src/gjk/GuVecBox.h \
+ ../../GeomUtils/src/gjk/GuVecConvexHull.h \
+ ../../GeomUtils/src/convex/GuConvexMeshData.h \
+ ../../../Include/foundation/PxBounds3.h \
+ ../../foundation/include/PsIntrinsics.h \
+ ../../../Include/foundation/PxPlane.h ../../GeomUtils/src/GuSerialize.h \
+ ../../../Include/foundation/PxSimpleTypes.h \
+ ../../foundation/include/PsFPU.h \
+ ../../../Include/foundation/PxUnionCast.h \
+ ../../foundation/include/unix/PsUnixFPU.h \
+ ../../../Include/foundation/PxIO.h \
+ ../../../Include/common/PxPhysXCommonConfig.h \
+ ../../GeomUtils/src/convex/GuBigConvexData.h \
+ ../../GeomUtils/src/convex/GuCubeIndex.h \
+ ../../../Include/foundation/PxVec3.h \
+ ../../GeomUtils/src/gjk/GuVecTriangle.h \
+ ../../GeomUtils/src/distance/GuDistancePointTriangleSIMD.h \
+ ../../GeomUtils/src/gjk/GuVecShrunkConvexHull.h \
+ ../../GeomUtils/src/gjk/GuVecShrunkBox.h \
+ ../../GeomUtils/src/gjk/GuGJKRaycast.h \
+ ../../GeomUtils/src/gjk/GuGJKSimplex.h \
+ ../../GeomUtils/src/common/GuBarycentricCoordinates.h \
+ ../../GeomUtils/src/gjk/GuGJKPenetration.h \
+ ../../GeomUtils/src/gjk/GuVecShrunkConvexHullNoScale.h \
+ ../../GeomUtils/src/gjk/GuVecConvexHullNoScale.h \
+ ../../foundation/include/PsUtilities.h ../../GeomUtils/src/gjk/GuEPA.h \
+ ../../GeomUtils/src/gjk/GuGJK.h \
+ ../../GeomUtils/src/gjk/GuGJKSimplexTesselation.h \
+ ../../GeomUtils/src/gjk/GuGJKFallBack.h
+ ../../GeomUtils/src/gjk/GuGJKWrapper.cpp :
+ ../../GeomUtils/src/gjk/GuGJKWrapper.h :
+ ../../../Include/common/PxPhysXCommonConfig.h :
+ ../../../Include/foundation/Px.h :
+ ../../../Include/foundation/PxVersionNumber.h :
+ ../../../Include/foundation/PxSimpleTypes.h :
+ ../../../Include/foundation/PxPreprocessor.h :
+ ../../Common/src/CmPhysXCommon.h ../../foundation/include/Ps.h :
+ ../../foundation/include/PsVecMath.h ../../foundation/include/Ps.h :
+ ../../foundation/include/PsIntrinsics.h :
+ ../../foundation/include/unix/PsUnixIntrinsics.h :
+ ../../../Include/foundation/PxAssert.h :
+ ../../../Include/foundation/PxVec3.h :
+ ../../../Include/foundation/PxMath.h :
+ ../../../Include/foundation/PxIntrinsics.h :
+ ../../../Include/foundation/unix/PxUnixIntrinsics.h :
+ ../../../Include/foundation/PxVec4.h :
+ ../../../Include/foundation/PxMat33.h :
+ ../../../Include/foundation/PxQuat.h ../../foundation/include/PsAoS.h :
+ ../../foundation/include/unix/PsUnixAoS.h :
+ ../../foundation/include/unix/sse2/PsUnixSse2AoS.h :
+ ../../foundation/include/PsInlineAoS.h :
+ ../../foundation/include/unix/PsUnixTrigConstants.h :
+ ../../foundation/include/unix/PsUnixInlineAoS.h :
+ ../../foundation/include/unix/sse2/PsUnixSse2InlineAoS.h :
+ ../../foundation/include/PsVecQuat.h :
+ ../../foundation/include/PsVecTransform.h :
+ ../../foundation/include/PsVecMath.h :
+ ../../../Include/foundation/PxTransform.h :
+ ../../../Include/foundation/PxPlane.h :
+ ../../GeomUtils/src/gjk/GuGJKUtil.h :
+ ../../GeomUtils/src/gjk/GuVecCapsule.h :
+ ../../GeomUtils/src/gjk/GuVecConvex.h :
+ ../../GeomUtils/src/convex/GuConvexSupportTable.h :
+ ../../GeomUtils/src/gjk/GuVecConvex.h ../../GeomUtils/src/gjk/GuVecBox.h :
+ ../../GeomUtils/src/gjk/GuVecConvexHull.h :
+ ../../GeomUtils/src/convex/GuConvexMeshData.h :
+ ../../../Include/foundation/PxBounds3.h :
+ ../../foundation/include/PsIntrinsics.h :
+ ../../../Include/foundation/PxPlane.h ../../GeomUtils/src/GuSerialize.h :
+ ../../../Include/foundation/PxSimpleTypes.h :
+ ../../foundation/include/PsFPU.h :
+ ../../../Include/foundation/PxUnionCast.h :
+ ../../foundation/include/unix/PsUnixFPU.h :
+ ../../../Include/foundation/PxIO.h :
+ ../../../Include/common/PxPhysXCommonConfig.h :
+ ../../GeomUtils/src/convex/GuBigConvexData.h :
+ ../../GeomUtils/src/convex/GuCubeIndex.h :
+ ../../../Include/foundation/PxVec3.h :
+ ../../GeomUtils/src/gjk/GuVecTriangle.h :
+ ../../GeomUtils/src/distance/GuDistancePointTriangleSIMD.h :
+ ../../GeomUtils/src/gjk/GuVecShrunkConvexHull.h :
+ ../../GeomUtils/src/gjk/GuVecShrunkBox.h :
+ ../../GeomUtils/src/gjk/GuGJKRaycast.h :
+ ../../GeomUtils/src/gjk/GuGJKSimplex.h :
+ ../../GeomUtils/src/common/GuBarycentricCoordinates.h :
+ ../../GeomUtils/src/gjk/GuGJKPenetration.h :
+ ../../GeomUtils/src/gjk/GuVecShrunkConvexHullNoScale.h :
+ ../../GeomUtils/src/gjk/GuVecConvexHullNoScale.h :
+ ../../foundation/include/PsUtilities.h ../../GeomUtils/src/gjk/GuEPA.h :
+ ../../GeomUtils/src/gjk/GuGJK.h :
+ ../../GeomUtils/src/gjk/GuGJKSimplexTesselation.h :
+ ../../GeomUtils/src/gjk/GuGJKFallBack.h :

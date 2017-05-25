@@ -1,0 +1,203 @@
+build/Samples_release/SampleCCTSharedCode/KinematicPlatform.cpp.o: \
+ ../../SampleCCTSharedCode/KinematicPlatform.cpp \
+ ../../SampleBase/SamplePreprocessor.h \
+ ../../SampleCCTSharedCode/KinematicPlatform.h \
+ ../../../Include/common/PxPhysXCommonConfig.h \
+ ../../../Include/foundation/Px.h \
+ ../../../Include/foundation/PxVersionNumber.h \
+ ../../../Include/foundation/PxSimpleTypes.h \
+ ../../../Include/foundation/PxPreprocessor.h \
+ ../../../Include/foundation/PxTransform.h \
+ ../../../Include/foundation/PxQuat.h \
+ ../../../Include/foundation/PxVec3.h \
+ ../../../Include/foundation/PxMath.h \
+ ../../../Include/foundation/PxIntrinsics.h \
+ ../../../Include/foundation/unix/PxUnixIntrinsics.h \
+ ../../../Include/foundation/PxAssert.h \
+ ../../../Include/foundation/PxPlane.h ../../SampleBase/SampleAllocator.h \
+ ../../../Include/foundation/PxAllocatorCallback.h \
+ ../../../Source/foundation/include/PsMutex.h \
+ ../../../Source/foundation/include/PsAllocator.h \
+ ../../../Include/foundation/PxFoundation.h \
+ ../../../Include/foundation/PxErrors.h \
+ ../../../Source/foundation/include/Ps.h \
+ ../../PxToolkit/include/PxTkNamespaceMangle.h \
+ ../../../Source/foundation/include/Ps.h \
+ ../../SampleBase/SampleAllocatorSDKClasses.h \
+ ../../SampleBase/SampleAllocator.h \
+ ../../../Source/foundation/include/PsSync.h \
+ ../../../Include/geometry/PxBoxGeometry.h \
+ ../../../Include/geometry/PxGeometry.h \
+ ../../../Include/foundation/PxFlags.h \
+ ../../SampleFramework/renderer/include/RendererColor.h \
+ ../../SampleFramework/renderer/include/RendererConfig.h \
+ ../../SampleFramework/renderer/include/RendererFoundation.h \
+ ../../../Include/foundation/PxMat33.h \
+ ../../../Include/foundation/PxMat44.h \
+ ../../../Include/foundation/PxVec4.h \
+ ../../../Include/foundation/PxErrorCallback.h \
+ ../../SampleFramework/framework/include/SamplePxProfileZone.h \
+ ../../../Include/physxprofilesdk/PxProfileScopedEvent.h \
+ ../../../Include/physxprofilesdk/PxProfileBase.h \
+ ../../../Include/physxprofilesdk/PxProfileEventId.h \
+ ../../../Include/physxprofilesdk/PxProfileCompileTimeEventFilter.h \
+ ../../../Include/physxprofilesdk/PxProfileEventSender.h \
+ ../../../Include/physxprofilesdk/PxProfileContextProvider.h \
+ ../../../Include/physxprofilesdk/PxProfileEventNames.h \
+ ../../../Include/physxprofilesdk/PxProfileZone.h \
+ ../../../Include/physxprofilesdk/PxProfileEventBufferClientManager.h \
+ ../../../Include/physxprofilesdk/PxProfileEventBufferClient.h \
+ ../../../Include/physxprofilesdk/PxProfileEventFilter.h \
+ ../../SampleFramework/framework/include/SampleProfileDeclareAgPerfmonEventInfo.h \
+ ../../SampleFramework/framework/include/AgPerfMonEventDefs.h \
+ ../../../Include/vehicle/PxVehicleSDK.h \
+ ../../../Include/common/PxTypeInfo.h \
+ ../../../Include/characterkinematic/PxControllerObstacles.h \
+ ../../../Include/characterkinematic/PxCharacter.h \
+ ../../../Include/characterkinematic/PxExtended.h \
+ ../../../Include/PxPhysXConfig.h \
+ ../../../Include/common/PxPhysXCommonConfig.h \
+ ../../SampleFramework/renderer/include/RendererMemoryMacros.h \
+ ../../../Include/PxScene.h ../../../Include/PxVisualizationParameter.h \
+ ../../../Include/PxSceneDesc.h ../../../Include/PxPhysXConfig.h \
+ ../../../Include/foundation/PxFlags.h \
+ ../../../Include/foundation/PxBounds3.h ../../../Include/PxFiltering.h \
+ ../../../Include/PxBroadPhase.h \
+ ../../../Include/common/PxTolerancesScale.h \
+ ../../../Include/PxSimulationStatistics.h \
+ ../../../Include/geometry/PxGeometry.h ../../../Include/PxQueryReport.h \
+ ../../../Include/foundation/PxVec3.h ../../../Include/PxQueryFiltering.h \
+ ../../../Include/PxClient.h \
+ ../../../Include/particles/PxParticleSystem.h \
+ ../../../Include/particles/PxParticleBase.h \
+ ../../../Include/foundation/PxBounds3.h ../../../Include/PxFiltering.h \
+ ../../../Include/particles/PxParticleBaseFlag.h \
+ ../../../Include/PxActor.h ../../../Include/common/PxBase.h \
+ ../../../Include/common/PxSerialFramework.h \
+ ../../../Include/common/PxCollection.h \
+ ../../../Include/particles/PxParticleCreationData.h \
+ ../../../Include/foundation/PxStrideIterator.h \
+ ../../../Include/particles/PxParticleReadData.h \
+ ../../../Include/PxLockedData.h \
+ ../../../Include/particles/PxParticleFlag.h \
+ ../../../Include/PxForceMode.h \
+ ../../../Include/particles/PxParticleFluid.h \
+ ../../../Include/particles/PxParticleFluidReadData.h \
+ ../../../Include/PxSceneLock.h ../../../Include/PxScene.h \
+ ../../../Include/PxRigidDynamic.h ../../../Include/PxRigidBody.h \
+ ../../../Include/PxRigidActor.h ../../../Include/PxActor.h \
+ ../../../Include/PxShape.h ../../../Include/geometry/PxGeometryHelpers.h \
+ ../../../Include/geometry/PxGeometry.h \
+ ../../../Include/geometry/PxBoxGeometry.h \
+ ../../../Include/geometry/PxSphereGeometry.h \
+ ../../../Include/geometry/PxCapsuleGeometry.h \
+ ../../../Include/geometry/PxPlaneGeometry.h \
+ ../../../Include/geometry/PxConvexMeshGeometry.h \
+ ../../../Include/geometry/PxMeshScale.h \
+ ../../../Include/geometry/PxTriangleMeshGeometry.h \
+ ../../../Include/common/PxCoreUtilityTypes.h \
+ ../../../Include/geometry/PxHeightFieldGeometry.h \
+ ../../../Include/geometry/PxTriangleMeshGeometry.h \
+ ../../../Include/foundation/PxUnionCast.h ../../../Include/PxForceMode.h \
+ ../../PxToolkit/include/PxTkMatrixUtils.h
+ ../../SampleCCTSharedCode/KinematicPlatform.cpp :
+ ../../SampleBase/SamplePreprocessor.h :
+ ../../SampleCCTSharedCode/KinematicPlatform.h :
+ ../../../Include/common/PxPhysXCommonConfig.h :
+ ../../../Include/foundation/Px.h :
+ ../../../Include/foundation/PxVersionNumber.h :
+ ../../../Include/foundation/PxSimpleTypes.h :
+ ../../../Include/foundation/PxPreprocessor.h :
+ ../../../Include/foundation/PxTransform.h :
+ ../../../Include/foundation/PxQuat.h :
+ ../../../Include/foundation/PxVec3.h :
+ ../../../Include/foundation/PxMath.h :
+ ../../../Include/foundation/PxIntrinsics.h :
+ ../../../Include/foundation/unix/PxUnixIntrinsics.h :
+ ../../../Include/foundation/PxAssert.h :
+ ../../../Include/foundation/PxPlane.h ../../SampleBase/SampleAllocator.h :
+ ../../../Include/foundation/PxAllocatorCallback.h :
+ ../../../Source/foundation/include/PsMutex.h :
+ ../../../Source/foundation/include/PsAllocator.h :
+ ../../../Include/foundation/PxFoundation.h :
+ ../../../Include/foundation/PxErrors.h :
+ ../../../Source/foundation/include/Ps.h :
+ ../../PxToolkit/include/PxTkNamespaceMangle.h :
+ ../../../Source/foundation/include/Ps.h :
+ ../../SampleBase/SampleAllocatorSDKClasses.h :
+ ../../SampleBase/SampleAllocator.h :
+ ../../../Source/foundation/include/PsSync.h :
+ ../../../Include/geometry/PxBoxGeometry.h :
+ ../../../Include/geometry/PxGeometry.h :
+ ../../../Include/foundation/PxFlags.h :
+ ../../SampleFramework/renderer/include/RendererColor.h :
+ ../../SampleFramework/renderer/include/RendererConfig.h :
+ ../../SampleFramework/renderer/include/RendererFoundation.h :
+ ../../../Include/foundation/PxMat33.h :
+ ../../../Include/foundation/PxMat44.h :
+ ../../../Include/foundation/PxVec4.h :
+ ../../../Include/foundation/PxErrorCallback.h :
+ ../../SampleFramework/framework/include/SamplePxProfileZone.h :
+ ../../../Include/physxprofilesdk/PxProfileScopedEvent.h :
+ ../../../Include/physxprofilesdk/PxProfileBase.h :
+ ../../../Include/physxprofilesdk/PxProfileEventId.h :
+ ../../../Include/physxprofilesdk/PxProfileCompileTimeEventFilter.h :
+ ../../../Include/physxprofilesdk/PxProfileEventSender.h :
+ ../../../Include/physxprofilesdk/PxProfileContextProvider.h :
+ ../../../Include/physxprofilesdk/PxProfileEventNames.h :
+ ../../../Include/physxprofilesdk/PxProfileZone.h :
+ ../../../Include/physxprofilesdk/PxProfileEventBufferClientManager.h :
+ ../../../Include/physxprofilesdk/PxProfileEventBufferClient.h :
+ ../../../Include/physxprofilesdk/PxProfileEventFilter.h :
+ ../../SampleFramework/framework/include/SampleProfileDeclareAgPerfmonEventInfo.h :
+ ../../SampleFramework/framework/include/AgPerfMonEventDefs.h :
+ ../../../Include/vehicle/PxVehicleSDK.h :
+ ../../../Include/common/PxTypeInfo.h :
+ ../../../Include/characterkinematic/PxControllerObstacles.h :
+ ../../../Include/characterkinematic/PxCharacter.h :
+ ../../../Include/characterkinematic/PxExtended.h :
+ ../../../Include/PxPhysXConfig.h :
+ ../../../Include/common/PxPhysXCommonConfig.h :
+ ../../SampleFramework/renderer/include/RendererMemoryMacros.h :
+ ../../../Include/PxScene.h ../../../Include/PxVisualizationParameter.h :
+ ../../../Include/PxSceneDesc.h ../../../Include/PxPhysXConfig.h :
+ ../../../Include/foundation/PxFlags.h :
+ ../../../Include/foundation/PxBounds3.h ../../../Include/PxFiltering.h :
+ ../../../Include/PxBroadPhase.h :
+ ../../../Include/common/PxTolerancesScale.h :
+ ../../../Include/PxSimulationStatistics.h :
+ ../../../Include/geometry/PxGeometry.h ../../../Include/PxQueryReport.h :
+ ../../../Include/foundation/PxVec3.h ../../../Include/PxQueryFiltering.h :
+ ../../../Include/PxClient.h :
+ ../../../Include/particles/PxParticleSystem.h :
+ ../../../Include/particles/PxParticleBase.h :
+ ../../../Include/foundation/PxBounds3.h ../../../Include/PxFiltering.h :
+ ../../../Include/particles/PxParticleBaseFlag.h :
+ ../../../Include/PxActor.h ../../../Include/common/PxBase.h :
+ ../../../Include/common/PxSerialFramework.h :
+ ../../../Include/common/PxCollection.h :
+ ../../../Include/particles/PxParticleCreationData.h :
+ ../../../Include/foundation/PxStrideIterator.h :
+ ../../../Include/particles/PxParticleReadData.h :
+ ../../../Include/PxLockedData.h :
+ ../../../Include/particles/PxParticleFlag.h :
+ ../../../Include/PxForceMode.h :
+ ../../../Include/particles/PxParticleFluid.h :
+ ../../../Include/particles/PxParticleFluidReadData.h :
+ ../../../Include/PxSceneLock.h ../../../Include/PxScene.h :
+ ../../../Include/PxRigidDynamic.h ../../../Include/PxRigidBody.h :
+ ../../../Include/PxRigidActor.h ../../../Include/PxActor.h :
+ ../../../Include/PxShape.h ../../../Include/geometry/PxGeometryHelpers.h :
+ ../../../Include/geometry/PxGeometry.h :
+ ../../../Include/geometry/PxBoxGeometry.h :
+ ../../../Include/geometry/PxSphereGeometry.h :
+ ../../../Include/geometry/PxCapsuleGeometry.h :
+ ../../../Include/geometry/PxPlaneGeometry.h :
+ ../../../Include/geometry/PxConvexMeshGeometry.h :
+ ../../../Include/geometry/PxMeshScale.h :
+ ../../../Include/geometry/PxTriangleMeshGeometry.h :
+ ../../../Include/common/PxCoreUtilityTypes.h :
+ ../../../Include/geometry/PxHeightFieldGeometry.h :
+ ../../../Include/geometry/PxTriangleMeshGeometry.h :
+ ../../../Include/foundation/PxUnionCast.h ../../../Include/PxForceMode.h :
+ ../../PxToolkit/include/PxTkMatrixUtils.h :

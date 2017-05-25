@@ -1,0 +1,25 @@
+build/PhysXCommon_release/foundation/src/PsFastXml.cpp.o: \
+ ../../foundation/src/PsFastXml.cpp ../../foundation/include/Ps.h \
+ ../../../Include/foundation/Px.h \
+ ../../../Include/foundation/PxVersionNumber.h \
+ ../../../Include/foundation/PxSimpleTypes.h \
+ ../../../Include/foundation/PxPreprocessor.h \
+ ../../../Include/foundation/PxAssert.h \
+ ../../foundation/include/PsFastXml.h ../../../Include/foundation/PxIO.h \
+ ../../../Include/common/PxPhysXCommonConfig.h \
+ ../../foundation/include/PsAllocator.h \
+ ../../../Include/foundation/PxAllocatorCallback.h \
+ ../../../Include/foundation/PxFoundation.h \
+ ../../../Include/foundation/PxErrors.h ../../foundation/include/Ps.h
+ ../../foundation/src/PsFastXml.cpp ../../foundation/include/Ps.h :
+ ../../../Include/foundation/Px.h :
+ ../../../Include/foundation/PxVersionNumber.h :
+ ../../../Include/foundation/PxSimpleTypes.h :
+ ../../../Include/foundation/PxPreprocessor.h :
+ ../../../Include/foundation/PxAssert.h :
+ ../../foundation/include/PsFastXml.h ../../../Include/foundation/PxIO.h :
+ ../../../Include/common/PxPhysXCommonConfig.h :
+ ../../foundation/include/PsAllocator.h :
+ ../../../Include/foundation/PxAllocatorCallback.h :
+ ../../../Include/foundation/PxFoundation.h :
+ ../../../Include/foundation/PxErrors.h ../../foundation/include/Ps.h :

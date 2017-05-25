@@ -1,0 +1,13 @@
+build/PhysXCommon_release/foundation/src/unix/PsUnixAtomic.cpp.o: \
+ ../../foundation/src/unix/PsUnixAtomic.cpp ../../foundation/include/Ps.h \
+ ../../../Include/foundation/Px.h \
+ ../../../Include/foundation/PxVersionNumber.h \
+ ../../../Include/foundation/PxSimpleTypes.h \
+ ../../../Include/foundation/PxPreprocessor.h \
+ ../../foundation/include/PsAtomic.h ../../foundation/include/Ps.h
+ ../../foundation/src/unix/PsUnixAtomic.cpp ../../foundation/include/Ps.h :
+ ../../../Include/foundation/Px.h :
+ ../../../Include/foundation/PxVersionNumber.h :
+ ../../../Include/foundation/PxSimpleTypes.h :
+ ../../../Include/foundation/PxPreprocessor.h :
+ ../../foundation/include/PsAtomic.h ../../foundation/include/Ps.h :

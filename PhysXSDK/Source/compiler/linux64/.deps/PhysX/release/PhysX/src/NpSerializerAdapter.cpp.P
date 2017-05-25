@@ -1,0 +1,647 @@
+build/PhysX_release/PhysX/src/NpSerializerAdapter.cpp.o: \
+ ../../PhysX/src/NpSerializerAdapter.cpp \
+ ../../GeomUtils/src/hf/GuHeightField.h \
+ ../../foundation/include/PsUserAllocated.h \
+ ../../foundation/include/PsAllocator.h \
+ ../../../Include/foundation/PxAllocatorCallback.h \
+ ../../../Include/foundation/Px.h \
+ ../../../Include/foundation/PxVersionNumber.h \
+ ../../../Include/foundation/PxSimpleTypes.h \
+ ../../../Include/foundation/PxPreprocessor.h \
+ ../../../Include/foundation/PxFoundation.h \
+ ../../../Include/foundation/PxErrors.h ../../foundation/include/Ps.h \
+ ../../foundation/include/PsAlignedMalloc.h \
+ ../../foundation/include/PsUserAllocated.h \
+ ../../foundation/include/PsFoundation.h \
+ ../../foundation/include/PsInlineArray.h \
+ ../../foundation/include/PsArray.h \
+ ../../../Include/foundation/PxAssert.h \
+ ../../foundation/include/PsUtilities.h \
+ ../../../Include/foundation/PxVec3.h \
+ ../../../Include/foundation/PxMath.h \
+ ../../../Include/foundation/PxIntrinsics.h \
+ ../../../Include/foundation/unix/PxUnixIntrinsics.h \
+ ../../foundation/include/PsIntrinsics.h \
+ ../../foundation/include/unix/PsUnixIntrinsics.h \
+ ../../foundation/include/Ps.h ../../foundation/include/PsFPU.h \
+ ../../../Include/foundation/PxUnionCast.h \
+ ../../foundation/include/unix/PsUnixFPU.h \
+ ../../foundation/include/PsVecMath.h \
+ ../../../Include/foundation/PxVec4.h \
+ ../../../Include/foundation/PxMat33.h \
+ ../../../Include/foundation/PxQuat.h ../../foundation/include/PsAoS.h \
+ ../../foundation/include/unix/PsUnixAoS.h \
+ ../../foundation/include/unix/sse2/PsUnixSse2AoS.h \
+ ../../foundation/include/PsInlineAoS.h \
+ ../../foundation/include/unix/PsUnixTrigConstants.h \
+ ../../foundation/include/unix/PsUnixInlineAoS.h \
+ ../../foundation/include/unix/sse2/PsUnixSse2InlineAoS.h \
+ ../../foundation/include/PsVecQuat.h \
+ ../../foundation/include/PsInlineAllocator.h \
+ ../../foundation/include/PsMutex.h \
+ ../../../Include/foundation/PxBroadcastingAllocator.h \
+ ../../foundation/include/PsPAEventSrc.h \
+ ../../foundation/include/PsHashMap.h \
+ ../../foundation/include/PsHashInternals.h \
+ ../../foundation/include/PsBasicTemplates.h \
+ ../../foundation/include/PsBitUtils.h ../../foundation/include/PsHash.h \
+ ../../../Include/foundation/PxMemory.h \
+ ../../foundation/include/PsErrorHandler.h \
+ ../../../Include/foundation/PxErrorCallback.h \
+ ../../Common/src/CmRefCountable.h ../../Common/src/CmPhysXCommon.h \
+ ../../foundation/include/PsAtomic.h \
+ ../../../Include/foundation/PxAssert.h \
+ ../../../Include/common/PxMetaData.h \
+ ../../../Include/common/PxMetaDataFlags.h \
+ ../../../Include/foundation/PxIO.h \
+ ../../../Include/common/PxPhysXCommonConfig.h \
+ ../../foundation/include/PsMathUtils.h \
+ ../../../Include/foundation/PxTransform.h \
+ ../../../Include/foundation/PxPlane.h \
+ ../../../Include/foundation/PxBounds3.h ../../GeomUtils/src/GuSphere.h \
+ ../../../Include/foundation/PxVec3.h ../../Common/src/CmPhysXCommon.h \
+ ../../../Include/geometry/PxHeightFieldSample.h \
+ ../../../Include/foundation/PxBitAndData.h \
+ ../../../Include/geometry/PxHeightFieldDesc.h \
+ ../../../Include/foundation/PxBounds3.h \
+ ../../../Include/geometry/PxHeightFieldFlag.h \
+ ../../../Include/foundation/PxFlags.h \
+ ../../../Include/common/PxCoreUtilityTypes.h \
+ ../../GeomUtils/src/hf/GuHeightFieldData.h \
+ ../../../Include/foundation/PxSimpleTypes.h \
+ ../../../Include/geometry/PxHeightFieldFlag.h \
+ ../../../Include/geometry/PxHeightField.h \
+ ../../../Include/common/PxBase.h \
+ ../../../Include/common/PxSerialFramework.h \
+ ../../../Include/common/PxTypeInfo.h \
+ ../../../Include/common/PxCollection.h \
+ ../../../Include/foundation/PxIO.h \
+ ../../../Include/common/PxSerialFramework.h \
+ ../../GeomUtils/src/convex/GuConvexMesh.h \
+ ../../../Include/geometry/PxConvexMesh.h \
+ ../../../Include/foundation/PxBitAndData.h \
+ ../../GeomUtils/src/convex/GuConvexMeshData.h \
+ ../../foundation/include/PsIntrinsics.h \
+ ../../../Include/foundation/PxPlane.h ../../GeomUtils/src/GuSerialize.h \
+ ../../foundation/include/PsFPU.h ../../Common/src/CmRenderOutput.h \
+ ../../Common/src/CmRenderBuffer.h \
+ ../../../Include/common/PxRenderBuffer.h \
+ ../../foundation/include/PsArray.h ../../Common/src/CmMatrix34.h \
+ ../../../Include/foundation/PxMat44.h \
+ ../../GeomUtils/src/mesh/GuTriangleMesh.h \
+ ../../GeomUtils/src/mesh/GuInternalTriangleMesh.h \
+ ../../../Include/geometry/PxSimpleTriangleMesh.h \
+ ../../../Include/geometry/PxTriangleMesh.h \
+ ../../GeomUtils/src/mesh/GuTriangleMeshData.h \
+ ../../GeomUtils/src/mesh/GuHybridModel.h \
+ ../../GeomUtils/src/mesh/GuRTree.h ../../../Include/foundation/PxVec4.h \
+ ../../GeomUtils/src/mesh/GuMeshInterface.h \
+ ../../GeomUtils/src/mesh/GuTriangle32.h ../../Common/src/CmMemFetch.h \
+ ../../../Include/foundation/PxMemory.h \
+ ../../../Include/geometry/PxTriangle.h \
+ ../../PhysX/src/cloth/NpClothFabric.h ../../../Include/PxPhysXConfig.h \
+ ../../../Include/common/PxPhysXCommonConfig.h \
+ ../../../Include/cloth/PxClothFabric.h \
+ ../../SimulationController/include/ScClothFabricCore.h \
+ ../../PhysX/src/cloth/NpCloth.h ../../../Include/cloth/PxCloth.h \
+ ../../../Include/PxActor.h ../../../Include/PxPhysXConfig.h \
+ ../../../Include/foundation/PxBounds3.h ../../../Include/PxClient.h \
+ ../../../Include/foundation/PxFlags.h ../../../Include/common/PxBase.h \
+ ../../../Include/PxLockedData.h ../../../Include/PxFiltering.h \
+ ../../../Include/cloth/PxClothFabric.h \
+ ../../../Include/cloth/PxClothTypes.h \
+ ../../../Include/cloth/PxClothCollisionData.h \
+ ../../PhysX/src/NpActorTemplate.h ../../PhysX/src/NpWriteCheck.h \
+ ../../PhysX/src/NpReadCheck.h ../../PhysX/src/NpActor.h \
+ ../../PhysX/src/NpConnector.h ../../foundation/include/PsInlineArray.h \
+ ../../Common/src/CmUtils.h ../../../Include/foundation/PxMat33.h \
+ ../../../Include/common/PxBase.h ../../PhysX/src/buffering/ScbActor.h \
+ ../../SimulationController/include/ScActorCore.h \
+ ../../foundation/include/PsUtilities.h \
+ ../../PhysX/src/buffering/ScbBase.h ../../PhysX/src/buffering/ScbScene.h \
+ ../../SimulationController/include/ScScene.h ../../../Include/PxScene.h \
+ ../../../Include/PxVisualizationParameter.h \
+ ../../../Include/PxSceneDesc.h ../../../Include/PxFiltering.h \
+ ../../../Include/PxBroadPhase.h \
+ ../../../Include/common/PxTolerancesScale.h \
+ ../../../Include/PxSimulationStatistics.h \
+ ../../../Include/geometry/PxGeometry.h ../../../Include/PxQueryReport.h \
+ ../../../Include/foundation/PxVec3.h ../../../Include/PxQueryFiltering.h \
+ ../../../Include/particles/PxParticleSystem.h \
+ ../../../Include/particles/PxParticleBase.h \
+ ../../../Include/particles/PxParticleBaseFlag.h \
+ ../../../Include/particles/PxParticleCreationData.h \
+ ../../../Include/foundation/PxStrideIterator.h \
+ ../../../Include/particles/PxParticleReadData.h \
+ ../../../Include/particles/PxParticleFlag.h \
+ ../../../Include/PxForceMode.h \
+ ../../../Include/particles/PxParticleFluid.h \
+ ../../../Include/particles/PxParticleFluidReadData.h \
+ ../../../Include/PxSceneDesc.h \
+ ../../../Include/PxSimulationEventCallback.h \
+ ../../../Include/foundation/PxTransform.h \
+ ../../../Include/foundation/PxMemory.h ../../../Include/PxContact.h \
+ ../../foundation/include/PsHashMap.h ../../foundation/include/PsPool.h \
+ ../../foundation/include/PsSort.h \
+ ../../foundation/include/PsSortInternals.h \
+ ../../foundation/include/PsAlloca.h \
+ ../../foundation/include/PsTempAllocator.h \
+ ../../Common/src/CmReaderWriterLock.h ../../foundation/include/PsMutex.h \
+ ../../Common/src/CmTask.h ../../../Include/pxtask/PxTask.h \
+ ../../../Include/pxtask/PxTaskManager.h \
+ ../../../Include/pxtask/PxTaskManager.h \
+ ../../foundation/include/PsSync.h \
+ ../../../Include/pxtask/PxCpuDispatcher.h ../../Common/src/CmFlushPool.h \
+ ../../../Include/foundation/Px.h ../../Common/src/CmPreallocatingPool.h \
+ ../../foundation/include/PsSort.h ../../Common/src/CmEventProfiler.h \
+ ../../../Include/common/PxPhysXCommonConfig.h \
+ ../../../Include/physxprofilesdk/PxProfileCompileTimeEventFilter.h \
+ ../../../Include/physxprofilesdk/PxProfileBase.h \
+ ../../../Include/physxprofilesdk/PxProfileEventId.h \
+ ../../../Include/physxprofilesdk/PxProfileScopedEvent.h \
+ ../../../Include/physxprofilesdk/PxProfileCompileTimeEventFilter.h \
+ ../../../Include/physxprofilesdk/PxProfileEventNames.h \
+ ../../../Include/physxprofilesdk/PxProfileZone.h \
+ ../../../Include/physxprofilesdk/PxProfileEventBufferClientManager.h \
+ ../../../Include/physxprofilesdk/PxProfileEventBufferClient.h \
+ ../../../Include/physxprofilesdk/PxProfileEventNames.h \
+ ../../../Include/physxprofilesdk/PxProfileEventFilter.h \
+ ../../../Include/physxprofilesdk/PxProfileEventSender.h \
+ ../../../Include/physxprofilesdk/PxProfileContextProvider.h \
+ ../../../Include/physxprofilesdk/PxProfileEventId.h \
+ ../../Common/src/CmProfileDeclareEventInfo.h \
+ ../../Common/src/CmProfileEventDefs.h \
+ ../../Common/src/CmNvToolsExtProfiler.h ../../Common/src/CmBitMap.h \
+ ../../foundation/include/PsAllocator.h \
+ ../../../Include/foundation/PxMath.h \
+ ../../SimulationController/include/ScIterators.h \
+ ../../../Include/PxContact.h ../../Common/src/CmRange.h \
+ ../../LowLevel/API/include/PxvContext.h \
+ ../../../Include/PxVisualizationParameter.h \
+ ../../LowLevel/API/include/PxvGlobals.h \
+ ../../LowLevel/API/include/PxvConfig.h \
+ ../../foundation/include/PsBasicTemplates.h \
+ ../../LowLevel/API/include/PxvSimStats.h \
+ ../../../Include/geometry/PxGeometry.h \
+ ../../LowLevel/API/include/PxsMaterialManager.h \
+ ../../LowLevel/API/include/PxsMaterialCore.h \
+ ../../../Include/PxMaterial.h ../../foundation/include/PsAlignedMalloc.h \
+ ../../PhysX/src/buffering/ScbSceneBuffer.h \
+ ../../PhysX/src/buffering/ScbType.h \
+ ../../foundation/include/PsFoundation.h \
+ ../../foundation/include/PsHashSet.h \
+ ../../../Include/pvd/PxVisualDebugger.h \
+ ../../PhysX/src/buffering/ScbDefs.h ../../../Include/PxClient.h \
+ ../../PhysX/src/GrbEvents.h ../../PhysX/src/NpScene.h \
+ ../../foundation/include/PsThread.h \
+ ../../PhysX/src/device/PhysXIndicator.h ../../PhysX/src/NpSceneQueries.h \
+ ../../../Include/PxQueryReport.h ../../SceneQuery/SqSceneQueryManager.h \
+ ../../SceneQuery/SqPruner.h ../../GeomUtils/src/common/GuBoxConversion.h \
+ ../../GeomUtils/headers/GuBox.h \
+ ../../../Include/foundation/PxTransform.h ../../Common/src/CmMatrix34.h \
+ ../../GeomUtils/src/GuGeomUtilsInternal.h \
+ ../../GeomUtils/src/GuCapsule.h ../../GeomUtils/headers/GuSegment.h \
+ ../../../Include/geometry/PxCapsuleGeometry.h \
+ ../../../Include/geometry/PxGeometry.h \
+ ../../../Include/geometry/PxBoxGeometry.h ../../Common/src/CmSPU.h \
+ ../../GeomUtils/src/common/GuSPUHelpers.h \
+ ../../GeomUtils/src/convex/GuConvexUtilsInternal.h \
+ ../../GeomUtils/src/GuGeometryUnion.h \
+ ../../../Include/geometry/PxSphereGeometry.h \
+ ../../../Include/geometry/PxPlaneGeometry.h \
+ ../../../Include/geometry/PxConvexMeshGeometry.h \
+ ../../../Include/geometry/PxMeshScale.h \
+ ../../../Include/geometry/PxTriangleMeshGeometry.h \
+ ../../../Include/geometry/PxHeightFieldGeometry.h \
+ ../../../Include/geometry/PxTriangleMeshGeometry.h \
+ ../../GeomUtils/headers/GuRaycastTests.h \
+ ../../GeomUtils/src/GuOverlapTests.h ../../GeomUtils/src/GuSweepTests.h \
+ ../../GeomUtils/src/mesh/GuInternalTriangleMesh.h \
+ ../../PhysX/src/buffering/ScbScene.h \
+ ../../PhysX/src/buffering/ScbCloth.h \
+ ../../PhysX/src/buffering/ScbActor.h \
+ ../../SimulationController/include/ScClothCore.h \
+ ../../SimulationController/include/ScActorCore.h \
+ ../../../Include/cloth/PxClothTypes.h \
+ ../../../Include/cloth/PxClothCollisionData.h \
+ ../../PhysX/src/cloth/NpClothParticleData.h \
+ ../../../Include/cloth/PxClothParticleData.h \
+ ../../PhysX/src/particles/NpParticleSystem.h \
+ ../../../Include/particles/PxParticleSystem.h \
+ ../../PhysX/src/particles/NpParticleBaseTemplate.h \
+ ../../../Include/particles/PxParticleSystem.h \
+ ../../PhysX/src/buffering/ScbParticleSystem.h \
+ ../../SimulationController/include/ScParticleSystemCore.h \
+ ../../LowLevel/API/include/PxvParticleSystemCore.h \
+ ../../LowLevel/API/include/PxvParticleSystemFlags.h \
+ ../../../Include/particles/PxParticleFlag.h \
+ ../../../Include/foundation/PxStrideIterator.h \
+ ../../PhysX/src/NpPhysics.h ../../../Include/PxPhysics.h \
+ ../../../Include/PxDeletionListener.h ../../../Include/PxShape.h \
+ ../../../Include/geometry/PxGeometryHelpers.h \
+ ../../../Include/geometry/PxGeometry.h \
+ ../../../Include/geometry/PxBoxGeometry.h \
+ ../../../Include/geometry/PxSphereGeometry.h \
+ ../../../Include/geometry/PxCapsuleGeometry.h \
+ ../../../Include/geometry/PxPlaneGeometry.h \
+ ../../../Include/geometry/PxConvexMeshGeometry.h \
+ ../../../Include/geometry/PxTriangleMeshGeometry.h \
+ ../../../Include/geometry/PxHeightFieldGeometry.h \
+ ../../../Include/physxvisualdebuggersdk/PvdConnectionManager.h \
+ ../../../Include/physxvisualdebuggersdk/PvdConnectionFlags.h \
+ ../../../Include/physxvisualdebuggersdk/PvdNetworkStreams.h \
+ ../../../Include/physxvisualdebuggersdk/PvdErrorCodes.h \
+ ../../../Include/physxvisualdebuggersdk/PvdConnection.h \
+ ../../../Include/cloth/PxClothTypes.h \
+ ../../../Include/cloth/PxClothFabric.h \
+ ../../GeomUtils/src/GuMeshFactory.h ../../PhysX/src/NpMaterial.h \
+ ../../SimulationController/include/ScMaterialCore.h \
+ ../../LowLevel/API/include/PxsMaterialCore.h \
+ ../../PhysX/src/NpPhysicsInsertionCallback.h \
+ ../../../Include/common/PxPhysicsInsertionCallback.h \
+ ../../../Include/common/PxBase.h ../../PhysX/src/NpFactory.h \
+ ../../../Include/PxShape.h \
+ ../../../Include/physxprofilesdk/PxProfileZoneManager.h \
+ ../../PhysX/src/NpMaterialManager.h \
+ ../../SimulationController/include/ScPhysics.h \
+ ../../PhysX/src/gpu/NpPhysicsGpu.h \
+ ../../PhysX/src/particles/NpParticleFluidReadData.h \
+ ../../../Include/particles/PxParticleFluidReadData.h \
+ ../../Common/src/CmIDPool.h ../../PhysX/src/NpWriteCheck.h \
+ ../../PhysX/src/NpReadCheck.h \
+ ../../LowLevel/API/include/PxsParticleData.h \
+ ../../LowLevel/API/include/PxvParticleSystemCore.h \
+ ../../LowLevel/API/include/PxsFluidParticle.h ../../PhysX/src/NpScene.h \
+ ../../PhysXGpu/include/PxParticleDeviceExclusive.h \
+ ../../../Include/foundation/PxFlags.h \
+ ../../PhysX/src/particles/NpParticleFluid.h \
+ ../../PhysX/src/particles/NpParticleSystem.h \
+ ../../PhysX/src/NpRigidStatic.h ../../PhysX/src/NpRigidActorTemplate.h \
+ ../../PhysX/src/NpActorTemplate.h ../../PhysX/src/NpShapeManager.h \
+ ../../PhysX/src/NpShape.h ../../PhysX/src/buffering/ScbShape.h \
+ ../../PhysX/src/NpMaterial.h ../../PhysX/src/buffering/ScbNpDeps.h \
+ ../../SimulationController/include/ScShapeCore.h \
+ ../../LowLevel/API/include/PxvGeometry.h \
+ ../../../Include/foundation/PxQuat.h \
+ ../../SimulationController/include/ScRigidCore.h \
+ ../../LowLevel/API/include/PxvDynamics.h \
+ ../../../Include/PxRigidDynamic.h ../../../Include/PxRigidBody.h \
+ ../../../Include/PxRigidActor.h ../../../Include/PxActor.h \
+ ../../../Include/PxForceMode.h ../../Common/src/CmPtrTable.h \
+ ../../PhysX/src/NpConstraint.h ../../../Include/PxConstraint.h \
+ ../../../Include/PxConstraintDesc.h ../../../Include/foundation/PxMath.h \
+ ../../PhysX/src/buffering/ScbConstraint.h \
+ ../../PhysX/src/buffering/../../../SimulationController/include/ScConstraintCore.h \
+ ../../../Include/PxConstraintDesc.h ../../PhysX/src/buffering/ScbBody.h \
+ ../../SimulationController/include/ScBodyCore.h \
+ ../../SimulationController/include/ScRigidCore.h \
+ ../../LowLevel/API/include/PxvConfig.h \
+ ../../PhysX/src/buffering/ScbRigidObject.h \
+ ../../PhysXGpu/include/../../SimulationController/include/ScRigidCore.h \
+ ../../PhysX/src/buffering/ScbShape.h ../../SceneQuery/SqUtilities.h \
+ ../../PhysX/src/NpActor.h ../../../Include/foundation/PxErrorCallback.h \
+ ../../../Include/PxRigidStatic.h \
+ ../../PhysX/src/buffering/ScbRigidStatic.h \
+ ../../SimulationController/include/ScStaticCore.h \
+ ../../PhysX/src/NpRigidDynamic.h ../../PhysX/src/NpRigidBodyTemplate.h \
+ ../../PhysX/src/buffering/ScbBody.h ../../GeomUtils/src/GuDebug.h \
+ ../../PhysX/src/NpPhysics.h ../../PhysX/src/NpArticulation.h \
+ ../../../Include/PxArticulation.h \
+ ../../PhysX/src/buffering/ScbArticulation.h \
+ ../../SimulationController/include/ScArticulationCore.h \
+ ../../LowLevel/API/include/PxvArticulation.h \
+ ../../../Include/PxArticulationJoint.h \
+ ../../PhysX/src/NpArticulationLink.h \
+ ../../../Include/PxArticulationLink.h \
+ ../../../Include/PxArticulationJoint.h \
+ ../../PhysX/src/NpArticulationJoint.h \
+ ../../PhysX/src/buffering/ScbArticulationJoint.h \
+ ../../SimulationController/include/ScArticulationJointCore.h \
+ ../../PhysX/src/NpAggregate.h ../../../Include/PxAggregate.h \
+ ../../PhysX/src/buffering/ScbAggregate.h \
+ ../../PhysX/src/buffering/ScbAggregate.h \
+ ../../GeomUtils/src/hf/GuHeightFieldData.h \
+ ../../../Include/common/PxSerializer.h
+ ../../PhysX/src/NpSerializerAdapter.cpp :
+ ../../GeomUtils/src/hf/GuHeightField.h :
+ ../../foundation/include/PsUserAllocated.h :
+ ../../foundation/include/PsAllocator.h :
+ ../../../Include/foundation/PxAllocatorCallback.h :
+ ../../../Include/foundation/Px.h :
+ ../../../Include/foundation/PxVersionNumber.h :
+ ../../../Include/foundation/PxSimpleTypes.h :
+ ../../../Include/foundation/PxPreprocessor.h :
+ ../../../Include/foundation/PxFoundation.h :
+ ../../../Include/foundation/PxErrors.h ../../foundation/include/Ps.h :
+ ../../foundation/include/PsAlignedMalloc.h :
+ ../../foundation/include/PsUserAllocated.h :
+ ../../foundation/include/PsFoundation.h :
+ ../../foundation/include/PsInlineArray.h :
+ ../../foundation/include/PsArray.h :
+ ../../../Include/foundation/PxAssert.h :
+ ../../foundation/include/PsUtilities.h :
+ ../../../Include/foundation/PxVec3.h :
+ ../../../Include/foundation/PxMath.h :
+ ../../../Include/foundation/PxIntrinsics.h :
+ ../../../Include/foundation/unix/PxUnixIntrinsics.h :
+ ../../foundation/include/PsIntrinsics.h :
+ ../../foundation/include/unix/PsUnixIntrinsics.h :
+ ../../foundation/include/Ps.h ../../foundation/include/PsFPU.h :
+ ../../../Include/foundation/PxUnionCast.h :
+ ../../foundation/include/unix/PsUnixFPU.h :
+ ../../foundation/include/PsVecMath.h :
+ ../../../Include/foundation/PxVec4.h :
+ ../../../Include/foundation/PxMat33.h :
+ ../../../Include/foundation/PxQuat.h ../../foundation/include/PsAoS.h :
+ ../../foundation/include/unix/PsUnixAoS.h :
+ ../../foundation/include/unix/sse2/PsUnixSse2AoS.h :
+ ../../foundation/include/PsInlineAoS.h :
+ ../../foundation/include/unix/PsUnixTrigConstants.h :
+ ../../foundation/include/unix/PsUnixInlineAoS.h :
+ ../../foundation/include/unix/sse2/PsUnixSse2InlineAoS.h :
+ ../../foundation/include/PsVecQuat.h :
+ ../../foundation/include/PsInlineAllocator.h :
+ ../../foundation/include/PsMutex.h :
+ ../../../Include/foundation/PxBroadcastingAllocator.h :
+ ../../foundation/include/PsPAEventSrc.h :
+ ../../foundation/include/PsHashMap.h :
+ ../../foundation/include/PsHashInternals.h :
+ ../../foundation/include/PsBasicTemplates.h :
+ ../../foundation/include/PsBitUtils.h ../../foundation/include/PsHash.h :
+ ../../../Include/foundation/PxMemory.h :
+ ../../foundation/include/PsErrorHandler.h :
+ ../../../Include/foundation/PxErrorCallback.h :
+ ../../Common/src/CmRefCountable.h ../../Common/src/CmPhysXCommon.h :
+ ../../foundation/include/PsAtomic.h :
+ ../../../Include/foundation/PxAssert.h :
+ ../../../Include/common/PxMetaData.h :
+ ../../../Include/common/PxMetaDataFlags.h :
+ ../../../Include/foundation/PxIO.h :
+ ../../../Include/common/PxPhysXCommonConfig.h :
+ ../../foundation/include/PsMathUtils.h :
+ ../../../Include/foundation/PxTransform.h :
+ ../../../Include/foundation/PxPlane.h :
+ ../../../Include/foundation/PxBounds3.h ../../GeomUtils/src/GuSphere.h :
+ ../../../Include/foundation/PxVec3.h ../../Common/src/CmPhysXCommon.h :
+ ../../../Include/geometry/PxHeightFieldSample.h :
+ ../../../Include/foundation/PxBitAndData.h :
+ ../../../Include/geometry/PxHeightFieldDesc.h :
+ ../../../Include/foundation/PxBounds3.h :
+ ../../../Include/geometry/PxHeightFieldFlag.h :
+ ../../../Include/foundation/PxFlags.h :
+ ../../../Include/common/PxCoreUtilityTypes.h :
+ ../../GeomUtils/src/hf/GuHeightFieldData.h :
+ ../../../Include/foundation/PxSimpleTypes.h :
+ ../../../Include/geometry/PxHeightFieldFlag.h :
+ ../../../Include/geometry/PxHeightField.h :
+ ../../../Include/common/PxBase.h :
+ ../../../Include/common/PxSerialFramework.h :
+ ../../../Include/common/PxTypeInfo.h :
+ ../../../Include/common/PxCollection.h :
+ ../../../Include/foundation/PxIO.h :
+ ../../../Include/common/PxSerialFramework.h :
+ ../../GeomUtils/src/convex/GuConvexMesh.h :
+ ../../../Include/geometry/PxConvexMesh.h :
+ ../../../Include/foundation/PxBitAndData.h :
+ ../../GeomUtils/src/convex/GuConvexMeshData.h :
+ ../../foundation/include/PsIntrinsics.h :
+ ../../../Include/foundation/PxPlane.h ../../GeomUtils/src/GuSerialize.h :
+ ../../foundation/include/PsFPU.h ../../Common/src/CmRenderOutput.h :
+ ../../Common/src/CmRenderBuffer.h :
+ ../../../Include/common/PxRenderBuffer.h :
+ ../../foundation/include/PsArray.h ../../Common/src/CmMatrix34.h :
+ ../../../Include/foundation/PxMat44.h :
+ ../../GeomUtils/src/mesh/GuTriangleMesh.h :
+ ../../GeomUtils/src/mesh/GuInternalTriangleMesh.h :
+ ../../../Include/geometry/PxSimpleTriangleMesh.h :
+ ../../../Include/geometry/PxTriangleMesh.h :
+ ../../GeomUtils/src/mesh/GuTriangleMeshData.h :
+ ../../GeomUtils/src/mesh/GuHybridModel.h :
+ ../../GeomUtils/src/mesh/GuRTree.h ../../../Include/foundation/PxVec4.h :
+ ../../GeomUtils/src/mesh/GuMeshInterface.h :
+ ../../GeomUtils/src/mesh/GuTriangle32.h ../../Common/src/CmMemFetch.h :
+ ../../../Include/foundation/PxMemory.h :
+ ../../../Include/geometry/PxTriangle.h :
+ ../../PhysX/src/cloth/NpClothFabric.h ../../../Include/PxPhysXConfig.h :
+ ../../../Include/common/PxPhysXCommonConfig.h :
+ ../../../Include/cloth/PxClothFabric.h :
+ ../../SimulationController/include/ScClothFabricCore.h :
+ ../../PhysX/src/cloth/NpCloth.h ../../../Include/cloth/PxCloth.h :
+ ../../../Include/PxActor.h ../../../Include/PxPhysXConfig.h :
+ ../../../Include/foundation/PxBounds3.h ../../../Include/PxClient.h :
+ ../../../Include/foundation/PxFlags.h ../../../Include/common/PxBase.h :
+ ../../../Include/PxLockedData.h ../../../Include/PxFiltering.h :
+ ../../../Include/cloth/PxClothFabric.h :
+ ../../../Include/cloth/PxClothTypes.h :
+ ../../../Include/cloth/PxClothCollisionData.h :
+ ../../PhysX/src/NpActorTemplate.h ../../PhysX/src/NpWriteCheck.h :
+ ../../PhysX/src/NpReadCheck.h ../../PhysX/src/NpActor.h :
+ ../../PhysX/src/NpConnector.h ../../foundation/include/PsInlineArray.h :
+ ../../Common/src/CmUtils.h ../../../Include/foundation/PxMat33.h :
+ ../../../Include/common/PxBase.h ../../PhysX/src/buffering/ScbActor.h :
+ ../../SimulationController/include/ScActorCore.h :
+ ../../foundation/include/PsUtilities.h :
+ ../../PhysX/src/buffering/ScbBase.h ../../PhysX/src/buffering/ScbScene.h :
+ ../../SimulationController/include/ScScene.h ../../../Include/PxScene.h :
+ ../../../Include/PxVisualizationParameter.h :
+ ../../../Include/PxSceneDesc.h ../../../Include/PxFiltering.h :
+ ../../../Include/PxBroadPhase.h :
+ ../../../Include/common/PxTolerancesScale.h :
+ ../../../Include/PxSimulationStatistics.h :
+ ../../../Include/geometry/PxGeometry.h ../../../Include/PxQueryReport.h :
+ ../../../Include/foundation/PxVec3.h ../../../Include/PxQueryFiltering.h :
+ ../../../Include/particles/PxParticleSystem.h :
+ ../../../Include/particles/PxParticleBase.h :
+ ../../../Include/particles/PxParticleBaseFlag.h :
+ ../../../Include/particles/PxParticleCreationData.h :
+ ../../../Include/foundation/PxStrideIterator.h :
+ ../../../Include/particles/PxParticleReadData.h :
+ ../../../Include/particles/PxParticleFlag.h :
+ ../../../Include/PxForceMode.h :
+ ../../../Include/particles/PxParticleFluid.h :
+ ../../../Include/particles/PxParticleFluidReadData.h :
+ ../../../Include/PxSceneDesc.h :
+ ../../../Include/PxSimulationEventCallback.h :
+ ../../../Include/foundation/PxTransform.h :
+ ../../../Include/foundation/PxMemory.h ../../../Include/PxContact.h :
+ ../../foundation/include/PsHashMap.h ../../foundation/include/PsPool.h :
+ ../../foundation/include/PsSort.h :
+ ../../foundation/include/PsSortInternals.h :
+ ../../foundation/include/PsAlloca.h :
+ ../../foundation/include/PsTempAllocator.h :
+ ../../Common/src/CmReaderWriterLock.h ../../foundation/include/PsMutex.h :
+ ../../Common/src/CmTask.h ../../../Include/pxtask/PxTask.h :
+ ../../../Include/pxtask/PxTaskManager.h :
+ ../../../Include/pxtask/PxTaskManager.h :
+ ../../foundation/include/PsSync.h :
+ ../../../Include/pxtask/PxCpuDispatcher.h ../../Common/src/CmFlushPool.h :
+ ../../../Include/foundation/Px.h ../../Common/src/CmPreallocatingPool.h :
+ ../../foundation/include/PsSort.h ../../Common/src/CmEventProfiler.h :
+ ../../../Include/common/PxPhysXCommonConfig.h :
+ ../../../Include/physxprofilesdk/PxProfileCompileTimeEventFilter.h :
+ ../../../Include/physxprofilesdk/PxProfileBase.h :
+ ../../../Include/physxprofilesdk/PxProfileEventId.h :
+ ../../../Include/physxprofilesdk/PxProfileScopedEvent.h :
+ ../../../Include/physxprofilesdk/PxProfileCompileTimeEventFilter.h :
+ ../../../Include/physxprofilesdk/PxProfileEventNames.h :
+ ../../../Include/physxprofilesdk/PxProfileZone.h :
+ ../../../Include/physxprofilesdk/PxProfileEventBufferClientManager.h :
+ ../../../Include/physxprofilesdk/PxProfileEventBufferClient.h :
+ ../../../Include/physxprofilesdk/PxProfileEventNames.h :
+ ../../../Include/physxprofilesdk/PxProfileEventFilter.h :
+ ../../../Include/physxprofilesdk/PxProfileEventSender.h :
+ ../../../Include/physxprofilesdk/PxProfileContextProvider.h :
+ ../../../Include/physxprofilesdk/PxProfileEventId.h :
+ ../../Common/src/CmProfileDeclareEventInfo.h :
+ ../../Common/src/CmProfileEventDefs.h :
+ ../../Common/src/CmNvToolsExtProfiler.h ../../Common/src/CmBitMap.h :
+ ../../foundation/include/PsAllocator.h :
+ ../../../Include/foundation/PxMath.h :
+ ../../SimulationController/include/ScIterators.h :
+ ../../../Include/PxContact.h ../../Common/src/CmRange.h :
+ ../../LowLevel/API/include/PxvContext.h :
+ ../../../Include/PxVisualizationParameter.h :
+ ../../LowLevel/API/include/PxvGlobals.h :
+ ../../LowLevel/API/include/PxvConfig.h :
+ ../../foundation/include/PsBasicTemplates.h :
+ ../../LowLevel/API/include/PxvSimStats.h :
+ ../../../Include/geometry/PxGeometry.h :
+ ../../LowLevel/API/include/PxsMaterialManager.h :
+ ../../LowLevel/API/include/PxsMaterialCore.h :
+ ../../../Include/PxMaterial.h ../../foundation/include/PsAlignedMalloc.h :
+ ../../PhysX/src/buffering/ScbSceneBuffer.h :
+ ../../PhysX/src/buffering/ScbType.h :
+ ../../foundation/include/PsFoundation.h :
+ ../../foundation/include/PsHashSet.h :
+ ../../../Include/pvd/PxVisualDebugger.h :
+ ../../PhysX/src/buffering/ScbDefs.h ../../../Include/PxClient.h :
+ ../../PhysX/src/GrbEvents.h ../../PhysX/src/NpScene.h :
+ ../../foundation/include/PsThread.h :
+ ../../PhysX/src/device/PhysXIndicator.h ../../PhysX/src/NpSceneQueries.h :
+ ../../../Include/PxQueryReport.h ../../SceneQuery/SqSceneQueryManager.h :
+ ../../SceneQuery/SqPruner.h ../../GeomUtils/src/common/GuBoxConversion.h :
+ ../../GeomUtils/headers/GuBox.h :
+ ../../../Include/foundation/PxTransform.h ../../Common/src/CmMatrix34.h :
+ ../../GeomUtils/src/GuGeomUtilsInternal.h :
+ ../../GeomUtils/src/GuCapsule.h ../../GeomUtils/headers/GuSegment.h :
+ ../../../Include/geometry/PxCapsuleGeometry.h :
+ ../../../Include/geometry/PxGeometry.h :
+ ../../../Include/geometry/PxBoxGeometry.h ../../Common/src/CmSPU.h :
+ ../../GeomUtils/src/common/GuSPUHelpers.h :
+ ../../GeomUtils/src/convex/GuConvexUtilsInternal.h :
+ ../../GeomUtils/src/GuGeometryUnion.h :
+ ../../../Include/geometry/PxSphereGeometry.h :
+ ../../../Include/geometry/PxPlaneGeometry.h :
+ ../../../Include/geometry/PxConvexMeshGeometry.h :
+ ../../../Include/geometry/PxMeshScale.h :
+ ../../../Include/geometry/PxTriangleMeshGeometry.h :
+ ../../../Include/geometry/PxHeightFieldGeometry.h :
+ ../../../Include/geometry/PxTriangleMeshGeometry.h :
+ ../../GeomUtils/headers/GuRaycastTests.h :
+ ../../GeomUtils/src/GuOverlapTests.h ../../GeomUtils/src/GuSweepTests.h :
+ ../../GeomUtils/src/mesh/GuInternalTriangleMesh.h :
+ ../../PhysX/src/buffering/ScbScene.h :
+ ../../PhysX/src/buffering/ScbCloth.h :
+ ../../PhysX/src/buffering/ScbActor.h :
+ ../../SimulationController/include/ScClothCore.h :
+ ../../SimulationController/include/ScActorCore.h :
+ ../../../Include/cloth/PxClothTypes.h :
+ ../../../Include/cloth/PxClothCollisionData.h :
+ ../../PhysX/src/cloth/NpClothParticleData.h :
+ ../../../Include/cloth/PxClothParticleData.h :
+ ../../PhysX/src/particles/NpParticleSystem.h :
+ ../../../Include/particles/PxParticleSystem.h :
+ ../../PhysX/src/particles/NpParticleBaseTemplate.h :
+ ../../../Include/particles/PxParticleSystem.h :
+ ../../PhysX/src/buffering/ScbParticleSystem.h :
+ ../../SimulationController/include/ScParticleSystemCore.h :
+ ../../LowLevel/API/include/PxvParticleSystemCore.h :
+ ../../LowLevel/API/include/PxvParticleSystemFlags.h :
+ ../../../Include/particles/PxParticleFlag.h :
+ ../../../Include/foundation/PxStrideIterator.h :
+ ../../PhysX/src/NpPhysics.h ../../../Include/PxPhysics.h :
+ ../../../Include/PxDeletionListener.h ../../../Include/PxShape.h :
+ ../../../Include/geometry/PxGeometryHelpers.h :
+ ../../../Include/geometry/PxGeometry.h :
+ ../../../Include/geometry/PxBoxGeometry.h :
+ ../../../Include/geometry/PxSphereGeometry.h :
+ ../../../Include/geometry/PxCapsuleGeometry.h :
+ ../../../Include/geometry/PxPlaneGeometry.h :
+ ../../../Include/geometry/PxConvexMeshGeometry.h :
+ ../../../Include/geometry/PxTriangleMeshGeometry.h :
+ ../../../Include/geometry/PxHeightFieldGeometry.h :
+ ../../../Include/physxvisualdebuggersdk/PvdConnectionManager.h :
+ ../../../Include/physxvisualdebuggersdk/PvdConnectionFlags.h :
+ ../../../Include/physxvisualdebuggersdk/PvdNetworkStreams.h :
+ ../../../Include/physxvisualdebuggersdk/PvdErrorCodes.h :
+ ../../../Include/physxvisualdebuggersdk/PvdConnection.h :
+ ../../../Include/cloth/PxClothTypes.h :
+ ../../../Include/cloth/PxClothFabric.h :
+ ../../GeomUtils/src/GuMeshFactory.h ../../PhysX/src/NpMaterial.h :
+ ../../SimulationController/include/ScMaterialCore.h :
+ ../../LowLevel/API/include/PxsMaterialCore.h :
+ ../../PhysX/src/NpPhysicsInsertionCallback.h :
+ ../../../Include/common/PxPhysicsInsertionCallback.h :
+ ../../../Include/common/PxBase.h ../../PhysX/src/NpFactory.h :
+ ../../../Include/PxShape.h :
+ ../../../Include/physxprofilesdk/PxProfileZoneManager.h :
+ ../../PhysX/src/NpMaterialManager.h :
+ ../../SimulationController/include/ScPhysics.h :
+ ../../PhysX/src/gpu/NpPhysicsGpu.h :
+ ../../PhysX/src/particles/NpParticleFluidReadData.h :
+ ../../../Include/particles/PxParticleFluidReadData.h :
+ ../../Common/src/CmIDPool.h ../../PhysX/src/NpWriteCheck.h :
+ ../../PhysX/src/NpReadCheck.h :
+ ../../LowLevel/API/include/PxsParticleData.h :
+ ../../LowLevel/API/include/PxvParticleSystemCore.h :
+ ../../LowLevel/API/include/PxsFluidParticle.h ../../PhysX/src/NpScene.h :
+ ../../PhysXGpu/include/PxParticleDeviceExclusive.h :
+ ../../../Include/foundation/PxFlags.h :
+ ../../PhysX/src/particles/NpParticleFluid.h :
+ ../../PhysX/src/particles/NpParticleSystem.h :
+ ../../PhysX/src/NpRigidStatic.h ../../PhysX/src/NpRigidActorTemplate.h :
+ ../../PhysX/src/NpActorTemplate.h ../../PhysX/src/NpShapeManager.h :
+ ../../PhysX/src/NpShape.h ../../PhysX/src/buffering/ScbShape.h :
+ ../../PhysX/src/NpMaterial.h ../../PhysX/src/buffering/ScbNpDeps.h :
+ ../../SimulationController/include/ScShapeCore.h :
+ ../../LowLevel/API/include/PxvGeometry.h :
+ ../../../Include/foundation/PxQuat.h :
+ ../../SimulationController/include/ScRigidCore.h :
+ ../../LowLevel/API/include/PxvDynamics.h :
+ ../../../Include/PxRigidDynamic.h ../../../Include/PxRigidBody.h :
+ ../../../Include/PxRigidActor.h ../../../Include/PxActor.h :
+ ../../../Include/PxForceMode.h ../../Common/src/CmPtrTable.h :
+ ../../PhysX/src/NpConstraint.h ../../../Include/PxConstraint.h :
+ ../../../Include/PxConstraintDesc.h ../../../Include/foundation/PxMath.h :
+ ../../PhysX/src/buffering/ScbConstraint.h :
+ ../../PhysX/src/buffering/../../../SimulationController/include/ScConstraintCore.h :
+ ../../../Include/PxConstraintDesc.h ../../PhysX/src/buffering/ScbBody.h :
+ ../../SimulationController/include/ScBodyCore.h :
+ ../../SimulationController/include/ScRigidCore.h :
+ ../../LowLevel/API/include/PxvConfig.h :
+ ../../PhysX/src/buffering/ScbRigidObject.h :
+ ../../PhysXGpu/include/../../SimulationController/include/ScRigidCore.h :
+ ../../PhysX/src/buffering/ScbShape.h ../../SceneQuery/SqUtilities.h :
+ ../../PhysX/src/NpActor.h ../../../Include/foundation/PxErrorCallback.h :
+ ../../../Include/PxRigidStatic.h :
+ ../../PhysX/src/buffering/ScbRigidStatic.h :
+ ../../SimulationController/include/ScStaticCore.h :
+ ../../PhysX/src/NpRigidDynamic.h ../../PhysX/src/NpRigidBodyTemplate.h :
+ ../../PhysX/src/buffering/ScbBody.h ../../GeomUtils/src/GuDebug.h :
+ ../../PhysX/src/NpPhysics.h ../../PhysX/src/NpArticulation.h :
+ ../../../Include/PxArticulation.h :
+ ../../PhysX/src/buffering/ScbArticulation.h :
+ ../../SimulationController/include/ScArticulationCore.h :
+ ../../LowLevel/API/include/PxvArticulation.h :
+ ../../../Include/PxArticulationJoint.h :
+ ../../PhysX/src/NpArticulationLink.h :
+ ../../../Include/PxArticulationLink.h :
+ ../../../Include/PxArticulationJoint.h :
+ ../../PhysX/src/NpArticulationJoint.h :
+ ../../PhysX/src/buffering/ScbArticulationJoint.h :
+ ../../SimulationController/include/ScArticulationJointCore.h :
+ ../../PhysX/src/NpAggregate.h ../../../Include/PxAggregate.h :
+ ../../PhysX/src/buffering/ScbAggregate.h :
+ ../../PhysX/src/buffering/ScbAggregate.h :
+ ../../GeomUtils/src/hf/GuHeightFieldData.h :
+ ../../../Include/common/PxSerializer.h :

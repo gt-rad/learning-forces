@@ -1,0 +1,5 @@
+build/SampleRenderer-MT_release/SampleFramework/renderer/src/RendererTarget.cpp.o: \
+ ../../SampleFramework/renderer/src/RendererTarget.cpp \
+ ../../SampleFramework/renderer/include/RendererTarget.h
+ ../../SampleFramework/renderer/src/RendererTarget.cpp :
+ ../../SampleFramework/renderer/include/RendererTarget.h :

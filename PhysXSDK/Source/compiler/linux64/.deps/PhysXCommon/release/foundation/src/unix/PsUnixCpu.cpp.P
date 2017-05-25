@@ -1,0 +1,11 @@
+build/PhysXCommon_release/foundation/src/unix/PsUnixCpu.cpp.o: \
+ ../../foundation/src/unix/PsUnixCpu.cpp ../../foundation/include/PsCpu.h \
+ ../../foundation/include/Ps.h ../../../Include/foundation/Px.h \
+ ../../../Include/foundation/PxVersionNumber.h \
+ ../../../Include/foundation/PxSimpleTypes.h \
+ ../../../Include/foundation/PxPreprocessor.h
+ ../../foundation/src/unix/PsUnixCpu.cpp ../../foundation/include/PsCpu.h :
+ ../../foundation/include/Ps.h ../../../Include/foundation/Px.h :
+ ../../../Include/foundation/PxVersionNumber.h :
+ ../../../Include/foundation/PxSimpleTypes.h :
+ ../../../Include/foundation/PxPreprocessor.h :

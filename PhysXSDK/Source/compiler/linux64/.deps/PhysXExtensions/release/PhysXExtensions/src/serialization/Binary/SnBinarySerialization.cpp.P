@@ -1,0 +1,183 @@
+build/PhysXExtensions_release/PhysXExtensions/src/serialization/Binary/SnBinarySerialization.cpp.o: \
+ ../../PhysXExtensions/src/serialization/Binary/SnBinarySerialization.cpp \
+ ../../foundation/include/PsHash.h ../../foundation/include/Ps.h \
+ ../../../Include/foundation/Px.h \
+ ../../../Include/foundation/PxVersionNumber.h \
+ ../../../Include/foundation/PxSimpleTypes.h \
+ ../../../Include/foundation/PxPreprocessor.h \
+ ../../foundation/include/PsBasicTemplates.h \
+ ../../foundation/include/PsHashMap.h \
+ ../../foundation/include/PsHashInternals.h \
+ ../../foundation/include/PsArray.h \
+ ../../../Include/foundation/PxAssert.h \
+ ../../foundation/include/PsAllocator.h \
+ ../../../Include/foundation/PxAllocatorCallback.h \
+ ../../../Include/foundation/PxFoundation.h \
+ ../../../Include/foundation/PxErrors.h \
+ ../../foundation/include/PsUtilities.h \
+ ../../../Include/foundation/PxVec3.h \
+ ../../../Include/foundation/PxMath.h \
+ ../../../Include/foundation/PxIntrinsics.h \
+ ../../../Include/foundation/unix/PxUnixIntrinsics.h \
+ ../../foundation/include/PsIntrinsics.h \
+ ../../foundation/include/unix/PsUnixIntrinsics.h \
+ ../../foundation/include/Ps.h ../../foundation/include/PsFPU.h \
+ ../../../Include/foundation/PxUnionCast.h \
+ ../../foundation/include/unix/PsUnixFPU.h \
+ ../../foundation/include/PsVecMath.h \
+ ../../../Include/foundation/PxVec4.h \
+ ../../../Include/foundation/PxMat33.h \
+ ../../../Include/foundation/PxQuat.h ../../foundation/include/PsAoS.h \
+ ../../foundation/include/unix/PsUnixAoS.h \
+ ../../foundation/include/unix/sse2/PsUnixSse2AoS.h \
+ ../../foundation/include/PsInlineAoS.h \
+ ../../foundation/include/unix/PsUnixTrigConstants.h \
+ ../../foundation/include/unix/PsUnixInlineAoS.h \
+ ../../foundation/include/unix/sse2/PsUnixSse2InlineAoS.h \
+ ../../foundation/include/PsVecQuat.h \
+ ../../foundation/include/PsBitUtils.h ../../foundation/include/PsHash.h \
+ ../../../Include/foundation/PxMemory.h ../../Common/src/CmIO.h \
+ ../../../Include/foundation/PxIO.h \
+ ../../../Include/common/PxPhysXCommonConfig.h \
+ ../../../Include/foundation/PxMemory.h ../../Common/src/CmPhysXCommon.h \
+ ../../../Include/foundation/PxAssert.h \
+ ../../../Include/common/PxSerialFramework.h \
+ ../../../Include/common/PxTypeInfo.h \
+ ../../../Include/foundation/PxFlags.h ../../Common/src/CmUtils.h \
+ ../../../Include/foundation/PxVec3.h \
+ ../../../Include/foundation/PxMat33.h ../../../Include/common/PxBase.h \
+ ../../../Include/common/PxSerialFramework.h \
+ ../../../Include/common/PxCollection.h \
+ ../../foundation/include/PsUserAllocated.h \
+ ../../foundation/include/PsAlignedMalloc.h \
+ ../../foundation/include/PsUserAllocated.h \
+ ../../foundation/include/PsFoundation.h \
+ ../../foundation/include/PsInlineArray.h \
+ ../../foundation/include/PsInlineAllocator.h \
+ ../../foundation/include/PsMutex.h \
+ ../../../Include/foundation/PxBroadcastingAllocator.h \
+ ../../foundation/include/PsPAEventSrc.h \
+ ../../foundation/include/PsHashMap.h \
+ ../../foundation/include/PsErrorHandler.h \
+ ../../../Include/foundation/PxErrorCallback.h \
+ ../../foundation/include/PsFile.h \
+ ../../foundation/include/unix/PsUnixFile.h \
+ ../../foundation/include/PsString.h \
+ ../../foundation/include/unix/PsUnixString.h \
+ ../../foundation/include/PsIntrinsics.h \
+ ../../../Include/extensions/PxSerialization.h \
+ ../../../Include/PxPhysXConfig.h \
+ ../../../Include/common/PxPhysXCommonConfig.h \
+ ../../../Include/common/PxBase.h ../../../Include/cooking/PxCooking.h \
+ ../../../Include/common/PxTolerancesScale.h \
+ ../../../Include/cooking/Pxc.h \
+ ../../../Include/cooking/PxConvexMeshDesc.h \
+ ../../../Include/common/PxCoreUtilityTypes.h \
+ ../../../Include/geometry/PxConvexMesh.h \
+ ../../../Include/cooking/PxTriangleMeshDesc.h \
+ ../../../Include/geometry/PxSimpleTriangleMesh.h \
+ ../../../Include/foundation/PxIO.h \
+ ../../../Include/common/PxStringTable.h \
+ ../../PhysXExtensions/src/serialization/Binary/SnSerializationContext.h \
+ ../../Common/src/CmPhysXCommon.h ../../Common/src/CmCollection.h \
+ ../../../Include/common/PxCollection.h \
+ ../../foundation/include/PsHashSet.h ../../Common/src/CmUtils.h \
+ ../../../Include/extensions/PxDefaultStreams.h \
+ ../../../Include/common/PxSerializer.h \
+ ../../PhysXExtensions/src/serialization/SnSerialUtils.h \
+ ../../PhysXExtensions/src/serialization/SnSerializationRegistry.h \
+ ../../../Include/extensions/PxSerialization.h \
+ ../../../Include/extensions/PxRepXSerializer.h \
+ ../../../Include/extensions/PxRepXSimpleType.h \
+ ../../../Include/common/PxSerialFramework.h
+ ../../PhysXExtensions/src/serialization/Binary/SnBinarySerialization.cpp :
+ ../../foundation/include/PsHash.h ../../foundation/include/Ps.h :
+ ../../../Include/foundation/Px.h :
+ ../../../Include/foundation/PxVersionNumber.h :
+ ../../../Include/foundation/PxSimpleTypes.h :
+ ../../../Include/foundation/PxPreprocessor.h :
+ ../../foundation/include/PsBasicTemplates.h :
+ ../../foundation/include/PsHashMap.h :
+ ../../foundation/include/PsHashInternals.h :
+ ../../foundation/include/PsArray.h :
+ ../../../Include/foundation/PxAssert.h :
+ ../../foundation/include/PsAllocator.h :
+ ../../../Include/foundation/PxAllocatorCallback.h :
+ ../../../Include/foundation/PxFoundation.h :
+ ../../../Include/foundation/PxErrors.h :
+ ../../foundation/include/PsUtilities.h :
+ ../../../Include/foundation/PxVec3.h :
+ ../../../Include/foundation/PxMath.h :
+ ../../../Include/foundation/PxIntrinsics.h :
+ ../../../Include/foundation/unix/PxUnixIntrinsics.h :
+ ../../foundation/include/PsIntrinsics.h :
+ ../../foundation/include/unix/PsUnixIntrinsics.h :
+ ../../foundation/include/Ps.h ../../foundation/include/PsFPU.h :
+ ../../../Include/foundation/PxUnionCast.h :
+ ../../foundation/include/unix/PsUnixFPU.h :
+ ../../foundation/include/PsVecMath.h :
+ ../../../Include/foundation/PxVec4.h :
+ ../../../Include/foundation/PxMat33.h :
+ ../../../Include/foundation/PxQuat.h ../../foundation/include/PsAoS.h :
+ ../../foundation/include/unix/PsUnixAoS.h :
+ ../../foundation/include/unix/sse2/PsUnixSse2AoS.h :
+ ../../foundation/include/PsInlineAoS.h :
+ ../../foundation/include/unix/PsUnixTrigConstants.h :
+ ../../foundation/include/unix/PsUnixInlineAoS.h :
+ ../../foundation/include/unix/sse2/PsUnixSse2InlineAoS.h :
+ ../../foundation/include/PsVecQuat.h :
+ ../../foundation/include/PsBitUtils.h ../../foundation/include/PsHash.h :
+ ../../../Include/foundation/PxMemory.h ../../Common/src/CmIO.h :
+ ../../../Include/foundation/PxIO.h :
+ ../../../Include/common/PxPhysXCommonConfig.h :
+ ../../../Include/foundation/PxMemory.h ../../Common/src/CmPhysXCommon.h :
+ ../../../Include/foundation/PxAssert.h :
+ ../../../Include/common/PxSerialFramework.h :
+ ../../../Include/common/PxTypeInfo.h :
+ ../../../Include/foundation/PxFlags.h ../../Common/src/CmUtils.h :
+ ../../../Include/foundation/PxVec3.h :
+ ../../../Include/foundation/PxMat33.h ../../../Include/common/PxBase.h :
+ ../../../Include/common/PxSerialFramework.h :
+ ../../../Include/common/PxCollection.h :
+ ../../foundation/include/PsUserAllocated.h :
+ ../../foundation/include/PsAlignedMalloc.h :
+ ../../foundation/include/PsUserAllocated.h :
+ ../../foundation/include/PsFoundation.h :
+ ../../foundation/include/PsInlineArray.h :
+ ../../foundation/include/PsInlineAllocator.h :
+ ../../foundation/include/PsMutex.h :
+ ../../../Include/foundation/PxBroadcastingAllocator.h :
+ ../../foundation/include/PsPAEventSrc.h :
+ ../../foundation/include/PsHashMap.h :
+ ../../foundation/include/PsErrorHandler.h :
+ ../../../Include/foundation/PxErrorCallback.h :
+ ../../foundation/include/PsFile.h :
+ ../../foundation/include/unix/PsUnixFile.h :
+ ../../foundation/include/PsString.h :
+ ../../foundation/include/unix/PsUnixString.h :
+ ../../foundation/include/PsIntrinsics.h :
+ ../../../Include/extensions/PxSerialization.h :
+ ../../../Include/PxPhysXConfig.h :
+ ../../../Include/common/PxPhysXCommonConfig.h :
+ ../../../Include/common/PxBase.h ../../../Include/cooking/PxCooking.h :
+ ../../../Include/common/PxTolerancesScale.h :
+ ../../../Include/cooking/Pxc.h :
+ ../../../Include/cooking/PxConvexMeshDesc.h :
+ ../../../Include/common/PxCoreUtilityTypes.h :
+ ../../../Include/geometry/PxConvexMesh.h :
+ ../../../Include/cooking/PxTriangleMeshDesc.h :
+ ../../../Include/geometry/PxSimpleTriangleMesh.h :
+ ../../../Include/foundation/PxIO.h :
+ ../../../Include/common/PxStringTable.h :
+ ../../PhysXExtensions/src/serialization/Binary/SnSerializationContext.h :
+ ../../Common/src/CmPhysXCommon.h ../../Common/src/CmCollection.h :
+ ../../../Include/common/PxCollection.h :
+ ../../foundation/include/PsHashSet.h ../../Common/src/CmUtils.h :
+ ../../../Include/extensions/PxDefaultStreams.h :
+ ../../../Include/common/PxSerializer.h :
+ ../../PhysXExtensions/src/serialization/SnSerialUtils.h :
+ ../../PhysXExtensions/src/serialization/SnSerializationRegistry.h :
+ ../../../Include/extensions/PxSerialization.h :
+ ../../../Include/extensions/PxRepXSerializer.h :
+ ../../../Include/extensions/PxRepXSimpleType.h :
+ ../../../Include/common/PxSerialFramework.h :

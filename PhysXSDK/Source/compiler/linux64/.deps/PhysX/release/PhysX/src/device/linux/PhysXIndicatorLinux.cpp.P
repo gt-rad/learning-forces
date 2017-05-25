@@ -1,0 +1,9 @@
+build/PhysX_release/PhysX/src/device/linux/PhysXIndicatorLinux.cpp.o: \
+ ../../PhysX/src/device/linux/PhysXIndicatorLinux.cpp \
+ ../../PhysX/src/device/PhysXIndicator.h \
+ ../../../Include/foundation/PxPreprocessor.h \
+ ../../PhysX/src/device/nvPhysXtoDrv.h
+ ../../PhysX/src/device/linux/PhysXIndicatorLinux.cpp :
+ ../../PhysX/src/device/PhysXIndicator.h :
+ ../../../Include/foundation/PxPreprocessor.h :
+ ../../PhysX/src/device/nvPhysXtoDrv.h :

@@ -1,0 +1,267 @@
+build/LowLevel_release/LowLevel/common/src/pipeline/PxcMaterialHeightField.cpp.o: \
+ ../../LowLevel/common/src/pipeline/PxcMaterialHeightField.cpp \
+ ../../../Include/geometry/PxTriangleMesh.h \
+ ../../../Include/foundation/PxVec3.h \
+ ../../../Include/foundation/PxMath.h \
+ ../../../Include/foundation/PxPreprocessor.h \
+ ../../../Include/foundation/PxIntrinsics.h \
+ ../../../Include/foundation/unix/PxUnixIntrinsics.h \
+ ../../../Include/foundation/Px.h \
+ ../../../Include/foundation/PxVersionNumber.h \
+ ../../../Include/foundation/PxSimpleTypes.h \
+ ../../../Include/foundation/PxAssert.h \
+ ../../../Include/foundation/PxBounds3.h \
+ ../../../Include/foundation/PxTransform.h \
+ ../../../Include/foundation/PxQuat.h \
+ ../../../Include/foundation/PxPlane.h \
+ ../../../Include/foundation/PxMat33.h \
+ ../../../Include/common/PxPhysXCommonConfig.h \
+ ../../../Include/common/PxBase.h \
+ ../../../Include/common/PxSerialFramework.h \
+ ../../../Include/common/PxTypeInfo.h \
+ ../../../Include/foundation/PxFlags.h \
+ ../../../Include/common/PxCollection.h \
+ ../../LowLevel/API/include/PxvGeometry.h \
+ ../../../Include/foundation/PxVec3.h \
+ ../../../Include/foundation/PxQuat.h \
+ ../../../Include/foundation/PxTransform.h \
+ ../../../Include/geometry/PxGeometry.h \
+ ../../../Include/geometry/PxConvexMeshGeometry.h \
+ ../../../Include/geometry/PxGeometry.h \
+ ../../../Include/geometry/PxMeshScale.h \
+ ../../../Include/geometry/PxTriangleMeshGeometry.h \
+ ../../../Include/common/PxCoreUtilityTypes.h \
+ ../../../Include/geometry/PxHeightFieldGeometry.h \
+ ../../../Include/geometry/PxTriangleMeshGeometry.h \
+ ../../LowLevel/API/include/PxvConfig.h ../../Common/src/CmPhysXCommon.h \
+ ../../foundation/include/Ps.h ../../../Include/PxPhysXConfig.h \
+ ../../../Include/common/PxPhysXCommonConfig.h \
+ ../../GeomUtils/src/GuGeometryUnion.h \
+ ../../../Include/geometry/PxBoxGeometry.h \
+ ../../../Include/geometry/PxSphereGeometry.h \
+ ../../../Include/geometry/PxCapsuleGeometry.h \
+ ../../../Include/geometry/PxPlaneGeometry.h \
+ ../../foundation/include/PsAllocator.h \
+ ../../../Include/foundation/PxAllocatorCallback.h \
+ ../../../Include/foundation/PxFoundation.h \
+ ../../../Include/foundation/PxErrors.h ../../foundation/include/Ps.h \
+ ../../../Include/foundation/PxBounds3.h \
+ ../../LowLevel/API/include/PxsMaterialManager.h \
+ ../../LowLevel/API/include/PxsMaterialCore.h \
+ ../../../Include/PxMaterial.h ../../../Include/PxPhysXConfig.h \
+ ../../../Include/common/PxBase.h \
+ ../../foundation/include/PsUserAllocated.h \
+ ../../foundation/include/PsAllocator.h \
+ ../../foundation/include/PsAlignedMalloc.h \
+ ../../foundation/include/PsUserAllocated.h \
+ ../../foundation/include/PsFoundation.h \
+ ../../foundation/include/PsInlineArray.h \
+ ../../foundation/include/PsArray.h \
+ ../../foundation/include/PsUtilities.h \
+ ../../foundation/include/PsIntrinsics.h \
+ ../../foundation/include/unix/PsUnixIntrinsics.h \
+ ../../foundation/include/PsFPU.h \
+ ../../../Include/foundation/PxUnionCast.h \
+ ../../foundation/include/unix/PsUnixFPU.h \
+ ../../foundation/include/PsVecMath.h \
+ ../../../Include/foundation/PxVec4.h ../../foundation/include/PsAoS.h \
+ ../../foundation/include/unix/PsUnixAoS.h \
+ ../../foundation/include/unix/sse2/PsUnixSse2AoS.h \
+ ../../foundation/include/PsInlineAoS.h \
+ ../../foundation/include/unix/PsUnixTrigConstants.h \
+ ../../foundation/include/unix/PsUnixInlineAoS.h \
+ ../../foundation/include/unix/sse2/PsUnixSse2InlineAoS.h \
+ ../../foundation/include/PsVecQuat.h \
+ ../../foundation/include/PsInlineAllocator.h \
+ ../../foundation/include/PsMutex.h \
+ ../../../Include/foundation/PxBroadcastingAllocator.h \
+ ../../foundation/include/PsPAEventSrc.h \
+ ../../foundation/include/PsHashMap.h \
+ ../../foundation/include/PsHashInternals.h \
+ ../../foundation/include/PsBasicTemplates.h \
+ ../../foundation/include/PsBitUtils.h ../../foundation/include/PsHash.h \
+ ../../../Include/foundation/PxMemory.h \
+ ../../foundation/include/PsErrorHandler.h \
+ ../../../Include/foundation/PxErrorCallback.h \
+ ../../../Include/common/PxMetaData.h \
+ ../../../Include/common/PxMetaDataFlags.h \
+ ../../../Include/foundation/PxIO.h \
+ ../../foundation/include/PsAlignedMalloc.h \
+ ../../LowLevel/common/include/pipeline/PxcNpThreadContext.h \
+ ../../../Include/PxSceneDesc.h ../../../Include/foundation/PxFlags.h \
+ ../../../Include/foundation/PxBounds3.h ../../../Include/PxFiltering.h \
+ ../../../Include/PxBroadPhase.h \
+ ../../../Include/common/PxTolerancesScale.h \
+ ../../LowLevel/API/include/PxvConfig.h ../../Common/src/CmScaling.h \
+ ../../Common/src/CmMatrix34.h ../../Common/src/CmPhysXCommon.h \
+ ../../foundation/include/PsMathUtils.h ../../Common/src/CmRenderOutput.h \
+ ../../Common/src/CmRenderBuffer.h \
+ ../../../Include/common/PxRenderBuffer.h \
+ ../../foundation/include/PsArray.h ../../../Include/foundation/PxMat44.h \
+ ../../LowLevel/common/include/pipeline/PxcCorrelationBuffer.h \
+ ../../../Include/foundation/PxSimpleTypes.h \
+ ../../LowLevel/common/include/pipeline/PxcFrictionPatch.h \
+ ../../GeomUtils/src/contact/GuContactBuffer.h \
+ ../../../Include/PxContact.h ../../../Include/foundation/PxVec3.h \
+ ../../GeomUtils/src/contact/GuContactPoint.h \
+ ../../LowLevel/common/include/pipeline/PxcFrictionPatchStreamPair.h \
+ ../../foundation/include/PsMutex.h \
+ ../../LowLevel/common/include/pipeline/PxcNpMemBlockPool.h \
+ ../../../Include/foundation/PxAssert.h \
+ ../../LowLevel/common/include/utils/PxcScratchAllocator.h \
+ ../../LowLevel/common/include/pipeline/PxcCCDStateStreamPair.h \
+ ../../LowLevel/common/include/pipeline/PxcNpCacheStreamPair.h \
+ ../../LowLevel/common/include/pipeline/PxcConstraintBlockStream.h \
+ ../../LowLevel/common/include/pipeline/PxcNpCCDState.h \
+ ../../LowLevel/API/include/PxvContext.h \
+ ../../../Include/PxVisualizationParameter.h \
+ ../../LowLevel/API/include/PxvGlobals.h \
+ ../../foundation/include/PsBasicTemplates.h \
+ ../../LowLevel/API/include/PxvSimStats.h \
+ ../../../Include/foundation/PxMemory.h ../../../Include/pxtask/PxTask.h \
+ ../../../Include/pxtask/PxTaskManager.h \
+ ../../GeomUtils/src/hf/GuHeightField.h ../../Common/src/CmRefCountable.h \
+ ../../foundation/include/PsAtomic.h ../../GeomUtils/src/GuSphere.h \
+ ../../../Include/geometry/PxHeightFieldSample.h \
+ ../../../Include/foundation/PxBitAndData.h \
+ ../../../Include/geometry/PxHeightFieldDesc.h \
+ ../../../Include/geometry/PxHeightFieldFlag.h \
+ ../../GeomUtils/src/hf/GuHeightFieldData.h \
+ ../../../Include/geometry/PxHeightFieldFlag.h \
+ ../../../Include/geometry/PxHeightField.h \
+ ../../../Include/foundation/PxIO.h \
+ ../../../Include/common/PxSerialFramework.h \
+ ../../Common/src/CmMemFetch.h
+ ../../LowLevel/common/src/pipeline/PxcMaterialHeightField.cpp :
+ ../../../Include/geometry/PxTriangleMesh.h :
+ ../../../Include/foundation/PxVec3.h :
+ ../../../Include/foundation/PxMath.h :
+ ../../../Include/foundation/PxPreprocessor.h :
+ ../../../Include/foundation/PxIntrinsics.h :
+ ../../../Include/foundation/unix/PxUnixIntrinsics.h :
+ ../../../Include/foundation/Px.h :
+ ../../../Include/foundation/PxVersionNumber.h :
+ ../../../Include/foundation/PxSimpleTypes.h :
+ ../../../Include/foundation/PxAssert.h :
+ ../../../Include/foundation/PxBounds3.h :
+ ../../../Include/foundation/PxTransform.h :
+ ../../../Include/foundation/PxQuat.h :
+ ../../../Include/foundation/PxPlane.h :
+ ../../../Include/foundation/PxMat33.h :
+ ../../../Include/common/PxPhysXCommonConfig.h :
+ ../../../Include/common/PxBase.h :
+ ../../../Include/common/PxSerialFramework.h :
+ ../../../Include/common/PxTypeInfo.h :
+ ../../../Include/foundation/PxFlags.h :
+ ../../../Include/common/PxCollection.h :
+ ../../LowLevel/API/include/PxvGeometry.h :
+ ../../../Include/foundation/PxVec3.h :
+ ../../../Include/foundation/PxQuat.h :
+ ../../../Include/foundation/PxTransform.h :
+ ../../../Include/geometry/PxGeometry.h :
+ ../../../Include/geometry/PxConvexMeshGeometry.h :
+ ../../../Include/geometry/PxGeometry.h :
+ ../../../Include/geometry/PxMeshScale.h :
+ ../../../Include/geometry/PxTriangleMeshGeometry.h :
+ ../../../Include/common/PxCoreUtilityTypes.h :
+ ../../../Include/geometry/PxHeightFieldGeometry.h :
+ ../../../Include/geometry/PxTriangleMeshGeometry.h :
+ ../../LowLevel/API/include/PxvConfig.h ../../Common/src/CmPhysXCommon.h :
+ ../../foundation/include/Ps.h ../../../Include/PxPhysXConfig.h :
+ ../../../Include/common/PxPhysXCommonConfig.h :
+ ../../GeomUtils/src/GuGeometryUnion.h :
+ ../../../Include/geometry/PxBoxGeometry.h :
+ ../../../Include/geometry/PxSphereGeometry.h :
+ ../../../Include/geometry/PxCapsuleGeometry.h :
+ ../../../Include/geometry/PxPlaneGeometry.h :
+ ../../foundation/include/PsAllocator.h :
+ ../../../Include/foundation/PxAllocatorCallback.h :
+ ../../../Include/foundation/PxFoundation.h :
+ ../../../Include/foundation/PxErrors.h ../../foundation/include/Ps.h :
+ ../../../Include/foundation/PxBounds3.h :
+ ../../LowLevel/API/include/PxsMaterialManager.h :
+ ../../LowLevel/API/include/PxsMaterialCore.h :
+ ../../../Include/PxMaterial.h ../../../Include/PxPhysXConfig.h :
+ ../../../Include/common/PxBase.h :
+ ../../foundation/include/PsUserAllocated.h :
+ ../../foundation/include/PsAllocator.h :
+ ../../foundation/include/PsAlignedMalloc.h :
+ ../../foundation/include/PsUserAllocated.h :
+ ../../foundation/include/PsFoundation.h :
+ ../../foundation/include/PsInlineArray.h :
+ ../../foundation/include/PsArray.h :
+ ../../foundation/include/PsUtilities.h :
+ ../../foundation/include/PsIntrinsics.h :
+ ../../foundation/include/unix/PsUnixIntrinsics.h :
+ ../../foundation/include/PsFPU.h :
+ ../../../Include/foundation/PxUnionCast.h :
+ ../../foundation/include/unix/PsUnixFPU.h :
+ ../../foundation/include/PsVecMath.h :
+ ../../../Include/foundation/PxVec4.h ../../foundation/include/PsAoS.h :
+ ../../foundation/include/unix/PsUnixAoS.h :
+ ../../foundation/include/unix/sse2/PsUnixSse2AoS.h :
+ ../../foundation/include/PsInlineAoS.h :
+ ../../foundation/include/unix/PsUnixTrigConstants.h :
+ ../../foundation/include/unix/PsUnixInlineAoS.h :
+ ../../foundation/include/unix/sse2/PsUnixSse2InlineAoS.h :
+ ../../foundation/include/PsVecQuat.h :
+ ../../foundation/include/PsInlineAllocator.h :
+ ../../foundation/include/PsMutex.h :
+ ../../../Include/foundation/PxBroadcastingAllocator.h :
+ ../../foundation/include/PsPAEventSrc.h :
+ ../../foundation/include/PsHashMap.h :
+ ../../foundation/include/PsHashInternals.h :
+ ../../foundation/include/PsBasicTemplates.h :
+ ../../foundation/include/PsBitUtils.h ../../foundation/include/PsHash.h :
+ ../../../Include/foundation/PxMemory.h :
+ ../../foundation/include/PsErrorHandler.h :
+ ../../../Include/foundation/PxErrorCallback.h :
+ ../../../Include/common/PxMetaData.h :
+ ../../../Include/common/PxMetaDataFlags.h :
+ ../../../Include/foundation/PxIO.h :
+ ../../foundation/include/PsAlignedMalloc.h :
+ ../../LowLevel/common/include/pipeline/PxcNpThreadContext.h :
+ ../../../Include/PxSceneDesc.h ../../../Include/foundation/PxFlags.h :
+ ../../../Include/foundation/PxBounds3.h ../../../Include/PxFiltering.h :
+ ../../../Include/PxBroadPhase.h :
+ ../../../Include/common/PxTolerancesScale.h :
+ ../../LowLevel/API/include/PxvConfig.h ../../Common/src/CmScaling.h :
+ ../../Common/src/CmMatrix34.h ../../Common/src/CmPhysXCommon.h :
+ ../../foundation/include/PsMathUtils.h ../../Common/src/CmRenderOutput.h :
+ ../../Common/src/CmRenderBuffer.h :
+ ../../../Include/common/PxRenderBuffer.h :
+ ../../foundation/include/PsArray.h ../../../Include/foundation/PxMat44.h :
+ ../../LowLevel/common/include/pipeline/PxcCorrelationBuffer.h :
+ ../../../Include/foundation/PxSimpleTypes.h :
+ ../../LowLevel/common/include/pipeline/PxcFrictionPatch.h :
+ ../../GeomUtils/src/contact/GuContactBuffer.h :
+ ../../../Include/PxContact.h ../../../Include/foundation/PxVec3.h :
+ ../../GeomUtils/src/contact/GuContactPoint.h :
+ ../../LowLevel/common/include/pipeline/PxcFrictionPatchStreamPair.h :
+ ../../foundation/include/PsMutex.h :
+ ../../LowLevel/common/include/pipeline/PxcNpMemBlockPool.h :
+ ../../../Include/foundation/PxAssert.h :
+ ../../LowLevel/common/include/utils/PxcScratchAllocator.h :
+ ../../LowLevel/common/include/pipeline/PxcCCDStateStreamPair.h :
+ ../../LowLevel/common/include/pipeline/PxcNpCacheStreamPair.h :
+ ../../LowLevel/common/include/pipeline/PxcConstraintBlockStream.h :
+ ../../LowLevel/common/include/pipeline/PxcNpCCDState.h :
+ ../../LowLevel/API/include/PxvContext.h :
+ ../../../Include/PxVisualizationParameter.h :
+ ../../LowLevel/API/include/PxvGlobals.h :
+ ../../foundation/include/PsBasicTemplates.h :
+ ../../LowLevel/API/include/PxvSimStats.h :
+ ../../../Include/foundation/PxMemory.h ../../../Include/pxtask/PxTask.h :
+ ../../../Include/pxtask/PxTaskManager.h :
+ ../../GeomUtils/src/hf/GuHeightField.h ../../Common/src/CmRefCountable.h :
+ ../../foundation/include/PsAtomic.h ../../GeomUtils/src/GuSphere.h :
+ ../../../Include/geometry/PxHeightFieldSample.h :
+ ../../../Include/foundation/PxBitAndData.h :
+ ../../../Include/geometry/PxHeightFieldDesc.h :
+ ../../../Include/geometry/PxHeightFieldFlag.h :
+ ../../GeomUtils/src/hf/GuHeightFieldData.h :
+ ../../../Include/geometry/PxHeightFieldFlag.h :
+ ../../../Include/geometry/PxHeightField.h :
+ ../../../Include/foundation/PxIO.h :
+ ../../../Include/common/PxSerialFramework.h :
+ ../../Common/src/CmMemFetch.h :
